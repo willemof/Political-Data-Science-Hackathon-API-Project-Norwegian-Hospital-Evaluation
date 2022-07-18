@@ -1,0 +1,85 @@
+QualityIndicatorName,QualityIndicatorId,LocationId,LocationParentId,ParentName,LocationName,OrgNumber,Value,PeriodType,MeasureName,MeasureType,TimeFrom,TimeTo
+Antall tannleger per 10.000 innbyggere,265,388,0,,Norge,9999,7.9,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2015-01-01T00:00:00,2015-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,388,0,,Norge,9999,8,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2016-01-01T00:00:00,2016-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,388,0,,Norge,9999,8,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2017-01-01T00:00:00,2017-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,388,0,,Norge,9999,8,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2018-01-01T00:00:00,2018-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,388,0,,Norge,9999,8,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2019-01-01T00:00:00,2019-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1748,388,Norge,Troms og Finnmark,542020,9.6,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2020-01-01T00:00:00,2020-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1747,388,Norge,Trøndelag,502020,7.7,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2020-01-01T00:00:00,2020-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1740,388,Norge,Møre og Romsdal,152020,8.2,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2020-01-01T00:00:00,2020-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1746,388,Norge,Vestland,462020,7.9,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2020-01-01T00:00:00,2020-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1739,388,Norge,Rogaland,112020,7.6,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2020-01-01T00:00:00,2020-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,388,0,,Norge,9999,8,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2020-01-01T00:00:00,2020-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1745,388,Norge,Agder,422020,7.7,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2020-01-01T00:00:00,2020-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1744,388,Norge,Vestfold og Telemark,382020,8.4,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2020-01-01T00:00:00,2020-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1743,388,Norge,Innlandet,342020,7,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2020-01-01T00:00:00,2020-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1741,388,Norge,Nordland,182020,8.4,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2020-01-01T00:00:00,2020-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1738,388,Norge,"Oslo, fylke",32020,9.3,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2020-01-01T00:00:00,2020-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1742,388,Norge,Viken,302020,7.4,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2020-01-01T00:00:00,2020-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1742,388,Norge,Viken,302020,7.4,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2017-01-01T00:00:00,2017-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1738,388,Norge,"Oslo, fylke",32020,8.9,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2017-01-01T00:00:00,2017-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1743,388,Norge,Innlandet,342020,7.5,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2017-01-01T00:00:00,2017-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1746,388,Norge,Vestland,462020,8.1,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2018-01-01T00:00:00,2018-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1745,388,Norge,Agder,422020,7.6,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2017-01-01T00:00:00,2017-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1739,388,Norge,Rogaland,112020,7.8,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2017-01-01T00:00:00,2017-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1746,388,Norge,Vestland,462020,8,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2017-01-01T00:00:00,2017-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1740,388,Norge,Møre og Romsdal,152020,8.1,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2017-01-01T00:00:00,2017-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1747,388,Norge,Trøndelag,502020,7.2,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2017-01-01T00:00:00,2017-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1741,388,Norge,Nordland,182020,8.9,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2017-01-01T00:00:00,2017-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1748,388,Norge,Troms og Finnmark,542020,9.7,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2017-01-01T00:00:00,2017-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1744,388,Norge,Vestfold og Telemark,382020,8.4,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2017-01-01T00:00:00,2017-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1748,388,Norge,Troms og Finnmark,542020,9.8,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2015-01-01T00:00:00,2015-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1741,388,Norge,Nordland,182020,8.6,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2015-01-01T00:00:00,2015-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1747,388,Norge,Trøndelag,502020,7,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2015-01-01T00:00:00,2015-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1740,388,Norge,Møre og Romsdal,152020,8.3,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2015-01-01T00:00:00,2015-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1746,388,Norge,Vestland,462020,8.3,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2015-01-01T00:00:00,2015-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1739,388,Norge,Rogaland,112020,7.9,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2015-01-01T00:00:00,2015-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1745,388,Norge,Agder,422020,7.5,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2015-01-01T00:00:00,2015-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1744,388,Norge,Vestfold og Telemark,382020,8.3,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2015-01-01T00:00:00,2015-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1743,388,Norge,Innlandet,342020,7.5,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2015-01-01T00:00:00,2015-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1738,388,Norge,"Oslo, fylke",32020,8.7,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2015-01-01T00:00:00,2015-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1742,388,Norge,Viken,302020,7.2,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2015-01-01T00:00:00,2015-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1738,388,Norge,"Oslo, fylke",32020,9.1,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2018-01-01T00:00:00,2018-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1743,388,Norge,Innlandet,342020,7,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2018-01-01T00:00:00,2018-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1742,388,Norge,Viken,302020,7.4,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2019-01-01T00:00:00,2019-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1744,388,Norge,Vestfold og Telemark,382020,8.5,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2018-01-01T00:00:00,2018-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1745,388,Norge,Agder,422020,7.8,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2018-01-01T00:00:00,2018-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1739,388,Norge,Rogaland,112020,7.6,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2018-01-01T00:00:00,2018-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1740,388,Norge,Møre og Romsdal,152020,8.5,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2018-01-01T00:00:00,2018-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1747,388,Norge,Trøndelag,502020,7.2,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2018-01-01T00:00:00,2018-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1741,388,Norge,Nordland,182020,8.6,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2018-01-01T00:00:00,2018-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1748,388,Norge,Troms og Finnmark,542020,9.9,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2018-01-01T00:00:00,2018-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1738,388,Norge,"Oslo, fylke",32020,9.2,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2019-01-01T00:00:00,2019-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1742,388,Norge,Viken,302020,7.4,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2018-01-01T00:00:00,2018-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1743,388,Norge,Innlandet,342020,7,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2019-01-01T00:00:00,2019-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1744,388,Norge,Vestfold og Telemark,382020,8.6,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2019-01-01T00:00:00,2019-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1748,388,Norge,Troms og Finnmark,542020,10,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2019-01-01T00:00:00,2019-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1745,388,Norge,Agder,422020,7.8,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2019-01-01T00:00:00,2019-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1739,388,Norge,Rogaland,112020,7.4,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2019-01-01T00:00:00,2019-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1746,388,Norge,Vestland,462020,7.8,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2019-01-01T00:00:00,2019-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1740,388,Norge,Møre og Romsdal,152020,8.2,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2019-01-01T00:00:00,2019-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1747,388,Norge,Trøndelag,502020,7.4,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2019-01-01T00:00:00,2019-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1741,388,Norge,Nordland,182020,8.6,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2019-01-01T00:00:00,2019-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1744,388,Norge,Vestfold og Telemark,382020,8.4,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2016-01-01T00:00:00,2016-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1748,388,Norge,Troms og Finnmark,542020,9.5,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2016-01-01T00:00:00,2016-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1745,388,Norge,Agder,422020,7.5,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2016-01-01T00:00:00,2016-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1747,388,Norge,Trøndelag,502020,7.2,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2016-01-01T00:00:00,2016-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1741,388,Norge,Nordland,182020,9,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2016-01-01T00:00:00,2016-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1739,388,Norge,Rogaland,112020,8,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2016-01-01T00:00:00,2016-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1742,388,Norge,Viken,302020,7.5,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2016-01-01T00:00:00,2016-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1746,388,Norge,Vestland,462020,8.3,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2016-01-01T00:00:00,2016-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1738,388,Norge,"Oslo, fylke",32020,8.6,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2016-01-01T00:00:00,2016-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1740,388,Norge,Møre og Romsdal,152020,8.1,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2016-01-01T00:00:00,2016-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1743,388,Norge,Innlandet,342020,7.4,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2016-01-01T00:00:00,2016-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1738,388,Norge,"Oslo, fylke",32020,9.3,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1748,388,Norge,Troms og Finnmark,542020,9.8,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1739,388,Norge,Rogaland,112020,7.5,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1745,388,Norge,Agder,422020,8.1,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1744,388,Norge,Vestfold og Telemark,382020,8.3,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1743,388,Norge,Innlandet,342020,7.1,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1742,388,Norge,Viken,302020,7.4,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,388,0,,Norge,9999,8,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1740,388,Norge,Møre og Romsdal,152020,8.2,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1741,388,Norge,Nordland,182020,8.7,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1747,388,Norge,Trøndelag,502020,7.5,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Antall tannleger per 10.000 innbyggere,265,1746,388,Norge,Vestland,462020,7.9,Årlig,Antall tannlegeårsverk per 10.000 innbyggere,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00

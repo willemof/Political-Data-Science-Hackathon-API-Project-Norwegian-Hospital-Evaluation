@@ -1,0 +1,198 @@
+---
+title: "Auditor General's Office - The Efficiency of Norway's Hospital System from 2010-2021"
+output: html_notebook
+---
+
+1. Obtain relevant data from Statistics Norway and the Norwegian Directorate of Health, 
+preferably using the API. 
+
+#Statistics Norway API
+
+```{r}
+options(encoding="UTF-8")
+library(httr)
+library(rjstat) #For JSON
+url <- "https://data.ssb.no/api/v0/no/table/10261"
+# 
+data.tmp <- '
+{
+  "query": [
+    {
+      "code": "Region",
+      "selection": {
+        "filter": "vs:Helseregion330b",
+        "values": [
+          "H12",
+          "H03",
+          "H04",
+          "H05"
+        ]
+      }
+    },
+    {
+      "code": "ContentsCode",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "Heldognsopphold",
+          "Dagbehandlinger"
+        ]
+      }
+    }
+  ],
+  "response": {
+    "format": "json-stat2"
+  }
+}
+'
+d.tmp <- POST(url , body = data.tmp, encode = "json", verbose())
+# Henter ut innholdet fra d.tmp som tekst deretter bearbeides av fromJSONstat
+ssb.df.dagbehandling <- fromJSONstat(content(d.tmp, "text"))
+# Viser datasettet
+```
+
+#Health Directorate API example
+
+```{r}
+library(httr)
+library(tinytex)
+library(tidyverse)
+library(janitor)
+library(kableExtra)
+library(rjstat)
+url <- "https://api.helsedirektoratet.no/innhold/nki/kvalitetsindikatorer/"
+key <- "1c50d76931ba48f69d177c18eaf3c6a8"
+
+ds<-GET(url, 
+        add_headers("Ocp-Apim-Subscription-Key" = key),
+        add_headers("Cache-Control"= "no-cache")) %>% 
+  content(as = "text") %>% # extracting the data
+  jsonlite::fromJSON(flatten = TRUE) # parsing to dataframe
+
+
+url2 <- "https://api.helsedirektoratet.no/innhold/nki/kvalitetsindikatorer/0003-0010-5/data?contentType=application/json"
+
+dg<-GET(url2, 
+        add_headers("Ocp-Apim-Subscription-Key" = key),
+        add_headers("Cache-Control"= "no-cache")) %>% 
+  content(as = "text") %>% # extracting the data
+  jsonlite::fromJSON(flatten = TRUE)
+
+dge<-dg$AttachmentDataRows
+
+dge <-   clean_names(dge)
+
+dge_only_norway <- dge %>%
+  filter(parent_name=="Hele landet") %>%
+  filter(period_type=="Årlig")
+```
+
+
+2. Carry out a descriptive analysis of key input factors, activity level and indicators for quality at 
+the health region / hospital level. 
+
+##Input factors
+SSB
+```{r}
+##Pasienter på sykehus
+url <- "https://data.ssb.no/api/v0/en/table/10261"
+data.tmp <- '
+{
+  "query": [
+    {
+      "code": "Region",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "0",
+          "30",
+          "01",
+          "H12",
+          "Uoppgitt"
+        ]
+      }
+    },
+    {
+      "code": "Kjonn",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "0",
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "code": "Alder",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "999",
+          "00-09",
+          "10-19",
+          "70-79",
+          "080+"
+        ]
+      }
+    },
+    {
+      "code": "Diagnose3",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "99",
+          "02",
+          "03",
+          "92",
+          "93"
+        ]
+      }
+    },
+    {
+      "code": "ContentsCode",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "PasientSomatSykeh",
+          "Heldognsopphold",
+          "Dagbehandlinger",
+          "AntDagbehandlinger",
+          "AntPoliklinKonsult"
+        ]
+      }
+    },
+    {
+      "code": "Tid",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "2012",
+          "2013",
+          "2014",
+          "2020",
+          "2021"
+        ]
+      }
+    }
+  ],
+  "response": {
+    "format": "json-stat2"
+  }
+}
+'
+d.tmp <- POST(url , body = data.tmp, encode = "json", verbose())
+# Henter ut innholdet fra d.tmp som tekst deretter bearbeides av fromJSONstat
+ssb.df.pasienter<- fromJSONstat(content(d.tmp, "text"))
+# Viser datasettet
+```
+
+
+3. Visualize differences at the health region / hospital level, preferably with interactive figures 
+in a report. 
+
+
+4. Analyze / visualize the productivity of each hospital. Has productivity changed over time? 
+How to compare productivity across hospitals? 
+
+

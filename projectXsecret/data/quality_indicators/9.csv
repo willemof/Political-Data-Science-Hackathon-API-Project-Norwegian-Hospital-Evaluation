@@ -1,0 +1,289 @@
+QualityIndicatorName,QualityIndicatorId,LocationId,LocationParentId,ParentName,LocationName,OrgNumber,Value,PeriodType,MeasureName,MeasureType,TimeFrom,TimeTo
+5 års overlevelse etter brystkreft,9,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,90.4,Årlig,5-års relativ overlevelse etter brystkreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,91.6,Årlig,5-års relativ overlevelse etter brystkreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,90.3,Årlig,5-års relativ overlevelse etter brystkreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,91.6,Årlig,5-års relativ overlevelse etter brystkreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,89.9,Årlig,5-års relativ overlevelse etter brystkreft,%,2014-01-01T00:00:00,2014-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,90.3,Årlig,5-års relativ overlevelse etter brystkreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,90.1,Årlig,5-års relativ overlevelse etter brystkreft,%,2011-01-01T00:00:00,2011-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,90,Årlig,5-års relativ overlevelse etter brystkreft,%,2012-01-01T00:00:00,2012-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,90.2,Årlig,5-års relativ overlevelse etter brystkreft,%,2013-01-01T00:00:00,2013-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,88.1,Årlig,5-års relativ overlevelse etter brystkreft,%,2009-01-01T00:00:00,2009-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,89.3,Årlig,5-års relativ overlevelse etter brystkreft,%,2010-01-01T00:00:00,2010-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,91,Årlig,5-års relativ overlevelse etter brystkreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,91.2,Årlig,5-års relativ overlevelse etter brystkreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,91.8,Årlig,5-års relativ overlevelse etter brystkreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,91.4,Årlig,5-års relativ overlevelse etter brystkreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,89.8,Årlig,5-års relativ overlevelse etter brystkreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,89.5,Årlig,5-års relativ overlevelse etter brystkreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,91.5,Årlig,5-års relativ overlevelse etter brystkreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,90.9,Årlig,5-års relativ overlevelse etter brystkreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,87.5,Årlig,5-års relativ overlevelse etter brystkreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,87.6,Årlig,5-års relativ overlevelse etter brystkreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,91.4,Årlig,5-års relativ overlevelse etter brystkreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,93.6,Årlig,5-års relativ overlevelse etter brystkreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,88.3,Årlig,5-års relativ overlevelse etter brystkreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,88.7,Årlig,5-års relativ overlevelse etter brystkreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,89.8,Årlig,5-års relativ overlevelse etter brystkreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,95.1,Årlig,5-års relativ overlevelse etter brystkreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,90.9,Årlig,5-års relativ overlevelse etter brystkreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,92.4,Årlig,5-års relativ overlevelse etter brystkreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,88.7,Årlig,5-års relativ overlevelse etter brystkreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,89.7,Årlig,5-års relativ overlevelse etter brystkreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,90.8,Årlig,5-års relativ overlevelse etter brystkreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,90.9,Årlig,5-års relativ overlevelse etter brystkreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,88.8,Årlig,5-års relativ overlevelse etter brystkreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,89.7,Årlig,5-års relativ overlevelse etter brystkreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,88.5,Årlig,5-års relativ overlevelse etter brystkreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,89.6,Årlig,5-års relativ overlevelse etter brystkreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,88.6,Årlig,5-års relativ overlevelse etter brystkreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,89.7,Årlig,5-års relativ overlevelse etter brystkreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,89.6,Årlig,5-års relativ overlevelse etter brystkreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,90.4,Årlig,5-års relativ overlevelse etter brystkreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,91.8,Årlig,5-års relativ overlevelse etter brystkreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,91.9,Årlig,5-års relativ overlevelse etter brystkreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,89.7,Årlig,5-års relativ overlevelse etter brystkreft,%,2014-01-01T00:00:00,2014-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,90,Årlig,5-års relativ overlevelse etter brystkreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,87.4,Årlig,5-års relativ overlevelse etter brystkreft,%,2009-01-01T00:00:00,2009-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,87.9,Årlig,5-års relativ overlevelse etter brystkreft,%,2011-01-01T00:00:00,2011-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,88,Årlig,5-års relativ overlevelse etter brystkreft,%,2012-01-01T00:00:00,2012-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,88.5,Årlig,5-års relativ overlevelse etter brystkreft,%,2013-01-01T00:00:00,2013-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,87.2,Årlig,5-års relativ overlevelse etter brystkreft,%,2010-01-01T00:00:00,2010-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,90,Årlig,5-års relativ overlevelse etter brystkreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,90.9,Årlig,5-års relativ overlevelse etter brystkreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1094,1404,Hele landet,Helse Vest RHF,983658725,87.7,Årlig,5-års relativ overlevelse etter brystkreft,%,2014-01-01T00:00:00,2014-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1094,1404,Hele landet,Helse Vest RHF,983658725,88.2,Årlig,5-års relativ overlevelse etter brystkreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1094,1404,Hele landet,Helse Vest RHF,983658725,86.4,Årlig,5-års relativ overlevelse etter brystkreft,%,2011-01-01T00:00:00,2011-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1094,1404,Hele landet,Helse Vest RHF,983658725,87.8,Årlig,5-års relativ overlevelse etter brystkreft,%,2012-01-01T00:00:00,2012-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1094,1404,Hele landet,Helse Vest RHF,983658725,87.4,Årlig,5-års relativ overlevelse etter brystkreft,%,2013-01-01T00:00:00,2013-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1094,1404,Hele landet,Helse Vest RHF,983658725,87.3,Årlig,5-års relativ overlevelse etter brystkreft,%,2009-01-01T00:00:00,2009-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1094,1404,Hele landet,Helse Vest RHF,983658725,86.8,Årlig,5-års relativ overlevelse etter brystkreft,%,2010-01-01T00:00:00,2010-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1094,1404,Hele landet,Helse Vest RHF,983658725,89.4,Årlig,5-års relativ overlevelse etter brystkreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1094,1404,Hele landet,Helse Vest RHF,983658725,90.1,Årlig,5-års relativ overlevelse etter brystkreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1129,1404,Hele landet,Helse Nord RHF,883658752,90.2,Årlig,5-års relativ overlevelse etter brystkreft,%,2014-01-01T00:00:00,2014-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1129,1404,Hele landet,Helse Nord RHF,883658752,89.5,Årlig,5-års relativ overlevelse etter brystkreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1129,1404,Hele landet,Helse Nord RHF,883658752,89,Årlig,5-års relativ overlevelse etter brystkreft,%,2011-01-01T00:00:00,2011-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1129,1404,Hele landet,Helse Nord RHF,883658752,89.1,Årlig,5-års relativ overlevelse etter brystkreft,%,2012-01-01T00:00:00,2012-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1129,1404,Hele landet,Helse Nord RHF,883658752,89.4,Årlig,5-års relativ overlevelse etter brystkreft,%,2013-01-01T00:00:00,2013-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1129,1404,Hele landet,Helse Nord RHF,883658752,88.2,Årlig,5-års relativ overlevelse etter brystkreft,%,2010-01-01T00:00:00,2010-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1129,1404,Hele landet,Helse Nord RHF,883658752,89.2,Årlig,5-års relativ overlevelse etter brystkreft,%,2009-01-01T00:00:00,2009-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1129,1404,Hele landet,Helse Nord RHF,883658752,89.5,Årlig,5-års relativ overlevelse etter brystkreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1129,1404,Hele landet,Helse Nord RHF,883658752,90.7,Årlig,5-års relativ overlevelse etter brystkreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1404,0,,Hele landet,900000000,89.5,Årlig,5-års relativ overlevelse etter brystkreft,%,2014-01-01T00:00:00,2014-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1404,0,,Hele landet,900000000,89.8,Årlig,5-års relativ overlevelse etter brystkreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1404,0,,Hele landet,900000000,89,Årlig,5-års relativ overlevelse etter brystkreft,%,2011-01-01T00:00:00,2011-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1404,0,,Hele landet,900000000,89.3,Årlig,5-års relativ overlevelse etter brystkreft,%,2012-01-01T00:00:00,2012-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1404,0,,Hele landet,900000000,89.3,Årlig,5-års relativ overlevelse etter brystkreft,%,2013-01-01T00:00:00,2013-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1404,0,,Hele landet,900000000,88.5,Årlig,5-års relativ overlevelse etter brystkreft,%,2010-01-01T00:00:00,2010-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1404,0,,Hele landet,900000000,88,Årlig,5-års relativ overlevelse etter brystkreft,%,2009-01-01T00:00:00,2009-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1404,0,,Hele landet,900000000,90.4,Årlig,5-års relativ overlevelse etter brystkreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1404,0,,Hele landet,900000000,90.9,Årlig,5-års relativ overlevelse etter brystkreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,93.6,Årlig,5-års relativ overlevelse etter brystkreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,93,Årlig,5-års relativ overlevelse etter brystkreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,89,Årlig,5-års relativ overlevelse etter brystkreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,89.4,Årlig,5-års relativ overlevelse etter brystkreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,91.7,Årlig,5-års relativ overlevelse etter brystkreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,93.2,Årlig,5-års relativ overlevelse etter brystkreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,91.7,Årlig,5-års relativ overlevelse etter brystkreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,91.3,Årlig,5-års relativ overlevelse etter brystkreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,92.9,Årlig,5-års relativ overlevelse etter brystkreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,89.8,Årlig,5-års relativ overlevelse etter brystkreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,89.2,Årlig,5-års relativ overlevelse etter brystkreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,91.7,Årlig,5-års relativ overlevelse etter brystkreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1129,1404,Hele landet,Helse Nord RHF,883658752,89.9,Årlig,5-års relativ overlevelse etter brystkreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,90,Årlig,5-års relativ overlevelse etter brystkreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,91.2,Årlig,5-års relativ overlevelse etter brystkreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1094,1404,Hele landet,Helse Vest RHF,983658725,90.5,Årlig,5-års relativ overlevelse etter brystkreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,91.7,Årlig,5-års relativ overlevelse etter brystkreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1404,0,,Hele landet,900000000,91.3,Årlig,5-års relativ overlevelse etter brystkreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,90.7,Årlig,5-års relativ overlevelse etter brystkreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,87.9,Årlig,5-års relativ overlevelse etter brystkreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,91.3,Årlig,5-års relativ overlevelse etter brystkreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,90.3,Årlig,5-års relativ overlevelse etter brystkreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,91.2,Årlig,5-års relativ overlevelse etter brystkreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,90.9,Årlig,5-års relativ overlevelse etter brystkreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,91.3,Årlig,5-års relativ overlevelse etter brystkreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,90.4,Årlig,5-års relativ overlevelse etter brystkreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,92.5,Årlig,5-års relativ overlevelse etter brystkreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,91.2,Årlig,5-års relativ overlevelse etter brystkreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1404,0,,Hele landet,900000000,91.9,Årlig,5-års relativ overlevelse etter brystkreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,92.5,Årlig,5-års relativ overlevelse etter brystkreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,91.8,Årlig,5-års relativ overlevelse etter brystkreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,90.9,Årlig,5-års relativ overlevelse etter brystkreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,92.6,Årlig,5-års relativ overlevelse etter brystkreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,91.5,Årlig,5-års relativ overlevelse etter brystkreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,91.6,Årlig,5-års relativ overlevelse etter brystkreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,91.3,Årlig,5-års relativ overlevelse etter brystkreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,91.3,Årlig,5-års relativ overlevelse etter brystkreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,93.9,Årlig,5-års relativ overlevelse etter brystkreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,93,Årlig,5-års relativ overlevelse etter brystkreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,92.8,Årlig,5-års relativ overlevelse etter brystkreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,92.5,Årlig,5-års relativ overlevelse etter brystkreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1129,1404,Hele landet,Helse Nord RHF,883658752,89.9,Årlig,5-års relativ overlevelse etter brystkreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,90.6,Årlig,5-års relativ overlevelse etter brystkreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,91.7,Årlig,5-års relativ overlevelse etter brystkreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,92.7,Årlig,5-års relativ overlevelse etter brystkreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,90.4,Årlig,5-års relativ overlevelse etter brystkreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1094,1404,Hele landet,Helse Vest RHF,983658725,91.3,Årlig,5-års relativ overlevelse etter brystkreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,88.1,Årlig,5-års relativ overlevelse etter brystkreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,88.9,Årlig,5-års relativ overlevelse etter brystkreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,93.2,Årlig,5-års relativ overlevelse etter brystkreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,90.4,Årlig,5-års relativ overlevelse etter brystkreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,92.1,Årlig,5-års relativ overlevelse etter brystkreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,89.6,Årlig,5-års relativ overlevelse etter brystkreft,%,2013-01-01T00:00:00,2013-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,87.9,Årlig,5-års relativ overlevelse etter brystkreft,%,2009-01-01T00:00:00,2009-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,87.3,Årlig,5-års relativ overlevelse etter brystkreft,%,2009-01-01T00:00:00,2009-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,87.3,Årlig,5-års relativ overlevelse etter brystkreft,%,2013-01-01T00:00:00,2013-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,87.2,Årlig,5-års relativ overlevelse etter brystkreft,%,2013-01-01T00:00:00,2013-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,81.3,Årlig,5-års relativ overlevelse etter brystkreft,%,2009-01-01T00:00:00,2009-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,85.1,Årlig,5-års relativ overlevelse etter brystkreft,%,2013-01-01T00:00:00,2013-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,85.8,Årlig,5-års relativ overlevelse etter brystkreft,%,2009-01-01T00:00:00,2009-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,88.4,Årlig,5-års relativ overlevelse etter brystkreft,%,2013-01-01T00:00:00,2013-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,87.5,Årlig,5-års relativ overlevelse etter brystkreft,%,2009-01-01T00:00:00,2009-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,90.2,Årlig,5-års relativ overlevelse etter brystkreft,%,2013-01-01T00:00:00,2013-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,90.6,Årlig,5-års relativ overlevelse etter brystkreft,%,2009-01-01T00:00:00,2009-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,86.6,Årlig,5-års relativ overlevelse etter brystkreft,%,2013-01-01T00:00:00,2013-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,89.6,Årlig,5-års relativ overlevelse etter brystkreft,%,2009-01-01T00:00:00,2009-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,88,Årlig,5-års relativ overlevelse etter brystkreft,%,2013-01-01T00:00:00,2013-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,91.6,Årlig,5-års relativ overlevelse etter brystkreft,%,2009-01-01T00:00:00,2009-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,92,Årlig,5-års relativ overlevelse etter brystkreft,%,2013-01-01T00:00:00,2013-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,87,Årlig,5-års relativ overlevelse etter brystkreft,%,2009-01-01T00:00:00,2009-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,89.3,Årlig,5-års relativ overlevelse etter brystkreft,%,2009-01-01T00:00:00,2009-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,85.2,Årlig,5-års relativ overlevelse etter brystkreft,%,2013-01-01T00:00:00,2013-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,90.1,Årlig,5-års relativ overlevelse etter brystkreft,%,2009-01-01T00:00:00,2009-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,87.7,Årlig,5-års relativ overlevelse etter brystkreft,%,2012-01-01T00:00:00,2012-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,90.7,Årlig,5-års relativ overlevelse etter brystkreft,%,2014-01-01T00:00:00,2014-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,92,Årlig,5-års relativ overlevelse etter brystkreft,%,2011-01-01T00:00:00,2011-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,88.9,Årlig,5-års relativ overlevelse etter brystkreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,87.9,Årlig,5-års relativ overlevelse etter brystkreft,%,2011-01-01T00:00:00,2011-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,88,Årlig,5-års relativ overlevelse etter brystkreft,%,2011-01-01T00:00:00,2011-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,86,Årlig,5-års relativ overlevelse etter brystkreft,%,2011-01-01T00:00:00,2011-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,90.7,Årlig,5-års relativ overlevelse etter brystkreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,91.6,Årlig,5-års relativ overlevelse etter brystkreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,88.3,Årlig,5-års relativ overlevelse etter brystkreft,%,2014-01-01T00:00:00,2014-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,86.6,Årlig,5-års relativ overlevelse etter brystkreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,91.1,Årlig,5-års relativ overlevelse etter brystkreft,%,2014-01-01T00:00:00,2014-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,90.5,Årlig,5-års relativ overlevelse etter brystkreft,%,2014-01-01T00:00:00,2014-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,91.4,Årlig,5-års relativ overlevelse etter brystkreft,%,2014-01-01T00:00:00,2014-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,87.4,Årlig,5-års relativ overlevelse etter brystkreft,%,2010-01-01T00:00:00,2010-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,91.1,Årlig,5-års relativ overlevelse etter brystkreft,%,2010-01-01T00:00:00,2010-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,89.9,Årlig,5-års relativ overlevelse etter brystkreft,%,2014-01-01T00:00:00,2014-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,83.2,Årlig,5-års relativ overlevelse etter brystkreft,%,2012-01-01T00:00:00,2012-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,90.7,Årlig,5-års relativ overlevelse etter brystkreft,%,2010-01-01T00:00:00,2010-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,88.4,Årlig,5-års relativ overlevelse etter brystkreft,%,2014-01-01T00:00:00,2014-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,87.8,Årlig,5-års relativ overlevelse etter brystkreft,%,2012-01-01T00:00:00,2012-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,86.1,Årlig,5-års relativ overlevelse etter brystkreft,%,2014-01-01T00:00:00,2014-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,87.4,Årlig,5-års relativ overlevelse etter brystkreft,%,2010-01-01T00:00:00,2010-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,87.8,Årlig,5-års relativ overlevelse etter brystkreft,%,2014-01-01T00:00:00,2014-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,92.2,Årlig,5-års relativ overlevelse etter brystkreft,%,2011-01-01T00:00:00,2011-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,91.1,Årlig,5-års relativ overlevelse etter brystkreft,%,2012-01-01T00:00:00,2012-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,92.4,Årlig,5-års relativ overlevelse etter brystkreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,90.6,Årlig,5-års relativ overlevelse etter brystkreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,91.8,Årlig,5-års relativ overlevelse etter brystkreft,%,2011-01-01T00:00:00,2011-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,91.5,Årlig,5-års relativ overlevelse etter brystkreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,89.4,Årlig,5-års relativ overlevelse etter brystkreft,%,2011-01-01T00:00:00,2011-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,90.7,Årlig,5-års relativ overlevelse etter brystkreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,88.7,Årlig,5-års relativ overlevelse etter brystkreft,%,2011-01-01T00:00:00,2011-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,85.9,Årlig,5-års relativ overlevelse etter brystkreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,90.8,Årlig,5-års relativ overlevelse etter brystkreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,87.5,Årlig,5-års relativ overlevelse etter brystkreft,%,2011-01-01T00:00:00,2011-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,89.6,Årlig,5-års relativ overlevelse etter brystkreft,%,2011-01-01T00:00:00,2011-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,89.6,Årlig,5-års relativ overlevelse etter brystkreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,86.4,Årlig,5-års relativ overlevelse etter brystkreft,%,2011-01-01T00:00:00,2011-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,89.9,Årlig,5-års relativ overlevelse etter brystkreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,89.1,Årlig,5-års relativ overlevelse etter brystkreft,%,2011-01-01T00:00:00,2011-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,86,Årlig,5-års relativ overlevelse etter brystkreft,%,2011-01-01T00:00:00,2011-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,88.1,Årlig,5-års relativ overlevelse etter brystkreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,88.1,Årlig,5-års relativ overlevelse etter brystkreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,84.7,Årlig,5-års relativ overlevelse etter brystkreft,%,2011-01-01T00:00:00,2011-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,88.3,Årlig,5-års relativ overlevelse etter brystkreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,88.6,Årlig,5-års relativ overlevelse etter brystkreft,%,2011-01-01T00:00:00,2011-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,88.7,Årlig,5-års relativ overlevelse etter brystkreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,86.3,Årlig,5-års relativ overlevelse etter brystkreft,%,2011-01-01T00:00:00,2011-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,90.5,Årlig,5-års relativ overlevelse etter brystkreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,86,Årlig,5-års relativ overlevelse etter brystkreft,%,2014-01-01T00:00:00,2014-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,91.4,Årlig,5-års relativ overlevelse etter brystkreft,%,2011-01-01T00:00:00,2011-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,89.7,Årlig,5-års relativ overlevelse etter brystkreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,89.6,Årlig,5-års relativ overlevelse etter brystkreft,%,2011-01-01T00:00:00,2011-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,90.5,Årlig,5-års relativ overlevelse etter brystkreft,%,2014-01-01T00:00:00,2014-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,88.5,Årlig,5-års relativ overlevelse etter brystkreft,%,2011-01-01T00:00:00,2011-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,88.9,Årlig,5-års relativ overlevelse etter brystkreft,%,2009-01-01T00:00:00,2009-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,89.6,Årlig,5-års relativ overlevelse etter brystkreft,%,2010-01-01T00:00:00,2010-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,86.9,Årlig,5-års relativ overlevelse etter brystkreft,%,2010-01-01T00:00:00,2010-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,87.7,Årlig,5-års relativ overlevelse etter brystkreft,%,2012-01-01T00:00:00,2012-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,90.5,Årlig,5-års relativ overlevelse etter brystkreft,%,2013-01-01T00:00:00,2013-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,91.3,Årlig,5-års relativ overlevelse etter brystkreft,%,2013-01-01T00:00:00,2013-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,90.5,Årlig,5-års relativ overlevelse etter brystkreft,%,2012-01-01T00:00:00,2012-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,87.8,Årlig,5-års relativ overlevelse etter brystkreft,%,2009-01-01T00:00:00,2009-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,89.7,Årlig,5-års relativ overlevelse etter brystkreft,%,2012-01-01T00:00:00,2012-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,89.2,Årlig,5-års relativ overlevelse etter brystkreft,%,2009-01-01T00:00:00,2009-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,89.6,Årlig,5-års relativ overlevelse etter brystkreft,%,2009-01-01T00:00:00,2009-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,88.7,Årlig,5-års relativ overlevelse etter brystkreft,%,2013-01-01T00:00:00,2013-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,86.5,Årlig,5-års relativ overlevelse etter brystkreft,%,2013-01-01T00:00:00,2013-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,84.4,Årlig,5-års relativ overlevelse etter brystkreft,%,2009-01-01T00:00:00,2009-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,91.5,Årlig,5-års relativ overlevelse etter brystkreft,%,2013-01-01T00:00:00,2013-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,89.3,Årlig,5-års relativ overlevelse etter brystkreft,%,2009-01-01T00:00:00,2009-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,91,Årlig,5-års relativ overlevelse etter brystkreft,%,2012-01-01T00:00:00,2012-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,91.9,Årlig,5-års relativ overlevelse etter brystkreft,%,2013-01-01T00:00:00,2013-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,84.1,Årlig,5-års relativ overlevelse etter brystkreft,%,2009-01-01T00:00:00,2009-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,91.1,Årlig,5-års relativ overlevelse etter brystkreft,%,2012-01-01T00:00:00,2012-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,89.4,Årlig,5-års relativ overlevelse etter brystkreft,%,2013-01-01T00:00:00,2013-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,87.9,Årlig,5-års relativ overlevelse etter brystkreft,%,2009-01-01T00:00:00,2009-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,88.7,Årlig,5-års relativ overlevelse etter brystkreft,%,2013-01-01T00:00:00,2013-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,90.9,Årlig,5-års relativ overlevelse etter brystkreft,%,2013-01-01T00:00:00,2013-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,87.7,Årlig,5-års relativ overlevelse etter brystkreft,%,2014-01-01T00:00:00,2014-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,91.8,Årlig,5-års relativ overlevelse etter brystkreft,%,2012-01-01T00:00:00,2012-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,85.1,Årlig,5-års relativ overlevelse etter brystkreft,%,2010-01-01T00:00:00,2010-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,91.1,Årlig,5-års relativ overlevelse etter brystkreft,%,2012-01-01T00:00:00,2012-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,90.6,Årlig,5-års relativ overlevelse etter brystkreft,%,2014-01-01T00:00:00,2014-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,91.2,Årlig,5-års relativ overlevelse etter brystkreft,%,2010-01-01T00:00:00,2010-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,87.1,Årlig,5-års relativ overlevelse etter brystkreft,%,2012-01-01T00:00:00,2012-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,88.6,Årlig,5-års relativ overlevelse etter brystkreft,%,2010-01-01T00:00:00,2010-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,87.7,Årlig,5-års relativ overlevelse etter brystkreft,%,2014-01-01T00:00:00,2014-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,87.4,Årlig,5-års relativ overlevelse etter brystkreft,%,2010-01-01T00:00:00,2010-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,91,Årlig,5-års relativ overlevelse etter brystkreft,%,2014-01-01T00:00:00,2014-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,87.1,Årlig,5-års relativ overlevelse etter brystkreft,%,2012-01-01T00:00:00,2012-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,86.6,Årlig,5-års relativ overlevelse etter brystkreft,%,2010-01-01T00:00:00,2010-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,86.9,Årlig,5-års relativ overlevelse etter brystkreft,%,2014-01-01T00:00:00,2014-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,87.1,Årlig,5-års relativ overlevelse etter brystkreft,%,2010-01-01T00:00:00,2010-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,89.2,Årlig,5-års relativ overlevelse etter brystkreft,%,2012-01-01T00:00:00,2012-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,83.7,Årlig,5-års relativ overlevelse etter brystkreft,%,2010-01-01T00:00:00,2010-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,89.1,Årlig,5-års relativ overlevelse etter brystkreft,%,2012-01-01T00:00:00,2012-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,92.3,Årlig,5-års relativ overlevelse etter brystkreft,%,2014-01-01T00:00:00,2014-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,86.5,Årlig,5-års relativ overlevelse etter brystkreft,%,2010-01-01T00:00:00,2010-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,87.1,Årlig,5-års relativ overlevelse etter brystkreft,%,2012-01-01T00:00:00,2012-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,90.1,Årlig,5-års relativ overlevelse etter brystkreft,%,2014-01-01T00:00:00,2014-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,86.6,Årlig,5-års relativ overlevelse etter brystkreft,%,2010-01-01T00:00:00,2010-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,89.4,Årlig,5-års relativ overlevelse etter brystkreft,%,2014-01-01T00:00:00,2014-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,89.8,Årlig,5-års relativ overlevelse etter brystkreft,%,2010-01-01T00:00:00,2010-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,87.4,Årlig,5-års relativ overlevelse etter brystkreft,%,2012-01-01T00:00:00,2012-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,89.7,Årlig,5-års relativ overlevelse etter brystkreft,%,2010-01-01T00:00:00,2010-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,88.5,Årlig,5-års relativ overlevelse etter brystkreft,%,2012-01-01T00:00:00,2012-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,89.6,Årlig,5-års relativ overlevelse etter brystkreft,%,2010-01-01T00:00:00,2010-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,88.2,Årlig,5-års relativ overlevelse etter brystkreft,%,2012-01-01T00:00:00,2012-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,87,Årlig,5-års relativ overlevelse etter brystkreft,%,2010-01-01T00:00:00,2010-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,89.1,Årlig,5-års relativ overlevelse etter brystkreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,90.7,Årlig,5-års relativ overlevelse etter brystkreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1094,1404,Hele landet,Helse Vest RHF,983658725,92.2,Årlig,5-års relativ overlevelse etter brystkreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,90.4,Årlig,5-års relativ overlevelse etter brystkreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1129,1404,Hele landet,Helse Nord RHF,883658752,90.8,Årlig,5-års relativ overlevelse etter brystkreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,93.2,Årlig,5-års relativ overlevelse etter brystkreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,92,Årlig,5-års relativ overlevelse etter brystkreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1404,0,,Hele landet,900000000,92.2,Årlig,5-års relativ overlevelse etter brystkreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,92.3,Årlig,5-års relativ overlevelse etter brystkreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,92.4,Årlig,5-års relativ overlevelse etter brystkreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,91.7,Årlig,5-års relativ overlevelse etter brystkreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,91.1,Årlig,5-års relativ overlevelse etter brystkreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,88.2,Årlig,5-års relativ overlevelse etter brystkreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,92.6,Årlig,5-års relativ overlevelse etter brystkreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,91.7,Årlig,5-års relativ overlevelse etter brystkreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,92.3,Årlig,5-års relativ overlevelse etter brystkreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,93,Årlig,5-års relativ overlevelse etter brystkreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,93,Årlig,5-års relativ overlevelse etter brystkreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,92.4,Årlig,5-års relativ overlevelse etter brystkreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,92,Årlig,5-års relativ overlevelse etter brystkreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,90.6,Årlig,5-års relativ overlevelse etter brystkreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,90.9,Årlig,5-års relativ overlevelse etter brystkreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,94.5,Årlig,5-års relativ overlevelse etter brystkreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,93.1,Årlig,5-års relativ overlevelse etter brystkreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+5 års overlevelse etter brystkreft,9,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,91.7,Årlig,5-års relativ overlevelse etter brystkreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00

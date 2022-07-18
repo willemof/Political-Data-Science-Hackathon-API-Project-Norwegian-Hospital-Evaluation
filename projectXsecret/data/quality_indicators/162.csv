@@ -1,0 +1,649 @@
+QualityIndicatorName,QualityIndicatorId,LocationId,LocationParentId,ParentName,LocationName,OrgNumber,Value,PeriodType,MeasureName,MeasureType,TimeFrom,TimeTo
+Kurativ behandling av lungekreft,162,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,46.4,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,41.2,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,38.3,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,35.3,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,38.3,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,45.6,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,40.9,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,37.3,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,38.4,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,42.6,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,39.4,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,37.2,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,31.4,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,45.8,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,40.8,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,37.6,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,43.6,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,42.7,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,44,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,27.6,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,47.8,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,32.5,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,37.5,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,38.5,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,37.3,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,54.2,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,45.5,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,50,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,30.8,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,34.5,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,47.9,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,48.6,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,43.8,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,35,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,25,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,48.5,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,46.2,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,42.2,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,48.4,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,46.9,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,41.4,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,36.5,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,49.5,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,56,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,55.6,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,32.7,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,39,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,32.7,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,38,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,37.7,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,28,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,39.5,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,34.3,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,50.3,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,41,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,43.3,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,43.6,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1094,1404,Hele landet,Helse Vest RHF,983658725,46.5,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1094,1404,Hele landet,Helse Vest RHF,983658725,46.4,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1094,1404,Hele landet,Helse Vest RHF,983658725,44.9,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1099,1043,Helse Sør-Øst RHF,Diakonhjemmet sykehus AS,982791952,35.3,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1099,1043,Helse Sør-Øst RHF,Diakonhjemmet sykehus AS,982791952,42.9,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1099,1043,Helse Sør-Øst RHF,Diakonhjemmet sykehus AS,982791952,38.2,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1129,1404,Hele landet,Helse Nord RHF,883658752,38.7,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1129,1404,Hele landet,Helse Nord RHF,883658752,42.9,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1129,1404,Hele landet,Helse Nord RHF,883658752,39.7,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1403,1043,Helse Sør-Øst RHF,Lovisenberg Diakonale,965985166,42.9,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1403,1043,Helse Sør-Øst RHF,Lovisenberg Diakonale,965985166,31.3,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1403,1043,Helse Sør-Øst RHF,Lovisenberg Diakonale,965985166,34.6,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1404,0,,Hele landet,900000000,41.1,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1404,0,,Hele landet,900000000,39.9,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1404,0,,Hele landet,900000000,41.8,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,33.3,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,48,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,38,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,44.8,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,38.4,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,39.8,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,39.8,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,39.2,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,40,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,45,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,37.9,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1099,1043,Helse Sør-Øst RHF,Diakonhjemmet sykehus AS,982791952,35.7,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1403,1043,Helse Sør-Øst RHF,Lovisenberg Diakonale,965985166,50,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,58.1,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,40.3,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,26.9,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,43.9,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1404,0,,Hele landet,900000000,42.3,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1129,1404,Hele landet,Helse Nord RHF,883658752,40.3,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,47,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1094,1404,Hele landet,Helse Vest RHF,983658725,44,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,41,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,39.1,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,43.6,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,44.2,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,49.5,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,33.8,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,50,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,62.8,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,38.1,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,14.3,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1595,1094,Helse Vest RHF,Haraldsplass Diakonale Sykehus AS,984027737,59.4,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,28.2,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1404,0,,Hele landet,900000000,42.6,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,40.3,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,43.2,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,39.8,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,34.4,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,43.5,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,45.5,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,37.4,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,42.6,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1129,1404,Hele landet,Helse Nord RHF,883658752,39.6,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,44.1,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1094,1404,Hele landet,Helse Vest RHF,983658725,40.2,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,43.6,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1099,1043,Helse Sør-Øst RHF,Diakonhjemmet sykehus AS,982791952,43.5,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,42.7,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,55.2,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,43.5,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,33.9,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,27.3,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,38.3,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,46.2,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,47.6,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,43.9,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,56,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1403,1043,Helse Sør-Øst RHF,Lovisenberg Diakonale,965985166,57.1,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1595,1094,Helse Vest RHF,Haraldsplass Diakonale Sykehus AS,984027737,39,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,26.5,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1595,1094,Helse Vest RHF,Haraldsplass Diakonale Sykehus AS,984027737,46.7,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1595,1094,Helse Vest RHF,Haraldsplass Diakonale Sykehus AS,984027737,35.3,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1404,0,,Hele landet,900000000,40,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,41.9,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1094,1404,Hele landet,Helse Vest RHF,983658725,35.2,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1595,1094,Helse Vest RHF,Haraldsplass Diakonale Sykehus AS,984027737,26.5,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,45.8,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,37,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,43.8,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,33.3,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,50,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,42.6,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,39.9,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,32.9,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,42.4,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,48.5,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1129,1404,Hele landet,Helse Nord RHF,883658752,45.4,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,39.1,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,46.3,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1099,1043,Helse Sør-Øst RHF,Diakonhjemmet sykehus AS,982791952,31.8,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,41.4,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,33.6,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,43.5,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,43,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,43.3,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,26.9,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1595,1094,Helse Vest RHF,Haraldsplass Diakonale Sykehus AS,984027737,51.6,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,32.1,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1403,1043,Helse Sør-Øst RHF,Lovisenberg Diakonale,965985166,41.7,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,37,Årlig,Andel kvinner som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,44,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,43.7,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,31.2,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,37,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,45.5,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,35.6,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,38.5,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,36.4,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,37.1,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,40.7,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,37.8,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,40,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,37,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,41.5,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,51.6,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,40.7,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,39,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,38,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,50,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,48.3,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,47.6,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,38.5,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,29.4,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,55.6,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,40.6,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,32.9,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,50.7,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,38.2,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,38.5,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,36.1,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,50,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,48.8,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,42.2,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,35.9,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,29.2,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,34.2,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,42.4,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,36.7,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,53.6,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,36.4,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,34.7,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,45.8,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,48.5,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,39.4,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,38.3,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,32.8,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,29.9,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,34.7,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,35.4,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,41.2,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,30.8,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,29.1,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,41.2,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,35.6,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,44,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,46.6,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,38,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1094,1404,Hele landet,Helse Vest RHF,983658725,35.8,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1094,1404,Hele landet,Helse Vest RHF,983658725,42.9,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1094,1404,Hele landet,Helse Vest RHF,983658725,44.3,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1099,1043,Helse Sør-Øst RHF,Diakonhjemmet sykehus AS,982791952,45.8,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1099,1043,Helse Sør-Øst RHF,Diakonhjemmet sykehus AS,982791952,65,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1099,1043,Helse Sør-Øst RHF,Diakonhjemmet sykehus AS,982791952,44.4,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1129,1404,Hele landet,Helse Nord RHF,883658752,44.6,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1129,1404,Hele landet,Helse Nord RHF,883658752,35.2,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1129,1404,Hele landet,Helse Nord RHF,883658752,45.1,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1403,1043,Helse Sør-Øst RHF,Lovisenberg Diakonale,965985166,35.1,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1403,1043,Helse Sør-Øst RHF,Lovisenberg Diakonale,965985166,25,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1403,1043,Helse Sør-Øst RHF,Lovisenberg Diakonale,965985166,41.7,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1404,0,,Hele landet,900000000,40.3,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1404,0,,Hele landet,900000000,38.2,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1404,0,,Hele landet,900000000,39.3,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,35.4,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,35.1,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,39.3,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,47.8,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,40.2,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,45.6,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,40.4,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,40.4,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,32.4,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1099,1043,Helse Sør-Øst RHF,Diakonhjemmet sykehus AS,982791952,28,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1403,1043,Helse Sør-Øst RHF,Lovisenberg Diakonale,965985166,37.5,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,33.3,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,44.6,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,38.1,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,35.8,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,34.1,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,31.9,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1404,0,,Hele landet,900000000,38.3,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1129,1404,Hele landet,Helse Nord RHF,883658752,35.1,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,41.7,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1094,1404,Hele landet,Helse Vest RHF,983658725,39.9,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,37.4,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,32.5,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,42.2,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,52.2,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,41.5,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,33.7,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,22.6,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,53.1,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,35.6,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,43.6,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1595,1094,Helse Vest RHF,Haraldsplass Diakonale Sykehus AS,984027737,46.2,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,25,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,38.9,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,45.9,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,33.3,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,41.7,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,43.3,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,30.3,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,47.8,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,43.9,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,31.1,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,24.4,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,44.9,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,28.6,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1099,1043,Helse Sør-Øst RHF,Diakonhjemmet sykehus AS,982791952,47.1,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,33.3,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1129,1404,Hele landet,Helse Nord RHF,883658752,40,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,47.6,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1094,1404,Hele landet,Helse Vest RHF,983658725,36.7,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,36.4,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1404,0,,Hele landet,900000000,38.3,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,30,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,51.7,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,45.3,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,37.8,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,41.9,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,32.4,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1595,1094,Helse Vest RHF,Haraldsplass Diakonale Sykehus AS,984027737,34.1,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1403,1043,Helse Sør-Øst RHF,Lovisenberg Diakonale,965985166,36.7,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1595,1094,Helse Vest RHF,Haraldsplass Diakonale Sykehus AS,984027737,33.3,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1595,1094,Helse Vest RHF,Haraldsplass Diakonale Sykehus AS,984027737,37.3,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1404,0,,Hele landet,900000000,35.9,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,36.8,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,53.8,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1595,1094,Helse Vest RHF,Haraldsplass Diakonale Sykehus AS,984027737,39.5,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,34.9,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,30.9,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,37.5,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,55.9,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,38.2,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,28.6,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,40.7,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,35.3,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1094,1404,Hele landet,Helse Vest RHF,983658725,33,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,33.8,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1129,1404,Hele landet,Helse Nord RHF,883658752,40.2,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,32,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,53.6,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1099,1043,Helse Sør-Øst RHF,Diakonhjemmet sykehus AS,982791952,52.9,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,35.5,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,29.5,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,35.9,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,42.3,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,39,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,36.3,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1595,1094,Helse Vest RHF,Haraldsplass Diakonale Sykehus AS,984027737,54.3,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,20.3,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1403,1043,Helse Sør-Øst RHF,Lovisenberg Diakonale,965985166,31.8,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,28.9,Årlig,Andel menn som får kurativ behandling for lungekreft,%,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,84,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,68,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,60,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,57,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,51,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,60,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,820,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,834,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,817,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,66,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,43,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,54,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,96,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,76,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,70,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,103,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,109,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,101,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,23,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,25,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,29,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,48,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,39,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,40,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,48,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,66,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,51,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,29,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,30,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,26,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,32,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,48,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,35,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,32,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,33,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,40,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,83,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,64,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,93,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,52,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,49,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,58,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,81,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,91,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,91,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,100,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,104,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,110,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,114,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,93,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,100,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,145,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,147,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,169,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,218,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,178,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,187,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1094,1404,Hele landet,Helse Vest RHF,983658725,274,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1094,1404,Hele landet,Helse Vest RHF,983658725,285,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1094,1404,Hele landet,Helse Vest RHF,983658725,303,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1099,1043,Helse Sør-Øst RHF,Diakonhjemmet sykehus AS,982791952,21,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1099,1043,Helse Sør-Øst RHF,Diakonhjemmet sykehus AS,982791952,34,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1099,1043,Helse Sør-Øst RHF,Diakonhjemmet sykehus AS,982791952,34,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1129,1404,Hele landet,Helse Nord RHF,883658752,151,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1129,1404,Hele landet,Helse Nord RHF,883658752,142,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1129,1404,Hele landet,Helse Nord RHF,883658752,161,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1403,1043,Helse Sør-Øst RHF,Lovisenberg Diakonale,965985166,26,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1403,1043,Helse Sør-Øst RHF,Lovisenberg Diakonale,965985166,21,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1403,1043,Helse Sør-Øst RHF,Lovisenberg Diakonale,965985166,16,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1404,0,,Hele landet,900000000,1458,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1404,0,,Hele landet,900000000,1475,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1404,0,,Hele landet,900000000,1440,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,125,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,121,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,105,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,86,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,87,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,83,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,125,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,171,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,111,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,103,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1099,1043,Helse Sør-Øst RHF,Diakonhjemmet sykehus AS,982791952,28,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1403,1043,Helse Sør-Øst RHF,Lovisenberg Diakonale,965985166,30,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,55,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,69,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,31,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,67,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,52,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,41,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1404,0,,Hele landet,900000000,1611,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1129,1404,Hele landet,Helse Nord RHF,883658752,191,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,217,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1094,1404,Hele landet,Helse Vest RHF,983658725,323,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,877,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,39,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,55,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,113,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,74,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,111,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,88,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,94,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,84,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,35,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1595,1094,Helse Vest RHF,Haraldsplass Diakonale Sykehus AS,984027737,32,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1099,1043,Helse Sør-Øst RHF,Diakonhjemmet sykehus AS,982791952,23,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,108,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1129,1404,Hele landet,Helse Nord RHF,883658752,187,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,213,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1094,1404,Hele landet,Helse Vest RHF,983658725,331,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,885,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1404,0,,Hele landet,900000000,1623,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,123,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,112,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,62,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,29,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,69,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,56,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,33,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,47,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,89,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,72,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,95,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,113,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,64,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,184,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,84,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,82,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1403,1043,Helse Sør-Øst RHF,Lovisenberg Diakonale,965985166,21,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,75,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1595,1094,Helse Vest RHF,Haraldsplass Diakonale Sykehus AS,984027737,41,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,34,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,62,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,47,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,33,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,236,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1094,1404,Hele landet,Helse Vest RHF,983658725,281,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,899,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,21,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1404,0,,Hele landet,900000000,1586,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,92,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,133,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,67,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1099,1043,Helse Sør-Øst RHF,Diakonhjemmet sykehus AS,982791952,22,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,181,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,122,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,138,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,93,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,48,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,67,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,85,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,56,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,79,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1595,1094,Helse Vest RHF,Haraldsplass Diakonale Sykehus AS,984027737,34,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,96,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,52,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1595,1094,Helse Vest RHF,Haraldsplass Diakonale Sykehus AS,984027737,34,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1595,1094,Helse Vest RHF,Haraldsplass Diakonale Sykehus AS,984027737,30,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1129,1404,Hele landet,Helse Nord RHF,883658752,163,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1595,1094,Helse Vest RHF,Haraldsplass Diakonale Sykehus AS,984027737,31,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1403,1043,Helse Sør-Øst RHF,Lovisenberg Diakonale,965985166,24,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,27,Årlig,Totalt antall kvinner behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,87,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,93,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,100,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,54,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,44,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,45,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,803,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,857,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,895,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,54,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,74,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,55,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,82,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,92,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,64,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,118,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,123,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,100,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,22,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,21,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,29,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,52,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,51,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,54,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,73,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,64,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,69,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,34,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,26,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,36,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,44,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,45,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,41,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,39,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,48,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,38,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,98,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,99,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,97,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,66,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,72,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,72,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,103,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,94,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,99,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,131,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,87,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,98,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,96,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,119,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,117,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,158,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,136,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,180,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,200,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,221,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,236,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1094,1404,Hele landet,Helse Vest RHF,983658725,363,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1094,1404,Hele landet,Helse Vest RHF,983658725,354,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1094,1404,Hele landet,Helse Vest RHF,983658725,350,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1099,1043,Helse Sør-Øst RHF,Diakonhjemmet sykehus AS,982791952,20,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1099,1043,Helse Sør-Øst RHF,Diakonhjemmet sykehus AS,982791952,24,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1099,1043,Helse Sør-Øst RHF,Diakonhjemmet sykehus AS,982791952,27,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1129,1404,Hele landet,Helse Nord RHF,883658752,175,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1129,1404,Hele landet,Helse Nord RHF,883658752,177,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1129,1404,Hele landet,Helse Nord RHF,883658752,179,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1403,1043,Helse Sør-Øst RHF,Lovisenberg Diakonale,965985166,37,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1403,1043,Helse Sør-Øst RHF,Lovisenberg Diakonale,965985166,20,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1403,1043,Helse Sør-Øst RHF,Lovisenberg Diakonale,965985166,24,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1404,0,,Hele landet,900000000,1663,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1404,0,,Hele landet,900000000,1614,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1404,0,,Hele landet,900000000,1549,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,130,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,111,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,135,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,87,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,92,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,68,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,136,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,146,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,105,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1099,1043,Helse Sør-Øst RHF,Diakonhjemmet sykehus AS,982791952,25,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1403,1043,Helse Sør-Øst RHF,Lovisenberg Diakonale,965985166,16,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,54,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,112,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,81,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,42,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,47,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,41,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,40,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1129,1404,Hele landet,Helse Nord RHF,883658752,211,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,211,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1094,1404,Hele landet,Helse Vest RHF,983658725,363,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,836,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1404,0,,Hele landet,900000000,1630,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,81,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,116,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,106,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,83,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,53,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,69,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,90,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,39,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1595,1094,Helse Vest RHF,Haraldsplass Diakonale Sykehus AS,984027737,39,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,100,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2018-01-01T00:00:00,2018-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,82,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,74,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,118,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,115,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,66,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,90,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,107,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,90,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1129,1404,Hele landet,Helse Nord RHF,883658752,175,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,212,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1094,1404,Hele landet,Helse Vest RHF,983658725,349,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1099,1043,Helse Sør-Øst RHF,Diakonhjemmet sykehus AS,982791952,17,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,863,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1404,0,,Hele landet,900000000,1618,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,119,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,30,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,24,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,54,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,61,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,36,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,95,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,164,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,87,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1403,1043,Helse Sør-Øst RHF,Lovisenberg Diakonale,965985166,30,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,37,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,62,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1595,1094,Helse Vest RHF,Haraldsplass Diakonale Sykehus AS,984027737,41,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2019-01-01T00:00:00,2019-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,76,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,63,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,26,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1129,1404,Hele landet,Helse Nord RHF,883658752,199,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,34,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1094,1404,Hele landet,Helse Vest RHF,983658725,345,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,875,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1404,0,,Hele landet,900000000,1660,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,225,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,94,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,56,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1099,1043,Helse Sør-Øst RHF,Diakonhjemmet sykehus AS,982791952,17,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,166,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,139,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,117,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,104,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,77,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,80,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,102,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,74,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,81,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1595,1094,Helse Vest RHF,Haraldsplass Diakonale Sykehus AS,984027737,43,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,83,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,48,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1595,1094,Helse Vest RHF,Haraldsplass Diakonale Sykehus AS,984027737,51,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2015-01-01T00:00:00,2015-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1595,1094,Helse Vest RHF,Haraldsplass Diakonale Sykehus AS,984027737,45,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,97,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1595,1094,Helse Vest RHF,Haraldsplass Diakonale Sykehus AS,984027737,46,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1403,1043,Helse Sør-Øst RHF,Lovisenberg Diakonale,965985166,22,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
+Kurativ behandling av lungekreft,162,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,45,Årlig,Totalt antall menn behandlet for lungekreft,Antall,2020-01-01T00:00:00,2020-12-31T00:00:00
