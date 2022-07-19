@@ -6,7 +6,7 @@ library(janitor)
 library(kableExtra)
 library(rjstat)
 library(dplyr)
-library(stingr)
+library(stringr)
 
 
 url <- "https://api.helsedirektoratet.no/innhold/nki/kvalitetsindikatorer/"
@@ -24,8 +24,14 @@ test <- test %>%
 
 #for Loop that retrieves all quality indicators and saves them to data folder
 #It's a 10 minute download.
-httr_options("UTF-8")
 for(i in 1:nrow(test)){
+  file.tmp <- paste0("./data/quality_indicators/",
+                     str_extract(test$fileName[i], "^[0-9]+"),
+                     ".csv")
+  
+  if(file.exists(file.tmp)){
+    print(noquote(c(file.tmp, noquote("was skipped"))))
+    next}
   
   tmp <- GET(test$fileUri[i],
              add_headers("Ocp-Apim-Subscription-Key" = key),
@@ -33,15 +39,8 @@ for(i in 1:nrow(test)){
     content(as = "text") %>% 
     jsonlite::fromJSON(flatten = TRUE) # parsing to dataframe
   
-  file.tmp <- paste0("./data/quality_indicators/",
-                                str_extract(test$fileName[i], "^[0-9]+"),
-                                ".csv")
-  
-  if(file.exists(file.tmp)){
-    print(noquote(c(file.tmp, noquote("was skipped"))))
-    next}
       write_csv(tmp$AttachmentDataRows, file.tmp)
-      print(noquote(c(file.tmp, noquote("was not skipped"))))
+      print(noquote(c(file.tmp, noquote("was saved"))))
       Sys.sleep(2+abs(rnorm(1)))
     
   }
