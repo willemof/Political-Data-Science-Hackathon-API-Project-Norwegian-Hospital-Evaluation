@@ -58,6 +58,19 @@ qi <- lapply(qi_files, read_csv, show_col_types = FALSE)
 
 qi <- bind_rows(qi)
 
+clean_qi<- clean_names(qi)
+
+filter_qi <- clean_qi %>%
+  filter(period_type=="Årlig") %>%
+  filter(quality_indicator_name=="Reinnleggelse blant eldre pasienter 30 dager etter utskrivning fra sykehus") %>%
+  filter(parent_name == "Hele landet") %>% 
+  filter(location_name == "Helse Sør-Øst RHF")
+
+dataset_name <- tibble(datasett = unique(filter_qi$quality_indicator_name))
+
+write.csv(dataset_name, file = "./datasett_name.csv")
+
+clean_qi$period_type
 
 url2 <- "https://api.helsedirektoratet.no/innhold/nki/kvalitetsindikatorer/0003-0010-5/data?contentType=application/json"
 
@@ -71,9 +84,10 @@ dge<-dg$AttachmentDataRows
 
 dge <-   clean_names(dge)
 
-dge_only_norway <- dge %>%
+dge_on <- dge %>%
   filter(parent_name=="Hele landet") %>%
-  filter(period_type=="Årlig")
+  filter(period_type=="Årlig") %>%
+  filter(qualiter_indicator_name=="Sykehusopphold – ventetid")
 
 group_mean <- aggregate(location_id ~ location_name, data = dge_only_norway, mean)
 group_mean <- aggregate(dge_only_norway$location_id ~ dge_only_norway$location_name, data = dge_only_norway, mean)

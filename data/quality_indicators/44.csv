@@ -1,0 +1,168 @@
+QualityIndicatorName,QualityIndicatorId,LocationId,LocationParentId,ParentName,LocationName,OrgNumber,Value,PeriodType,MeasureName,MeasureType,TimeFrom,TimeTo
+Pasienterfaringer fra døgnpsykiatrien,44,1024,1129,Helse Nord RHF,"Helse Nord, Privat",999999994,27,Årlig,Antall svar miljøet,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1026,1094,Helse Vest RHF,"Helse Vest, Privat ",999999992,53,Årlig,Antall svar miljøet,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1027,1043,Helse Sør-Øst RHF,"Helse Sør-Øst, private",999999991,225,Årlig,Antall svar miljøet,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,71,Årlig,Antall svar miljøet,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,86,Årlig,Antall svar miljøet,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,867,Årlig,Antall svar miljøet,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,37,Årlig,Antall svar miljøet,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,42,Årlig,Antall svar miljøet,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,87,Årlig,Antall svar miljøet,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,8,Årlig,Antall svar miljøet,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,63,Årlig,Antall svar miljøet,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,57,Årlig,Antall svar miljøet,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,20,Årlig,Antall svar miljøet,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,45,Årlig,Antall svar miljøet,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,28,Årlig,Antall svar miljøet,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,99,Årlig,Antall svar miljøet,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,68,Årlig,Antall svar miljøet,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,119,Årlig,Antall svar miljøet,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,67,Årlig,Antall svar miljøet,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,121,Årlig,Antall svar miljøet,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,84,Årlig,Antall svar miljøet,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,215,Årlig,Antall svar miljøet,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1094,1404,Hele landet,Helse Vest RHF,983658725,367,Årlig,Antall svar miljøet,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1129,1404,Hele landet,Helse Nord RHF,883658752,175,Årlig,Antall svar miljøet,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1352,1406,Vestre Viken HF,"Vestre Viken, Ringerike DPS, Seksj Dag- og Døgnbehandling Røyse",974147289,100,Årlig,Antall svar miljøet,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1404,0,,Hele landet,900000000,1624,Årlig,Antall svar miljøet,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,118,Årlig,Antall svar miljøet,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,99,Årlig,Antall svar miljøet,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1024,1129,Helse Nord RHF,"Helse Nord, Privat",999999994,25,Årlig,Antall svar pasientorientering,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1026,1094,Helse Vest RHF,"Helse Vest, Privat ",999999992,50,Årlig,Antall svar pasientorientering,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1027,1043,Helse Sør-Øst RHF,"Helse Sør-Øst, private",999999991,212,Årlig,Antall svar pasientorientering,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,65,Årlig,Antall svar pasientorientering,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,85,Årlig,Antall svar pasientorientering,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,801,Årlig,Antall svar pasientorientering,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,27,Årlig,Antall svar pasientorientering,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,41,Årlig,Antall svar pasientorientering,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,82,Årlig,Antall svar pasientorientering,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,8,Årlig,Antall svar pasientorientering,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,61,Årlig,Antall svar pasientorientering,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,51,Årlig,Antall svar pasientorientering,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,19,Årlig,Antall svar pasientorientering,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,43,Årlig,Antall svar pasientorientering,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,26,Årlig,Antall svar pasientorientering,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,95,Årlig,Antall svar pasientorientering,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,64,Årlig,Antall svar pasientorientering,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,110,Årlig,Antall svar pasientorientering,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,57,Årlig,Antall svar pasientorientering,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,111,Årlig,Antall svar pasientorientering,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,76,Årlig,Antall svar pasientorientering,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,199,Årlig,Antall svar pasientorientering,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1094,1404,Hele landet,Helse Vest RHF,983658725,345,Årlig,Antall svar pasientorientering,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1129,1404,Hele landet,Helse Nord RHF,883658752,164,Årlig,Antall svar pasientorientering,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1352,1406,Vestre Viken HF,"Vestre Viken, Ringerike DPS, Seksj Dag- og Døgnbehandling Røyse",974147289,50,Årlig,Antall svar pasientorientering,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1404,0,,Hele landet,900000000,1509,Årlig,Antall svar pasientorientering,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,110,Årlig,Antall svar pasientorientering,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,91,Årlig,Antall svar pasientorientering,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1024,1129,Helse Nord RHF,"Helse Nord, Privat",999999994,26,Årlig,Antall svar utbytte,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1026,1094,Helse Vest RHF,"Helse Vest, Privat ",999999992,53,Årlig,Antall svar utbytte,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1027,1043,Helse Sør-Øst RHF,"Helse Sør-Øst, private",999999991,225,Årlig,Antall svar utbytte,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,68,Årlig,Antall svar utbytte,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,87,Årlig,Antall svar utbytte,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,850,Årlig,Antall svar utbytte,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,33,Årlig,Antall svar utbytte,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,43,Årlig,Antall svar utbytte,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,82,Årlig,Antall svar utbytte,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,8,Årlig,Antall svar utbytte,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,60,Årlig,Antall svar utbytte,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,57,Årlig,Antall svar utbytte,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,20,Årlig,Antall svar utbytte,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,45,Årlig,Antall svar utbytte,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,29,Årlig,Antall svar utbytte,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,94,Årlig,Antall svar utbytte,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,67,Årlig,Antall svar utbytte,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,114,Årlig,Antall svar utbytte,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,64,Årlig,Antall svar utbytte,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,118,Årlig,Antall svar utbytte,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,80,Årlig,Antall svar utbytte,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,209,Årlig,Antall svar utbytte,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1094,1404,Hele landet,Helse Vest RHF,983658725,357,Årlig,Antall svar utbytte,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1129,1404,Hele landet,Helse Nord RHF,883658752,171,Årlig,Antall svar utbytte,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1352,1406,Vestre Viken HF,"Vestre Viken, Ringerike DPS, Seksj Dag- og Døgnbehandling Røyse",974147289,90,Årlig,Antall svar utbytte,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1404,0,,Hele landet,900000000,1587,Årlig,Antall svar utbytte,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,118,Årlig,Antall svar utbytte,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,96,Årlig,Antall svar utbytte,Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1024,1129,Helse Nord RHF,"Helse Nord, Privat",999999994,76,Årlig,"Miljøet (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1026,1094,Helse Vest RHF,"Helse Vest, Privat ",999999992,68,Årlig,"Miljøet (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1027,1043,Helse Sør-Øst RHF,"Helse Sør-Øst, private",999999991,71,Årlig,"Miljøet (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,71,Årlig,"Miljøet (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,64,Årlig,"Miljøet (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,68,Årlig,"Miljøet (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,74,Årlig,"Miljøet (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,66,Årlig,"Miljøet (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,68,Årlig,"Miljøet (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,80,Årlig,"Miljøet (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,68,Årlig,"Miljøet (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,71,Årlig,"Miljøet (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,69,Årlig,"Miljøet (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,66,Årlig,"Miljøet (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,74,Årlig,"Miljøet (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,68,Årlig,"Miljøet (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,77,Årlig,"Miljøet (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,71,Årlig,"Miljøet (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,67,Årlig,"Miljøet (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,69,Årlig,"Miljøet (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,68,Årlig,"Miljøet (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,68,Årlig,"Miljøet (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1094,1404,Hele landet,Helse Vest RHF,983658725,70,Årlig,"Miljøet (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1129,1404,Hele landet,Helse Nord RHF,883658752,70,Årlig,"Miljøet (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1352,1406,Vestre Viken HF,"Vestre Viken, Ringerike DPS, Seksj Dag- og Døgnbehandling Røyse",974147289,59,Årlig,"Miljøet (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1404,0,,Hele landet,900000000,68,Årlig,"Miljøet (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,66,Årlig,"Miljøet (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,68,Årlig,"Miljøet (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1024,1129,Helse Nord RHF,"Helse Nord, Privat",999999994,68,Årlig,"Pasientorientering (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1026,1094,Helse Vest RHF,"Helse Vest, Privat ",999999992,59,Årlig,"Pasientorientering (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1027,1043,Helse Sør-Øst RHF,"Helse Sør-Øst, private",999999991,59,Årlig,"Pasientorientering (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,59,Årlig,"Pasientorientering (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,51,Årlig,"Pasientorientering (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,56,Årlig,"Pasientorientering (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,49,Årlig,"Pasientorientering (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,45,Årlig,"Pasientorientering (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,58,Årlig,"Pasientorientering (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1077,1129,Helse Nord RHF,Helgelandssykehuset HF,983974929,63,Årlig,"Pasientorientering (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,54,Årlig,"Pasientorientering (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,61,Årlig,"Pasientorientering (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,62,Årlig,"Pasientorientering (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,55,Årlig,"Pasientorientering (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,58,Årlig,"Pasientorientering (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,56,Årlig,"Pasientorientering (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,59,Årlig,"Pasientorientering (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,56,Årlig,"Pasientorientering (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,58,Årlig,"Pasientorientering (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,54,Årlig,"Pasientorientering (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,57,Årlig,"Pasientorientering (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,57,Årlig,"Pasientorientering (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1094,1404,Hele landet,Helse Vest RHF,983658725,57,Årlig,"Pasientorientering (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1129,1404,Hele landet,Helse Nord RHF,883658752,59,Årlig,"Pasientorientering (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1352,1406,Vestre Viken HF,"Vestre Viken, Ringerike DPS, Seksj Dag- og Døgnbehandling Røyse",974147289,72,Årlig,"Pasientorientering (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1404,0,,Hele landet,900000000,56,Årlig,"Pasientorientering (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,60,Årlig,"Pasientorientering (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,58,Årlig,"Pasientorientering (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1024,1129,Helse Nord RHF,"Helse Nord, Privat",999999994,70,Årlig,"Opplevd utbytte av behandlingen (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1026,1094,Helse Vest RHF,"Helse Vest, Privat ",999999992,52,Årlig,"Opplevd utbytte av behandlingen (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1027,1043,Helse Sør-Øst RHF,"Helse Sør-Øst, private",999999991,61,Årlig,"Opplevd utbytte av behandlingen (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,63,Årlig,"Opplevd utbytte av behandlingen (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,51,Årlig,"Opplevd utbytte av behandlingen (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,56,Årlig,"Opplevd utbytte av behandlingen (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,55,Årlig,"Opplevd utbytte av behandlingen (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,48,Årlig,"Opplevd utbytte av behandlingen (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,56,Årlig,"Opplevd utbytte av behandlingen (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,55,Årlig,"Opplevd utbytte av behandlingen (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,63,Årlig,"Opplevd utbytte av behandlingen (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,55,Årlig,"Opplevd utbytte av behandlingen (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,58,Årlig,"Opplevd utbytte av behandlingen (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,52,Årlig,"Opplevd utbytte av behandlingen (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,60,Årlig,"Opplevd utbytte av behandlingen (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,62,Årlig,"Opplevd utbytte av behandlingen (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,56,Årlig,"Opplevd utbytte av behandlingen (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,56,Årlig,"Opplevd utbytte av behandlingen (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,55,Årlig,"Opplevd utbytte av behandlingen (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,57,Årlig,"Opplevd utbytte av behandlingen (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,57,Årlig,"Opplevd utbytte av behandlingen (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1094,1404,Hele landet,Helse Vest RHF,983658725,57,Årlig,"Opplevd utbytte av behandlingen (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1129,1404,Hele landet,Helse Nord RHF,883658752,59,Årlig,"Opplevd utbytte av behandlingen (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1352,1406,Vestre Viken HF,"Vestre Viken, Ringerike DPS, Seksj Dag- og Døgnbehandling Røyse",974147289,63,Årlig,"Opplevd utbytte av behandlingen (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1404,0,,Hele landet,900000000,57,Årlig,"Opplevd utbytte av behandlingen (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,59,Årlig,"Opplevd utbytte av behandlingen (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00
+Pasienterfaringer fra døgnpsykiatrien,44,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,54,Årlig,"Opplevd utbytte av behandlingen (0-100, der 100 er best)",Antall,2016-01-01T00:00:00,2016-12-31T00:00:00

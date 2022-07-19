@@ -1,0 +1,277 @@
+QualityIndicatorName,QualityIndicatorId,LocationId,LocationParentId,ParentName,LocationName,OrgNumber,Value,PeriodType,MeasureName,MeasureType,TimeFrom,TimeTo
+Brukererfaringer med behandlingen av barnediabetes,43,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,77,Årlig,Antall svar konsultasjonen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,92,Årlig,Antall svar konsultasjonen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,748,Årlig,Antall svar konsultasjonen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,50,Årlig,Antall svar konsultasjonen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,64,Årlig,Antall svar konsultasjonen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,104,Årlig,Antall svar konsultasjonen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,56,Årlig,Antall svar konsultasjonen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,49,Årlig,Antall svar konsultasjonen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,13,Årlig,Antall svar konsultasjonen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,43,Årlig,Antall svar konsultasjonen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,34,Årlig,Antall svar konsultasjonen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,107,Årlig,Antall svar konsultasjonen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,63,Årlig,Antall svar konsultasjonen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,67,Årlig,Antall svar konsultasjonen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,79,Årlig,Antall svar konsultasjonen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,112,Årlig,Antall svar konsultasjonen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,130,Årlig,Antall svar konsultasjonen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,206,Årlig,Antall svar konsultasjonen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1094,1404,Hele landet,Helse Vest RHF,983658725,271,Årlig,Antall svar konsultasjonen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1129,1404,Hele landet,Helse Nord RHF,883658752,118,Årlig,Antall svar konsultasjonen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1404,0,,Hele landet,900000000,1343,Årlig,Antall svar konsultasjonen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,113,Årlig,Antall svar konsultasjonen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,86,Årlig,Antall svar konsultasjonen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,77,Årlig,Antall svar organisering,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,92,Årlig,Antall svar organisering,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,748,Årlig,Antall svar organisering,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,50,Årlig,Antall svar organisering,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,64,Årlig,Antall svar organisering,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,104,Årlig,Antall svar organisering,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,56,Årlig,Antall svar organisering,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,49,Årlig,Antall svar organisering,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,13,Årlig,Antall svar organisering,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,43,Årlig,Antall svar organisering,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,34,Årlig,Antall svar organisering,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,107,Årlig,Antall svar organisering,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,63,Årlig,Antall svar organisering,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,67,Årlig,Antall svar organisering,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,79,Årlig,Antall svar organisering,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,112,Årlig,Antall svar organisering,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,130,Årlig,Antall svar organisering,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,206,Årlig,Antall svar organisering,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1094,1404,Hele landet,Helse Vest RHF,983658725,271,Årlig,Antall svar organisering,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1129,1404,Hele landet,Helse Nord RHF,883658752,118,Årlig,Antall svar organisering,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1404,0,,Hele landet,900000000,1343,Årlig,Antall svar organisering,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,113,Årlig,Antall svar organisering,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,86,Årlig,Antall svar organisering,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,77,Årlig,Antall svar utstyr,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,92,Årlig,Antall svar utstyr,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,748,Årlig,Antall svar utstyr,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,50,Årlig,Antall svar utstyr,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,64,Årlig,Antall svar utstyr,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,104,Årlig,Antall svar utstyr,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,56,Årlig,Antall svar utstyr,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,49,Årlig,Antall svar utstyr,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,13,Årlig,Antall svar utstyr,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,43,Årlig,Antall svar utstyr,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,34,Årlig,Antall svar utstyr,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,107,Årlig,Antall svar utstyr,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,63,Årlig,Antall svar utstyr,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,67,Årlig,Antall svar utstyr,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,79,Årlig,Antall svar utstyr,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,112,Årlig,Antall svar utstyr,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,130,Årlig,Antall svar utstyr,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,206,Årlig,Antall svar utstyr,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1094,1404,Hele landet,Helse Vest RHF,983658725,271,Årlig,Antall svar utstyr,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1129,1404,Hele landet,Helse Nord RHF,883658752,118,Årlig,Antall svar utstyr,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1404,0,,Hele landet,900000000,1343,Årlig,Antall svar utstyr,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,113,Årlig,Antall svar utstyr,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,86,Årlig,Antall svar utstyr,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,77,Årlig,Antall svar sykepleierne,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,92,Årlig,Antall svar sykepleierne,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,748,Årlig,Antall svar sykepleierne,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,50,Årlig,Antall svar sykepleierne,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,64,Årlig,Antall svar sykepleierne,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,104,Årlig,Antall svar sykepleierne,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,56,Årlig,Antall svar sykepleierne,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,49,Årlig,Antall svar sykepleierne,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,13,Årlig,Antall svar sykepleierne,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,43,Årlig,Antall svar sykepleierne,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,34,Årlig,Antall svar sykepleierne,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,107,Årlig,Antall svar sykepleierne,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,63,Årlig,Antall svar sykepleierne,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,67,Årlig,Antall svar sykepleierne,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,79,Årlig,Antall svar sykepleierne,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,112,Årlig,Antall svar sykepleierne,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,130,Årlig,Antall svar sykepleierne,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,206,Årlig,Antall svar sykepleierne,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1094,1404,Hele landet,Helse Vest RHF,983658725,271,Årlig,Antall svar sykepleierne,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1129,1404,Hele landet,Helse Nord RHF,883658752,118,Årlig,Antall svar sykepleierne,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1404,0,,Hele landet,900000000,1343,Årlig,Antall svar sykepleierne,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,113,Årlig,Antall svar sykepleierne,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,86,Årlig,Antall svar sykepleierne,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,77,Årlig,Antall svar legen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,92,Årlig,Antall svar legen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,748,Årlig,Antall svar legen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,50,Årlig,Antall svar legen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,64,Årlig,Antall svar legen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,104,Årlig,Antall svar legen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,56,Årlig,Antall svar legen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,49,Årlig,Antall svar legen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,13,Årlig,Antall svar legen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,43,Årlig,Antall svar legen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,34,Årlig,Antall svar legen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,107,Årlig,Antall svar legen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,63,Årlig,Antall svar legen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,67,Årlig,Antall svar legen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,79,Årlig,Antall svar legen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,112,Årlig,Antall svar legen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,130,Årlig,Antall svar legen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,206,Årlig,Antall svar legen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1094,1404,Hele landet,Helse Vest RHF,983658725,271,Årlig,Antall svar legen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1129,1404,Hele landet,Helse Nord RHF,883658752,118,Årlig,Antall svar legen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1404,0,,Hele landet,900000000,1343,Årlig,Antall svar legen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,113,Årlig,Antall svar legen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,86,Årlig,Antall svar legen,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,77,Årlig,Antall svar resultat,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,92,Årlig,Antall svar resultat,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,748,Årlig,Antall svar resultat,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,50,Årlig,Antall svar resultat,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,64,Årlig,Antall svar resultat,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,104,Årlig,Antall svar resultat,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,56,Årlig,Antall svar resultat,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,49,Årlig,Antall svar resultat,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,13,Årlig,Antall svar resultat,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,43,Årlig,Antall svar resultat,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,34,Årlig,Antall svar resultat,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,107,Årlig,Antall svar resultat,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,63,Årlig,Antall svar resultat,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,67,Årlig,Antall svar resultat,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,79,Årlig,Antall svar resultat,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,112,Årlig,Antall svar resultat,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,130,Årlig,Antall svar resultat,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,206,Årlig,Antall svar resultat,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1094,1404,Hele landet,Helse Vest RHF,983658725,271,Årlig,Antall svar resultat,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1129,1404,Hele landet,Helse Nord RHF,883658752,118,Årlig,Antall svar resultat,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1404,0,,Hele landet,900000000,1343,Årlig,Antall svar resultat,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,113,Årlig,Antall svar resultat,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,86,Årlig,Antall svar resultat,Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,74,Årlig,"Konsultasjonen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,83,Årlig,"Konsultasjonen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,79,Årlig,"Konsultasjonen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,78,Årlig,"Konsultasjonen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,86,Årlig,"Konsultasjonen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,80,Årlig,"Konsultasjonen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,79,Årlig,"Konsultasjonen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,86,Årlig,"Konsultasjonen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,-1e+007,Årlig,"Konsultasjonen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,83,Årlig,"Konsultasjonen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,80,Årlig,"Konsultasjonen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,78,Årlig,"Konsultasjonen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,80,Årlig,"Konsultasjonen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,63,Årlig,"Konsultasjonen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,84,Årlig,"Konsultasjonen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,86,Årlig,"Konsultasjonen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,69,Årlig,"Konsultasjonen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,78,Årlig,"Konsultasjonen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1094,1404,Hele landet,Helse Vest RHF,983658725,74,Årlig,"Konsultasjonen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1129,1404,Hele landet,Helse Nord RHF,883658752,80,Årlig,"Konsultasjonen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1404,0,,Hele landet,900000000,78,Årlig,"Konsultasjonen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,75,Årlig,"Konsultasjonen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,79,Årlig,"Konsultasjonen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,74,Årlig,"Organisering (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,73,Årlig,"Organisering (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,74,Årlig,"Organisering (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,76,Årlig,"Organisering (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,76,Årlig,"Organisering (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,76,Årlig,"Organisering (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,75,Årlig,"Organisering (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,80,Årlig,"Organisering (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,60,Årlig,"Organisering (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,74,Årlig,"Organisering (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,77,Årlig,"Organisering (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,73,Årlig,"Organisering (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,72,Årlig,"Organisering (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,70,Årlig,"Organisering (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,78,Årlig,"Organisering (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,82,Årlig,"Organisering (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,64,Årlig,"Organisering (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,74,Årlig,"Organisering (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1094,1404,Hele landet,Helse Vest RHF,983658725,72,Årlig,"Organisering (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1129,1404,Hele landet,Helse Nord RHF,883658752,75,Årlig,"Organisering (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1404,0,,Hele landet,900000000,74,Årlig,"Organisering (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,69,Årlig,"Organisering (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,74,Årlig,"Organisering (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,67,Årlig,"Utstyr (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,67,Årlig,"Utstyr (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,66,Årlig,"Utstyr (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,66,Årlig,"Utstyr (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,72,Årlig,"Utstyr (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,66,Årlig,"Utstyr (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,68,Årlig,"Utstyr (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,68,Årlig,"Utstyr (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,43,Årlig,"Utstyr (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,77,Årlig,"Utstyr (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,70,Årlig,"Utstyr (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,61,Årlig,"Utstyr (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,66,Årlig,"Utstyr (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,49,Årlig,"Utstyr (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,72,Årlig,"Utstyr (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,78,Årlig,"Utstyr (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,56,Årlig,"Utstyr (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,68,Årlig,"Utstyr (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1094,1404,Hele landet,Helse Vest RHF,983658725,60,Årlig,"Utstyr (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1129,1404,Hele landet,Helse Nord RHF,883658752,65,Årlig,"Utstyr (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1404,0,,Hele landet,900000000,66,Årlig,"Utstyr (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,62,Årlig,"Utstyr (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,67,Årlig,"Utstyr (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,89,Årlig,"Sykepleierne (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,85,Årlig,"Sykepleierne (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,85,Årlig,"Sykepleierne (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,85,Årlig,"Sykepleierne (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,88,Årlig,"Sykepleierne (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,85,Årlig,"Sykepleierne (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,88,Årlig,"Sykepleierne (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,94,Årlig,"Sykepleierne (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,83,Årlig,"Sykepleierne (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,93,Årlig,"Sykepleierne (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,92,Årlig,"Sykepleierne (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,77,Årlig,"Sykepleierne (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,86,Årlig,"Sykepleierne (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,82,Årlig,"Sykepleierne (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,90,Årlig,"Sykepleierne (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,90,Årlig,"Sykepleierne (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,82,Årlig,"Sykepleierne (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,88,Årlig,"Sykepleierne (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1094,1404,Hele landet,Helse Vest RHF,983658725,82,Årlig,"Sykepleierne (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1129,1404,Hele landet,Helse Nord RHF,883658752,90,Årlig,"Sykepleierne (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1404,0,,Hele landet,900000000,86,Årlig,"Sykepleierne (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,79,Årlig,"Sykepleierne (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,86,Årlig,"Sykepleierne (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,81,Årlig,"Legen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,89,Årlig,"Legen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,85,Årlig,"Legen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,88,Årlig,"Legen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,95,Årlig,"Legen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,87,Årlig,"Legen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,88,Årlig,"Legen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,91,Årlig,"Legen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,79,Årlig,"Legen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,89,Årlig,"Legen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,87,Årlig,"Legen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,82,Årlig,"Legen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,86,Årlig,"Legen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,80,Årlig,"Legen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,88,Årlig,"Legen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,92,Årlig,"Legen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,67,Årlig,"Legen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,83,Årlig,"Legen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1094,1404,Hele landet,Helse Vest RHF,983658725,83,Årlig,"Legen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1129,1404,Hele landet,Helse Nord RHF,883658752,88,Årlig,"Legen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1404,0,,Hele landet,900000000,85,Årlig,"Legen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,84,Årlig,"Legen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,83,Årlig,"Legen (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1033,1093,Helse Midt-Norge RHF,Helse Møre og Romsdal HF,997005562,76,Årlig,"Reultat (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1039,1043,Helse Sør-Øst RHF,Oslo universitetssykehus HF,993467049,83,Årlig,"Reultat (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1043,1404,Hele landet,Helse Sør-Øst RHF,991324968,80,Årlig,"Reultat (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1074,1043,Helse Sør-Øst RHF,Sykehuset i Telemark HF,983975267,77,Årlig,"Reultat (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1075,1043,Helse Sør-Øst RHF,Sykehuset i Vestfold HF,983975259,87,Årlig,"Reultat (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1076,1043,Helse Sør-Øst RHF,Sørlandet sykehus HF,983975240,80,Årlig,"Reultat (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1078,1129,Helse Nord RHF,Nordlandssykehuset HF,983974910,83,Årlig,"Reultat (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1079,1129,Helse Nord RHF,Universitetssykehuset Nord-Norge HF,983974899,86,Årlig,"Reultat (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1080,1129,Helse Nord RHF,Finnmarkssykehuset HF,983974880,-1e+007,Årlig,"Reultat (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1081,1093,Helse Midt-Norge RHF,Helse Nord-Trøndelag HF,983974791,84,Årlig,"Reultat (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1084,1094,Helse Vest RHF,Helse Førde HF,983974732,82,Årlig,"Reultat (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1085,1094,Helse Vest RHF,Helse Bergen HF,983974724,79,Årlig,"Reultat (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1086,1094,Helse Vest RHF,Helse Fonna HF,983974694,81,Årlig,"Reultat (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1087,1094,Helse Vest RHF,Helse Stavanger HF,983974678,63,Årlig,"Reultat (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1089,1043,Helse Sør-Øst RHF,Sykehuset i Østfold HF,983971768,85,Årlig,"Reultat (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1090,1043,Helse Sør-Øst RHF,Sykehuset Innlandet HF,983971709,88,Årlig,"Reultat (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1092,1043,Helse Sør-Øst RHF,Akershus universitetssykehus HF,983971636,71,Årlig,"Reultat (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1093,1404,Hele landet,Helse Midt-Norge RHF,983658776,79,Årlig,"Reultat (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1094,1404,Hele landet,Helse Vest RHF,983658725,75,Årlig,"Reultat (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1129,1404,Hele landet,Helse Nord RHF,883658752,81,Årlig,"Reultat (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1404,0,,Hele landet,900000000,80,Årlig,"Reultat (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1406,1043,Helse Sør-Øst RHF,Vestre Viken HF,894166762,78,Årlig,"Reultat (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00
+Brukererfaringer med behandlingen av barnediabetes,43,1408,1093,Helse Midt-Norge RHF,St. Olavs Hospital HF,883974832,81,Årlig,"Reultat (0-100, der 100 er best)",Antall,2017-01-01T00:00:00,2017-12-31T00:00:00

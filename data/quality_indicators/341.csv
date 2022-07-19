@@ -1,0 +1,126 @@
+QualityIndicatorName,QualityIndicatorId,LocationId,LocationParentId,ParentName,LocationName,OrgNumber,Value,PeriodType,MeasureName,MeasureType,TimeFrom,TimeTo
+Pasienterfaringer med fastlege og fastlegekontor,341,1742,388,Norge,Viken,302020,77,Årlig,Fastlegen,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1743,388,Norge,Innlandet,342020,76,Årlig,Fastlegen,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1744,388,Norge,Vestfold og Telemark,382020,76,Årlig,Fastlegen,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1745,388,Norge,Agder,422020,80,Årlig,Fastlegen,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1739,388,Norge,Rogaland,112020,78,Årlig,Fastlegen,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1746,388,Norge,Vestland,462020,76,Årlig,Fastlegen,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1740,388,Norge,Møre og Romsdal,152020,76,Årlig,Fastlegen,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1747,388,Norge,Trøndelag,502020,80,Årlig,Fastlegen,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1741,388,Norge,Nordland,182020,74,Årlig,Fastlegen,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1748,388,Norge,Troms og Finnmark,542020,76,Årlig,Fastlegen,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1749,1738,"Oslo, fylke","Oslo, kommune",3012020,76,Årlig,Fastlegen,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1844,1742,Viken,Drammen,30052020,74,Årlig,Fastlegen,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1856,1742,Viken,Nordre Follo,30202020,74,Årlig,Fastlegen,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1860,1742,Viken,Bærum,30242020,81,Årlig,Fastlegen,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1939,1744,Vestfold og Telemark,Tønsberg,38032020,72,Årlig,Fastlegen,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1940,1744,Vestfold og Telemark,Sandefjord,38042020,78,Årlig,Fastlegen,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1963,1745,Agder,Kristiansand,42042020,79,Årlig,Fastlegen,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1751,1739,Rogaland,Stavanger,11032020,78,Årlig,Fastlegen,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1753,1739,Rogaland,Sandnes,11082020,74,Årlig,Fastlegen,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1985,1746,Vestland,Bergen,46012020,77,Årlig,Fastlegen,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1775,1740,Møre og Romsdal,Ålesund,15072020,78,Årlig,Fastlegen,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,2028,1747,Trøndelag,Trondheim,50012020,79,Årlig,Fastlegen,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1861,1742,Viken,Asker,30252020,75,Årlig,Fastlegen,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1738,388,Norge,"Oslo, fylke",32020,77,Årlig,Fastlegen,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,388,0,,Norge,9999,77,Årlig,Fastlegen,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1747,388,Norge,Trøndelag,502020,79,Årlig,Organisering og øvrige ansatte,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1741,388,Norge,Nordland,182020,74,Årlig,Organisering og øvrige ansatte,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1748,388,Norge,Troms og Finnmark,542020,75,Årlig,Organisering og øvrige ansatte,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1749,1738,"Oslo, fylke","Oslo, kommune",3012020,75,Årlig,Organisering og øvrige ansatte,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1844,1742,Viken,Drammen,30052020,77,Årlig,Organisering og øvrige ansatte,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1856,1742,Viken,Nordre Follo,30202020,73,Årlig,Organisering og øvrige ansatte,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1860,1742,Viken,Bærum,30242020,81,Årlig,Organisering og øvrige ansatte,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1861,1742,Viken,Asker,30252020,76,Årlig,Organisering og øvrige ansatte,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1939,1744,Vestfold og Telemark,Tønsberg,38032020,73,Årlig,Organisering og øvrige ansatte,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1940,1744,Vestfold og Telemark,Sandefjord,38042020,81,Årlig,Organisering og øvrige ansatte,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1963,1745,Agder,Kristiansand,42042020,79,Årlig,Organisering og øvrige ansatte,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1751,1739,Rogaland,Stavanger,11032020,81,Årlig,Organisering og øvrige ansatte,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1753,1739,Rogaland,Sandnes,11082020,75,Årlig,Organisering og øvrige ansatte,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1985,1746,Vestland,Bergen,46012020,80,Årlig,Organisering og øvrige ansatte,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1775,1740,Møre og Romsdal,Ålesund,15072020,77,Årlig,Organisering og øvrige ansatte,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,2028,1747,Trøndelag,Trondheim,50012020,79,Årlig,Organisering og øvrige ansatte,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1740,388,Norge,Møre og Romsdal,152020,78,Årlig,Organisering og øvrige ansatte,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1746,388,Norge,Vestland,462020,79,Årlig,Organisering og øvrige ansatte,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1739,388,Norge,Rogaland,112020,78,Årlig,Organisering og øvrige ansatte,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1745,388,Norge,Agder,422020,80,Årlig,Organisering og øvrige ansatte,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,388,0,,Norge,9999,77,Årlig,Organisering og øvrige ansatte,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1738,388,Norge,"Oslo, fylke",32020,75,Årlig,Organisering og øvrige ansatte,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1742,388,Norge,Viken,302020,77,Årlig,Organisering og øvrige ansatte,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1743,388,Norge,Innlandet,342020,79,Årlig,Organisering og øvrige ansatte,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1744,388,Norge,Vestfold og Telemark,382020,77,Årlig,Organisering og øvrige ansatte,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1749,1738,"Oslo, fylke","Oslo, kommune",3012020,62,Årlig,Tilgjengelighet,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,388,0,,Norge,9999,63,Årlig,Tilgjengelighet,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1738,388,Norge,"Oslo, fylke",32020,62,Årlig,Tilgjengelighet,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1742,388,Norge,Viken,302020,62,Årlig,Tilgjengelighet,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1743,388,Norge,Innlandet,342020,65,Årlig,Tilgjengelighet,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1744,388,Norge,Vestfold og Telemark,382020,65,Årlig,Tilgjengelighet,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1745,388,Norge,Agder,422020,67,Årlig,Tilgjengelighet,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1739,388,Norge,Rogaland,112020,66,Årlig,Tilgjengelighet,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1746,388,Norge,Vestland,462020,63,Årlig,Tilgjengelighet,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1740,388,Norge,Møre og Romsdal,152020,64,Årlig,Tilgjengelighet,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1747,388,Norge,Trøndelag,502020,64,Årlig,Tilgjengelighet,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1741,388,Norge,Nordland,182020,57,Årlig,Tilgjengelighet,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1748,388,Norge,Troms og Finnmark,542020,60,Årlig,Tilgjengelighet,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1844,1742,Viken,Drammen,30052020,62,Årlig,Tilgjengelighet,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1856,1742,Viken,Nordre Follo,30202020,59,Årlig,Tilgjengelighet,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1860,1742,Viken,Bærum,30242020,70,Årlig,Tilgjengelighet,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1861,1742,Viken,Asker,30252020,63,Årlig,Tilgjengelighet,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1939,1744,Vestfold og Telemark,Tønsberg,38032020,63,Årlig,Tilgjengelighet,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1940,1744,Vestfold og Telemark,Sandefjord,38042020,67,Årlig,Tilgjengelighet,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1963,1745,Agder,Kristiansand,42042020,63,Årlig,Tilgjengelighet,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1751,1739,Rogaland,Stavanger,11032020,64,Årlig,Tilgjengelighet,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1753,1739,Rogaland,Sandnes,11082020,64,Årlig,Tilgjengelighet,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1985,1746,Vestland,Bergen,46012020,65,Årlig,Tilgjengelighet,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1775,1740,Møre og Romsdal,Ålesund,15072020,63,Årlig,Tilgjengelighet,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,2028,1747,Trøndelag,Trondheim,50012020,67,Årlig,Tilgjengelighet,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1775,1740,Møre og Romsdal,Ålesund,15072020,77,Årlig,Koordinering og samhandling,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,2028,1747,Trøndelag,Trondheim,50012020,78,Årlig,Koordinering og samhandling,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1985,1746,Vestland,Bergen,46012020,76,Årlig,Koordinering og samhandling,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1753,1739,Rogaland,Sandnes,11082020,75,Årlig,Koordinering og samhandling,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1963,1745,Agder,Kristiansand,42042020,79,Årlig,Koordinering og samhandling,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,388,0,,Norge,9999,75,Årlig,Koordinering og samhandling,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1738,388,Norge,"Oslo, fylke",32020,74,Årlig,Koordinering og samhandling,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1742,388,Norge,Viken,302020,75,Årlig,Koordinering og samhandling,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1743,388,Norge,Innlandet,342020,73,Årlig,Koordinering og samhandling,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1751,1739,Rogaland,Stavanger,11032020,76,Årlig,Koordinering og samhandling,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1744,388,Norge,Vestfold og Telemark,382020,72,Årlig,Koordinering og samhandling,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1739,388,Norge,Rogaland,112020,76,Årlig,Koordinering og samhandling,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1746,388,Norge,Vestland,462020,76,Årlig,Koordinering og samhandling,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1740,388,Norge,Møre og Romsdal,152020,75,Årlig,Koordinering og samhandling,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1747,388,Norge,Trøndelag,502020,78,Årlig,Koordinering og samhandling,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1741,388,Norge,Nordland,182020,72,Årlig,Koordinering og samhandling,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1748,388,Norge,Troms og Finnmark,542020,74,Årlig,Koordinering og samhandling,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1749,1738,"Oslo, fylke","Oslo, kommune",3012020,74,Årlig,Koordinering og samhandling,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1844,1742,Viken,Drammen,30052020,73,Årlig,Koordinering og samhandling,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1856,1742,Viken,Nordre Follo,30202020,73,Årlig,Koordinering og samhandling,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1860,1742,Viken,Bærum,30242020,78,Årlig,Koordinering og samhandling,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1861,1742,Viken,Asker,30252020,73,Årlig,Koordinering og samhandling,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1939,1744,Vestfold og Telemark,Tønsberg,38032020,70,Årlig,Koordinering og samhandling,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1940,1744,Vestfold og Telemark,Sandefjord,38042020,74,Årlig,Koordinering og samhandling,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1745,388,Norge,Agder,422020,80,Årlig,Koordinering og samhandling,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,388,0,,Norge,9999,68,Årlig,Mestring,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1738,388,Norge,"Oslo, fylke",32020,68,Årlig,Mestring,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1742,388,Norge,Viken,302020,67,Årlig,Mestring,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1743,388,Norge,Innlandet,342020,67,Årlig,Mestring,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1744,388,Norge,Vestfold og Telemark,382020,66,Årlig,Mestring,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1745,388,Norge,Agder,422020,72,Årlig,Mestring,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1739,388,Norge,Rogaland,112020,69,Årlig,Mestring,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1746,388,Norge,Vestland,462020,68,Årlig,Mestring,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1740,388,Norge,Møre og Romsdal,152020,68,Årlig,Mestring,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1747,388,Norge,Trøndelag,502020,71,Årlig,Mestring,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1741,388,Norge,Nordland,182020,63,Årlig,Mestring,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1748,388,Norge,Troms og Finnmark,542020,66,Årlig,Mestring,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1749,1738,"Oslo, fylke","Oslo, kommune",3012020,68,Årlig,Mestring,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1844,1742,Viken,Drammen,30052020,66,Årlig,Mestring,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1856,1742,Viken,Nordre Follo,30202020,63,Årlig,Mestring,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1860,1742,Viken,Bærum,30242020,71,Årlig,Mestring,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1861,1742,Viken,Asker,30252020,67,Årlig,Mestring,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1939,1744,Vestfold og Telemark,Tønsberg,38032020,62,Årlig,Mestring,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1940,1744,Vestfold og Telemark,Sandefjord,38042020,70,Årlig,Mestring,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1963,1745,Agder,Kristiansand,42042020,72,Årlig,Mestring,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1751,1739,Rogaland,Stavanger,11032020,70,Årlig,Mestring,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1753,1739,Rogaland,Sandnes,11082020,64,Årlig,Mestring,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1985,1746,Vestland,Bergen,46012020,67,Årlig,Mestring,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,1775,1740,Møre og Romsdal,Ålesund,15072020,74,Årlig,Mestring,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
+Pasienterfaringer med fastlege og fastlegekontor,341,2028,1747,Trøndelag,Trondheim,50012020,70,Årlig,Mestring,Desimal,2021-01-01T00:00:00,2021-12-31T00:00:00
