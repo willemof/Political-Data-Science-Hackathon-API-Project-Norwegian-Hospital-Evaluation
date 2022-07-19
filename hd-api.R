@@ -74,3 +74,4 @@ qi_name_list <- tibble(datasett = unique(filter_qi$quality_indicator_name))
 write.csv(qi_name_list, file = "./qi_name_list.csv")
 
 
+write_csv(filter_qi, file = "./data/merged_datasets/filter_qi.csv")
