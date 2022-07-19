@@ -1,0 +1,24 @@
+---
+title: "Hospital-Satisfaction"
+author: "Willem"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+```{r}
+#Start by loading in csv-files
+df_2010 <- read_csv("data/Innbyggerundersøkelsen/2010.csv")
+df_2013 <- ds <- read_csv("data/Innbyggerundersøkelsen/2013.csv")
+df_2015 <- ds <- read_csv("data/Innbyggerundersøkelsen/2015.csv")
+dg <- ds <- read_csv("data/Innbyggerundersøkelsen/2017.csv")
+de <- ds <- read_csv("data/Innbyggerundersøkelsen/2019.csv")
+
+#needs to reassign varibles, janitor?
+
+```
+
