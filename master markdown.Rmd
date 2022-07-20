@@ -3,6 +3,19 @@ title: "Auditor General's Office - The Efficiency of Norway's Hospital System fr
 output: html_notebook
 ---
 
+##Introduction
+
+## Brainstorming
+
+## Data collection
+Data collection was conducted by retrieving data through the APIs of Statistics Norway and the Norwegian Health Directory respectively. 
+##Data description
+
+#Finding
+
+##Limitations and steps forward
+
+
 1. Obtain relevant data from Statistics Norway and the Norwegian Directorate of Health, 
 preferably using the API. 
 
