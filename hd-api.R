@@ -70,7 +70,7 @@ health_region_qi <- filter_qi %>%
 filter(location_name == "Helse Sør-Øst RHF")
 
 #generating a list of unique qi
-qi_name_list <- tibble(datasett = unique(filter_qi$quality_indicator_name))
+qi_name_list <- tibble(datasett = unique(clean_qi$quality_indicator_name))
 write.csv(qi_name_list, file = "./qi_name_list.csv")
 
 
