@@ -79,7 +79,8 @@ write_csv(filter_qi, file = "./data/merged_datasets/filter_qi.csv")
 
 ventetid_qi <- clean_qi %>%
   filter(quality_indicator_name=="Oppdaterte ventetider i Velg behandlingssted") %>%
-  filter(parent_name == "Hele landet")
+  filter(parent_name == "Hele landet")%>%
+  filter(period_type=="Årlig")
 
 
 #create a list
