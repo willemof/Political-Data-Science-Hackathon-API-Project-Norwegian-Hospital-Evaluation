@@ -244,6 +244,26 @@ merged_hd_regions <- merged_hd_regions %>%
   rename(value_fristbrudd_psykisk = value)
 
 
+merged_hd_hospitals <- full_join(reinleggelse_hospitals ,overlevelse_hospitals, by = c("location_name", "time_from"), suffix = c("_reinleggelse", "_overlevelse"))
+merged_hd_hospitals <- full_join(merged_hd_hospitals , utsettelse_hospitals, by = c("location_name", "time_from"))
+merged_hd_hospitals <- merged_hd_hospitals %>% 
+   rename(value_utsettelse = value)
+merged_hd_hospitals <- full_join(merged_hd_hospitals , korridor_hospitals, by = c("location_name", "time_from"))
+merged_hd_hospitals <- merged_hd_hospitals %>% 
+  rename(value_korridor = value)
+merged_hd_hospitals <- full_join(merged_hd_hospitals , medvirkning_hospitals, by = c("location_name", "time_from"))
+merged_hd_hospitals <- merged_hd_hospitals %>% 
+ rename(value_medvirkning = value)
+merged_hd_hospitals <- full_join(merged_hd_hospitals , fristbrudd_hospitals, by = c("location_name", "time_from"))
+merged_hd_hospitals <- merged_hd_hospitals%>% 
+  rename(value_fristbrudd = value)
+merged_hd_hospitals <- full_join(merged_hd_hospitals , pasient_erfaringer_hospitals, by = c("location_name", "time_from"))
+merged_hd_hospitals <- merged_hd_hospitals %>% 
+  rename(value_erfaringer = value)
+merged_hd_hospitals <- full_join(merged_hd_hospitals , fristbrudd_psykisk_hospitals, by = c("location_name", "time_from"))
+merged_hd_hospitals <- merged_hd_hospitals %>% 
+   rename(value_fristbrudd_psykisk = value)
+
 
 
 
