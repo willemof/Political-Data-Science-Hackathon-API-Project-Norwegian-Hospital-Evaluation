@@ -77,13 +77,13 @@ d.tmp <- POST(url , body = data, encode = "json", verbose())
 
 
 # Henter ut innholdet fra d.tmp som tekst deretter bearbeides av fromJSONstat
-driftskostander <- fromJSONstat(content(d.tmp, "text"))
+driftskostnader <- fromJSONstat(content(d.tmp, "text"))
 
 
 
 # Viser datasettet
 # Kostnader (mill. kr per 10 000 innbyggere) 
-driftskostander 
+driftskostnader 
 
 url <- "https://data.ssb.no/api/v0/no/table/06922/"
 
@@ -287,7 +287,7 @@ avtalte_arsverk <- avtalte_arsverk %>%
   clean_names()
 dognplasser <- dognplasser %>% 
   clean_names()
-driftskostander <- driftskostander %>% 
+driftskostnader <- driftskostnader %>% 
   clean_names()
 
 # Choosing the relevant columns 
@@ -295,7 +295,7 @@ avtalte_arsverk <- avtalte_arsverk %>%
   select(region, ar, value)
 dognplasser <- dognplasser %>% 
   select(region, ar, value)
-driftskostander <- driftskostander %>% 
+driftskostnader <- driftskostnader %>% 
   select(region, ar, value)
 
 
@@ -322,7 +322,7 @@ avtalte_arsverk <- avtalte_arsverk %>%
 
 # Merge the data 
 merged_data <- merge(avtalte_arsverk, dognplasser, by = c("ar", "region"), suffixes = c("_arsverk", "_dognplasser"))
-merged_data <- merge(merged_data, driftskostander, by = c("ar", "region"))
+merged_data <- merge(merged_data, driftskostnader, by = c("ar", "region"))
 merged_data <- merge(merged_data, ssb_data, by = c("ar", "region"))
 
 # Clean the columns of the merged data 
