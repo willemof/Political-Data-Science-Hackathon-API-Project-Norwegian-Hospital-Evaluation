@@ -70,8 +70,25 @@ health_region_qi <- filter_qi %>%
 filter(location_name == "Helse Sør-Øst RHF")
 
 #generating a list of unique qi
-qi_name_list <- tibble(datasett = unique(filter_qi$quality_indicator_name))
+qi_name_list <- tibble(datasett = unique(clean_qi$quality_indicator_name))
 write.csv(qi_name_list, file = "./qi_name_list.csv")
 
 
 write_csv(filter_qi, file = "./data/merged_datasets/filter_qi.csv")
+
+
+ventetid_qi <- clean_qi %>%
+  filter(quality_indicator_name=="Oppdaterte ventetider i Velg behandlingssted") %>%
+  filter(parent_name == "Hele landet")%>%
+  filter(period_type=="Årlig")
+
+
+#create a list
+#include indices
+#create a for-loop
+#fit linear regression for each index
+#look at the hundreds of linear regressions and then look at what has the best fit (highest r2) 
+#or AIC - akaike information criterion
+#BIC- bayesian information criterion
+# find out number of variables in optimal model
+#endogeneity problem
