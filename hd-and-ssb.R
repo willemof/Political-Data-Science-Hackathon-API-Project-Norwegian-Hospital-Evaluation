@@ -666,6 +666,8 @@ merged_hd_hospitals <- full_join(merged_hd_hospitals , fristbrudd_psykisk_hospit
 merged_hd_hospitals <- merged_hd_hospitals %>% 
   rename(value_fristbrudd_psykisk = value)
 
+merged_hd_hospitals<-  rename(merged_hd_hospitals, ar=time_from)
+super_merge <- inner_join(merged_hd_hospitals, ssb_hospitals)
 
 
 
