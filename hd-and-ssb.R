@@ -667,7 +667,374 @@ merged_hd_hospitals <- merged_hd_hospitals %>%
   rename(value_fristbrudd_psykisk = value)
 
 merged_hd_hospitals<-  rename(merged_hd_hospitals, ar=time_from)
-super_merge <- inner_join(merged_hd_hospitals, ssb_hospitals)
+# super_merge <- inner_join(merged_hd_hospitals, ssb_hospitals)
+ssb_hospitals <- ssb_hospitals %>% 
+  rename(location_name = region)
+super_merge <- full_join(merged_hd_hospitals, ssb_hospitals, by = c("location_name", "ar"))
+
+##### SSB data on health regions 
+
+url <- "https://data.ssb.no/api/v0/no/table/06464/"
+
+
+
+# spørring fra konsoll - kan være på en linje
+data <- '
+{
+  "query": [
+    {
+      "code": "HelseReg",
+      "selection": {
+        "filter": "vs:Helsereg3",
+        "values": [
+          "H12",
+          "H03",
+          "H04",
+          "H05"
+        ]
+      }
+    },
+    {
+      "code": "HelseRegnKost",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "000"
+        ]
+      }
+    },
+    {
+      "code": "ContentsCode",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "Per10000"
+        ]
+      }
+    },
+    {
+      "code": "Tid",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "2010",
+          "2011",
+          "2012",
+          "2013",
+          "2014",
+          "2015",
+          "2016",
+          "2017",
+          "2018",
+          "2019",
+          "2020",
+          "2021"
+        ]
+      }
+    }
+  ],
+  "response": {
+    "format": "json-stat2"
+  }
+}
+'
+d.tmp <- POST(url , body = data, encode = "json", verbose())
+
+
+
+# Henter ut innholdet fra d.tmp som tekst deretter bearbeides av fromJSONstat
+driftskostnader <- fromJSONstat(content(d.tmp, "text"))
+
+
+
+# Viser datasettet
+# Kostnader (mill. kr per 10 000 innbyggere) 
+driftskostnader 
+
+url <- "https://data.ssb.no/api/v0/no/table/06922/"
+
+
+
+# spørring fra konsoll - kan være på en linje
+data <- '
+{
+  "query": [
+    {
+      "code": "HelseReg",
+      "selection": {
+        "filter": "vs:HelseRegion3",
+        "values": [
+          "H12",
+          "H03",
+          "H04",
+          "H05"
+        ]
+      }
+    },
+    {
+      "code": "ContentsCode",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "Dognplass"
+        ]
+      }
+    },
+    {
+      "code": "Tid",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "2010",
+          "2011",
+          "2012",
+          "2013",
+          "2014",
+          "2015",
+          "2016",
+          "2017",
+          "2018",
+          "2019",
+          "2020",
+          "2021"
+        ]
+      }
+    }
+  ],
+  "response": {
+    "format": "json-stat2"
+  }
+}
+'
+d.tmp <- POST(url , body = data, encode = "json", verbose())
+
+
+
+# Henter ut innholdet fra d.tmp som tekst deretter bearbeides av fromJSONstatdø <- fromJSONstat(content(d.tmp, "text"))
+dognplasser <- fromJSONstat(content(d.tmp, "text"))
+
+url <- "https://data.ssb.no/api/v0/no/table/09548/"
+
+
+
+# spørring fra konsoll - kan være på en linje
+data <- '
+{
+  "query": [
+    {
+      "code": "HelseReg",
+      "selection": {
+        "filter": "vs:HelseReg6",
+        "values": [
+          "H12",
+          "H03",
+          "H04",
+          "H05"
+        ]
+      }
+    },
+    {
+      "code": "ContentsCode",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "ArsvEksFrav"
+        ]
+      }
+    },
+    {
+      "code": "Tid",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "2010",
+          "2011",
+          "2012",
+          "2013",
+          "2014",
+          "2015",
+          "2016",
+          "2017",
+          "2018",
+          "2019",
+          "2020",
+          "2021"
+        ]
+      }
+    }
+  ],
+  "response": {
+    "format": "json-stat2"
+  }
+}
+'
+d.tmp <- POST(url , body = data, encode = "json", verbose())
+
+# Henter ut innholdet fra d.tmp som tekst deretter bearbeides av fromJSONstat
+avtalte_arsverk <- fromJSONstat(content(d.tmp, "text"))
+
+options(encoding="UTF-8")
+
+# henter rjstat bibliotek for behandling av JSON-stat
+url <- "https://data.ssb.no/api/v0/no/table/06922/"
+
+
+
+# spørring fra konsoll - kan være på en linje
+data <- '
+{
+  "query": [
+    {
+      "code": "HelseReg",
+      "selection": {
+        "filter": "vs:HelseRegion3",
+        "values": [
+          "H12",
+          "H03",
+          "H04",
+          "H05"
+        ]
+      }
+    },
+    {
+      "code": "ContentsCode",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "Liggedager",
+          "Poliklinisk3",
+          "Dagbehandling2"
+        ]
+      }
+    },
+    {
+      "code": "Tid",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "2010",
+          "2011",
+          "2012",
+          "2013",
+          "2014",
+          "2015",
+          "2016",
+          "2017",
+          "2018",
+          "2019",
+          "2020",
+          "2021"
+        ]
+      }
+    }
+  ],
+  "response": {
+    "format": "json-stat2"
+  }
+}
+'
+d.tmp <- POST(url , body = data, encode = "json", verbose())
+
+# Henter ut innholdet fra d.tmp som tekst deretter bearbeides av fromJSONstat
+ssb_data <- fromJSONstat(content(d.tmp, "text"))
+
+# Viser datasettet
+ssb_data
+
+# Cleaned the names 
+ssb_data <- ssb_data %>% 
+  clean_names()
+
+# From long data to wide 
+ssb_data <- spread(ssb_data, key = statistikkvariabel, value = value)
+
+# Clean the column names 
+avtalte_arsverk <- avtalte_arsverk %>% 
+  clean_names()
+dognplasser <- dognplasser %>% 
+  clean_names()
+driftskostnader <- driftskostnader %>% 
+  clean_names()
+
+# Choosing the relevant columns 
+avtalte_arsverk <- avtalte_arsverk %>% 
+  select(region, ar, value)
+dognplasser <- dognplasser %>% 
+  select(region, ar, value)
+driftskostnader <- driftskostnader %>% 
+  select(region, ar, value)
+
+
+
+# Population per health region 
+sor_ost_pop <- 3.1 
+nord_pop <- 0.5 
+vest_pop <- 1.1 
+midt_pop <- 0.687 
+
+# Deviding the man-years by population 
+avtalte_arsverk <- avtalte_arsverk %>% 
+  mutate(value = ifelse(region == "Helseregion Sør-Øst (2007-)", value/sor_ost_pop, value))
+
+avtalte_arsverk <- avtalte_arsverk %>% 
+  mutate(value = ifelse(region == "Helseregion Vest", value/vest_pop, value))
+
+avtalte_arsverk <- avtalte_arsverk %>% 
+  mutate(value = ifelse(region == "Helseregion Midt-Norge", value/midt_pop, value))
+
+avtalte_arsverk <- avtalte_arsverk %>% 
+  mutate(value = ifelse(region == "Helseregion Nord", value/nord_pop, value))
+
+
+# Merge the data 
+merged_data <- merge(avtalte_arsverk, dognplasser, by = c("ar", "region"), suffixes = c("_arsverk", "_dognplasser"))
+merged_data <- merge(merged_data, driftskostnader, by = c("ar", "region"))
+merged_data <- merge(merged_data, ssb_data, by = c("ar", "region"))
+
+# Clean the columns of the merged data 
+merged_data <- merged_data %>% 
+  clean_names()
+
+# Rename the long names 
+merged_data <- merged_data %>% 
+  rename(konsultasjoner = polikliniske_konsultasjoner_per_1_000_innbyggere)
+merged_data <- merged_data %>% 
+  rename(oppholdsdogn = liggedager_oppholdsdogn_per_1_000_innbyggere)
+merged_data <- merged_data %>% 
+  rename(dagbehandlinger = dagbehandling_oppholdsdager_per_1_000_innbyggere)
+
+# Deviding by 1000 because the initial data is measured per 1000 people 
+merged_data <- merged_data %>% 
+  mutate(konsultasjoner = konsultasjoner/1000)
+merged_data <- merged_data %>% 
+  mutate(value_arsverk = value_arsverk/1000000)
+merged_data <- merged_data %>% 
+  mutate(oppholdsdogn = oppholdsdogn/1000)
+merged_data <- merged_data %>% 
+  mutate(dagbehandlinger = dagbehandlinger/1000)
+
+merged_data <- merged_data %>% 
+  mutate(value_dognplasser = ifelse(region == "Helseregion Sør-Øst (2007-)", value_dognplasser/sor_ost_pop, value_dognplasser))
+
+merged_data <- merged_data %>% 
+  mutate(value_dognplasser = ifelse(region == "Helseregion Vest", value_dognplasser/vest_pop, value_dognplasser))
+
+merged_data <- merged_data %>% 
+  mutate(value_dognplasser = ifelse(region == "Helseregion Midt-Norge", value_dognplasser/midt_pop, value_dognplasser))
+
+merged_data <- merged_data %>% 
+  mutate(value_dognplasser = ifelse(region == "Helseregion Nord", value_dognplasser/nord_pop, value_dognplasser))
+
+merged_data <- merged_data %>% 
+  rename(value_driftskostnader = value)
+merged_data <- merged_data %>% 
+  rename(location_name = region)
+merged_hd_regions <- merged_hd_regions %>% 
+  rename(ar = time_from)
+super_merge_regions <- full_join(merged_data, merged_hd_regions, by = c("location_name", "ar"))
+
+
+
 
 
 
