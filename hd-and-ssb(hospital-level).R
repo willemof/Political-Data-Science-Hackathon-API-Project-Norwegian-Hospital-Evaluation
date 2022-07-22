@@ -668,6 +668,13 @@ merged_hd_hospitals <- merged_hd_hospitals %>%
 
 merged_hd_hospitals<-  rename(merged_hd_hospitals, ar=time_from)
 super_merge <- inner_join(merged_hd_hospitals, ssb_hospitals)
-
-
-
+reg_data <- tibble()
+for(i:NROW(super_merge)){
+  # Y = B + B1(x1)+B2(x2) + E
+  reg_data[i] <- lm(qi_index ~ expenses + man_hours+ etc, data =super_merge)
+}
+super_merge_2019 <- super_merge %>%
+  filter(ar==2019)
+lm_2019 <- lm(value_erfaringer ~ value_driftskostnader, data = super_merge_2019)
+lm
+  

@@ -22,13 +22,13 @@ url_list <- c("https://data.ssb.no/api/v0/en/table/06464/",
   for(i in 1:NROW(url_list)){
     pre_variable_names[i] <-  str_extract(url_list[i], "/+[0-9]+/") %>%
       str_remove_all("/")
-  }
   link<- url_list[i]
-  onetonrow<-1:NROW(url_list)
+  }
+ onetonrow<-1:NROW(url_list)
+ 
   (url_list) i <- url_list[i]
   pre_variable_inications[i] <- pre_variable_indications[i]+pre_variable_inications
   tibble(pre_variable_names)
-  }
 
 tonetonrow<-transpose(onetonrow)
   
@@ -42,15 +42,24 @@ t_query_list <- tibble(query_list)
   }
 #this constructs a list of lists that contain the data sets
 d.tmp.list <- c(c())
-v<-c()
-for (i in 1:NROW(url_list)){
-  d.tmp.list[[2]] <- POST(url_list[2],body=query_list[2],encode="json",verbose())
+hd_dataset<- tibble()
+
+d.tmp.list[[1]] <- POST(url_list[1],body=query_list[1],encode="json",verbose())
 #this takes the first dataset and url and produces the first dataset.
-d.tmp.list <- do.call(rbind, d.tmp.list[2])
-d.tmp.list <- POST(url_list[2], body= query_list[2],encode="json",verbose())
+d.tmp.list <- do.call(rbind, d.tmp.list[1])
+d.tmp.list <- POST(url_list[1], body= query_list[1],encode="json",verbose())
 d.tmp.list <- fromJSONstat(content(d.tmp.list, "text"))
 d.tmp.list <- do.call(rbind, d.tmp.list)
-v[i] <- d.tmp.list
+hd_dataset<-d.tmp.list
+
+for (i in 2:NROW(url_list)){
+  d.tmp.list[[i]] <- POST(url_list[i],body=query_list[i],encode="json",verbose())
+#this takes the first dataset and url and produces the first dataset.
+d.tmp.list <- do.call(rbind, d.tmp.list[i])
+d.tmp.list <- POST(url_list[i], body= query_list[i],encode="json",verbose())
+d.tmp.list <- fromJSONstat(content(d.tmp.list, "text"))
+d.tmp.list <- do.call(rbind, d.tmp.list)
+hd_dataset<-full_join(hd_dataset, d.tmp.list)
 }
 
 
