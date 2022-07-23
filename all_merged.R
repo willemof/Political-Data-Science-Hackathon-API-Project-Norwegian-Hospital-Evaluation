@@ -527,6 +527,9 @@ medvirkning_hospitals <- clean_qi %>%
   filter(measure_name=="Andel av pasienter i pakkeforløp som sammen med behandler har utarbeidet en behandlingsplan") %>%
   filter(parent_name %in% c("Helse Sør-Øst RHF", "Helse Midt-Norge RHF", "Helse Nord RHF", "Helse Vest RHF")) 
 medvirkning_hospitals$time_from <- format(as.Date(medvirkning_hospitals$time_from), "%Y")
+medvirkning_hospitals <- medvirkning_hospitals %>% 
+  group_by(location_name, time_from) %>%
+  filter(row_number() == 1)
 # Sykehusopphold - fristbrudd for pasienter på venteliste (health regions)
 fristbrudd_regions <- clean_qi %>%
   filter(measure_name=="Andel fristbrudd for pasienter som står på venteliste i somatisk helsetjeneste") %>% 
@@ -667,19 +670,6 @@ merged_hd_hospitals <- merged_hd_hospitals %>%
   rename(value_fristbrudd_psykisk = value)
 
 merged_hd_hospitals<-  rename(merged_hd_hospitals, ar=time_from)
-<<<<<<< HEAD
-super_merge <- inner_join(merged_hd_hospitals, ssb_hospitals)
-reg_data <- tibble()
-for(i:NROW(super_merge)){
-  # Y = B + B1(x1)+B2(x2) + E
-  reg_data[i] <- lm(qi_index ~ expenses + man_hours+ etc, data =super_merge)
-}
-super_merge_2019 <- super_merge %>%
-  filter(ar==2019)
-lm_2019 <- lm(value_erfaringer ~ value_driftskostnader, data = super_merge_2019)
-lm
-  
-=======
 # super_merge <- inner_join(merged_hd_hospitals, ssb_hospitals)
 ssb_hospitals <- ssb_hospitals %>% 
   rename(location_name = region)
@@ -1046,9 +1036,13 @@ merged_hd_regions <- merged_hd_regions %>%
   rename(ar = time_from)
 super_merge_regions <- full_join(merged_data, merged_hd_regions, by = c("location_name", "ar"))
 
+super_merge_hospitals2019 <- super_merge %>%
+  filter(ar==2019)
+lm_2019 <- lm(value_erfaringer ~ value_driftskostnader, data = super_merge_hospitals2019)
+lm_2019
 
-
-
-
-
->>>>>>> 271834ba6b6909312c63f1ffc170bd0aa35bd168
+super_merge_hospitals_stavanger_hf <- super_merge %>% 
+  filter(location_name == "Helse Stavanger HF")
+lm_stavanger <- lm(value_erfaringer ~ value_driftskostnader, data = super_merge_hospitals_stavanger_hf)
+lm_stavanger
+summary(lm_stavanger)

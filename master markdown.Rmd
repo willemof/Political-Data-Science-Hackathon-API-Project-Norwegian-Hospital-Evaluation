@@ -10,6 +10,10 @@ output: html_notebook
 ## Data collection
 Data collection was conducted by retrieving data through the APIs of Statistics Norway and the Norwegian Health Directory respectively. 
 ##Data description
+Izolda
+
+#Analysis
+Willem
 
 #Finding
 
