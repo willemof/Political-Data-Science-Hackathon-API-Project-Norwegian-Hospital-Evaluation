@@ -19,9 +19,9 @@ library(rlang)
 url_list <- c("https://data.ssb.no/api/v0/en/table/06464/",
               "https://data.ssb.no/api/v0/en/table/06922/",
               "https://data.ssb.no/api/v0/en/table/09548/")
-  pre_variable_names <- c()
+  ds_tables <- c()
   for(i in 1:NROW(url_list)){
-    pre_variable_names[i] <-  str_extract(url_list[i], "/+[0-9]+/") %>%
+    ds_tables[i] <-  str_extract(url_list[i], "/+[0-9]+/") %>%
       str_remove_all("/")
   link<- url_list[i]
   }
@@ -35,7 +35,7 @@ t_query_list <- tibble(query_list)
 }
 
  file.list <- paste0("./data/individual_datasets/",
-                    str_extract(pre_variable_names, "^[0-9]+"),".csv")
+                    str_extract(ds_tables, "^[0-9]+"),".csv")
 #for-loop generating merged ssb dataset
 ssb_ds<- tibble()
 for(i in 1:NROW(url_list)){
