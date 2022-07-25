@@ -1,3 +1,4 @@
+{#load settings, libraries
 options(encoding="UTF-8")
 library(httr)
 library(ggplot2)
@@ -10,178 +11,68 @@ library(janitor)
 library(PxWebApiData)
 library(stringr)
 library(rlang)
-
+}
+#Get SSB Data
 #New method.. Simply enter the url(s) and let the code take you away!
 #make urls
 url_list <- c("https://data.ssb.no/api/v0/en/table/06464/",
               "https://data.ssb.no/api/v0/en/table/06922/",
-              "https://data.ssb.no/api/v0/en/table/09548/",
-              "https://data.ssb.no/api/v0/en/table/06922/")
+              "https://data.ssb.no/api/v0/en/table/09548/")
   pre_variable_names <- c()
-  pre_variable_inications <- c()
   for(i in 1:NROW(url_list)){
     pre_variable_names[i] <-  str_extract(url_list[i], "/+[0-9]+/") %>%
       str_remove_all("/")
-  }
   link<- url_list[i]
-  onetonrow<-1:NROW(url_list)
-  (url_list) i <- url_list[i]
-  pre_variable_inications[i] <- pre_variable_indications[i]+pre_variable_inications
-  tibble(pre_variable_names)
   }
+ onetonrow<-1:NROW(url_list)
 
-tonetonrow<-transpose(onetonrow)
-  
-
-#derive json queries from urls
+#derives json queries from url_list using PxWebApiData package
 query_list <- c()
-
 for (i in 1:NROW(url_list)){
-query_list[i] <- ApiData(url_list[i], returnApiQuery = TRUE)
+query_list[i] <- ApiData(url_list[i], TRUE, returnApiQuery = TRUE, defaultJSONquery = c(1, -2, -1))
 t_query_list <- tibble(query_list)
-  }
-#this constructs a list of lists that contain the data sets
-d.tmp.list <- c(c())
-v<-c()
-for (i in 1:NROW(url_list)){
-  d.tmp.list[[2]] <- POST(url_list[2],body=query_list[2],encode="json",verbose())
-#this takes the first dataset and url and produces the first dataset.
-d.tmp.list <- do.call(rbind, d.tmp.list[2])
-d.tmp.list <- POST(url_list[2], body= query_list[2],encode="json",verbose())
-d.tmp.list <- fromJSONstat(content(d.tmp.list, "text"))
-d.tmp.list <- do.call(rbind, d.tmp.list)
-v[i] <- d.tmp.list
 }
 
-
-x<-c()
-for (i in 1:NROW(url_list)){
-  x1<- c(x1,x2)
-  x2<- x1+i
-  x3<- x1+2 i 
-  x1 <- name(x)
-  x4<-
-}
-
+ file.tmp <- paste0("./data/individual_datasets/",
+                    str_extract(pre_variable_names, "^[0-9]+"),".csv")
+#for-loop generating merged ssb dataset
+ssb_ds<- tibble()
 for(i in 1:NROW(url_list)){
-  qi_files <- list(i)
-#combines qis into a single dataset
-qi <- lapply(qi_files, read_csv, show_col_types = FALSE)
-}
-qi <- bind_rows(qi)
-
-datasets <- mge <- t(paste0("Set", 1:3))
-
-for(i in 1:NROW(url_list)){
-if (qi>4) {
-  gi <- tibble(1,i)
-  i <- c(i)
-  qi <-gi
-  if gi < 4 {
-    i <- gi
-    qi  <- tibble(1,3)
-    z<- full_join(qi,gi)
-  }
-} 
-  z
-  (z+1) <- q
-}
-}
-z$"3"<-4
-for(i:10){
-w<-  str_extract(z$"2"[i], "^[0-9]+")
-
-write_csv(z$"AttachmentDataRows"3"", paste0("./data/dump/",
-                                         str_extract(z$fileName[i], "^[0-9]+"),
-                                         ".csv"))
-
-
-}
-# Viser datasettet
-# Kostnader (mill. kr per 10 000 innbyggere) 
-driftskostnader 
-
-test<-MakeUrl(06464, urlType="SSBen",getDataByGET = TRUE)
-
-d.tmp <- POST(url , body = data, encode = "json", verbose())
-
-# Henter ut innholdet fra d.tmp som tekst deretter bearbeides av fromJSONstat
-avtalte_arsverk <- fromJSONstat(content(d.tmp, "text"))
-
-options(encoding="UTF-8")
-
-# henter rjstat bibliotek for behandling av JSON-stat
-url <- "https://data.ssb.no/api/v0/no/table/06922/"
-
-
-
-# spørring fra konsoll - kan være på en linje
-data <- '
-{
-  "query": [
-    {
-      "code": "HelseReg",
-      "selection": {
-        "filter": "vs:HelseRegion3",
-        "values": [
-          "H12",
-          "H03",
-          "H04",
-          "H05"
-        ]
-      }
-    },
-    {
-      "code": "ContentsCode",
-      "selection": {
-        "filter": "item",
-        "values": [
-          "Liggedager",
-          "Poliklinisk3",
-          "Dagbehandling2"
-        ]
-      }
-    },
-    {
-      "code": "Tid",
-      "selection": {
-        "filter": "item",
-        "values": [
-          "2010",
-          "2011",
-          "2012",
-          "2013",
-          "2014",
-          "2015",
-          "2016",
-          "2017",
-          "2018",
-          "2019",
-          "2020",
-          "2021"
-        ]
-      }
+  if(file.exists(file.tmp[i])){
+    print(noquote(c(file.tmp[i], noquote("was skipped."))))
+    d.tmp.list<-read_csv(file.tmp[i], col_names = TRUE)
+    if(i==1) {
+      ssb_ds <- d.tmp.list
     }
-  ],
-  "response": {
-    "format": "json-stat2"
+    if(i>1) {ssb_ds<-full_join(ssb_ds, d.tmp.list)
+    }
+    next
+  }
+  d.tmp.list <- c(c())
+  d.tmp.list[[i]] <- POST(url_list[i],body=query_list[i],encode="json",verbose())
+  d.tmp.list <- do.call(rbind, d.tmp.list)
+  d.tmp.list <- POST(url_list[i], body= query_list[i],encode="json",verbose())
+  d.tmp.list <- fromJSONstat(content(d.tmp.list, "text"))
+  d.tmp.list <- do.call(rbind, d.tmp.list)
+  write_csv(d.tmp.list, file.tmp[i])
+  print(noquote(c(file.tmp[i], noquote("was saved."))))
+  if(i==1) {
+    ssb_ds <- d.tmp.list
+  }
+  if(i>1) {
+    ssb_ds<-full_join(ssb_ds, d.tmp.list)
+  }
+  if(i==NROW(url_list)){
+    write_csv(ssb_ds, file = "./data/merged_datasets/ssb_ds.csv")
   }
 }
-'
-d.tmp <- POST(url , body = data, encode = "json", verbose())
 
-# Henter ut innholdet fra d.tmp som tekst deretter bearbeides av fromJSONstat
-ssb_data <- fromJSONstat(content(d.tmp, "text"))
-
-# Viser datasettet
-ssb_data
-
-# Cleaned the names 
-ssb_data <- ssb_data %>% 
+# Apply janitor::clean_names
+ssb_ds <- ssb_ds %>% 
   clean_names()
 
 # From long data to wide 
-ssb_data <- spread(ssb_data, key = statistikkvariabel, value = value)
+ssb_ds <- spread(ssb_ds, key = statistikkvariabel, value = value)
 
 # Clean the column names 
 avtalte_arsverk <- avtalte_arsverk %>% 

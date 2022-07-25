@@ -667,6 +667,19 @@ merged_hd_hospitals <- merged_hd_hospitals %>%
   rename(value_fristbrudd_psykisk = value)
 
 merged_hd_hospitals<-  rename(merged_hd_hospitals, ar=time_from)
+<<<<<<< HEAD
+super_merge <- inner_join(merged_hd_hospitals, ssb_hospitals)
+reg_data <- tibble()
+for(i:NROW(super_merge)){
+  # Y = B + B1(x1)+B2(x2) + E
+  reg_data[i] <- lm(qi_index ~ expenses + man_hours+ etc, data =super_merge)
+}
+super_merge_2019 <- super_merge %>%
+  filter(ar==2019)
+lm_2019 <- lm(value_erfaringer ~ value_driftskostnader, data = super_merge_2019)
+lm
+  
+=======
 # super_merge <- inner_join(merged_hd_hospitals, ssb_hospitals)
 ssb_hospitals <- ssb_hospitals %>% 
   rename(location_name = region)
@@ -1038,3 +1051,4 @@ super_merge_regions <- full_join(merged_data, merged_hd_regions, by = c("locatio
 
 
 
+>>>>>>> 271834ba6b6909312c63f1ffc170bd0aa35bd168
