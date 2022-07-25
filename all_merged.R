@@ -1032,4 +1032,4 @@ merged_data <- merged_data %>%
 merged_hd_regions <- merged_hd_regions %>% 
   rename(ar = time_from)
 super_merge_regions <- full_join(merged_data, merged_hd_regions, by = c("location_name", "ar"))
-
+ 
