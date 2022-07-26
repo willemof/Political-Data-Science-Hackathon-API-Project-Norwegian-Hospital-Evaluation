@@ -40,7 +40,11 @@ file.list <- paste0("./data/individual_datasets/",
                     str_extract(ds_tables, "^[0-9]+"),".csv")
 #for-loop generating merged ssb dataset
 ssb_ds<- tibble()
-for(i in 1:NROW(url_list)){
+if(file.exists("./data/merged_datasets/ssb_ds.csv")){
+  ssb_ds<- read_csv("./data/merged_datasets/ssb_ds.csv")
+next 
+if(file.exists("./data/merged_datasets/ssb_ds.csv") = FALSE){ 
+  for(i in 1:NROW(url_list)){
   if(file.exists(file.list[i])){
     print(noquote(c(file.list[i],noquote("was retrieved from the project folder. No download has been done,"),  
                     noquote("because the file already exists."))))
@@ -49,6 +53,8 @@ for(i in 1:NROW(url_list)){
       ssb_ds <- d.tmp.list
     }
     if(i>1) {ssb_ds<-full_join(ssb_ds, d.tmp.list)
+    if(i==NROW(url_list)){ssb_ds<-clean_names(ssb_ds)
+    }
     }
     next
   }
@@ -67,21 +73,24 @@ for(i in 1:NROW(url_list)){
     ssb_ds<-full_join(ssb_ds, d.tmp.list)
   }
   if(i==NROW(url_list)){
+    
+    ssb_ds<-clean_names(ssb_ds)
+    
     write_csv(ssb_ds, file = "./data/merged_datasets/ssb_ds.csv")
   }
   Sys.sleep(0.1+abs(rnorm(1)))
 }
-
-
+}
+}
 #Health Directorate API/Data file
 
 
 
-url <- "https://api.helsedirektoratet.no/innhold/kvalitetsindikatorer?spraak=true"
+url <- "https://api.helsedirektoratet.no/innhold/kvalitetsindikatorer"
 key <- "80ad2d7c471e4b8fad3b000d21b6ef41"
 
 #Meta-dataset
-#if statement that jumps to line 128 if files have already been generated.
+#if statement that jumps to line 136 if files have already been generated.
 if(file.exists("./data/merged_datasets/hd_qi.csv")){
   next
 ds<-GET(url, 
@@ -128,29 +137,53 @@ qi_files <- list.files("./data/quality_indicators/",
 #combines qis into a single dataset
 if(file.exists("./data/merged_datasets/hd_qi.csv")){
   hd_qi <- read_csv("./data/merged_datasets/hd_qi.csv", col_names = TRUE)
-  next
-} else{
+}
+if(file.exists("./data/merged_datasets/hd_qi.csv")==FALSE){
 hd_qi <- lapply(qi_files, read_csv, show_col_types = FALSE)
 hd_qi <- bind_rows(hd_qi)
+
+hd_qi <- hd_qi %>% 
+  clean_names() %>%
+  filter(period_type=="Årlig")
+hd_qi <- hd_qi %>%
+  mutate(rhf = parent_name)
+hd_qi <- hd_qi %>%
+  filter(grepl('RHF', rhf))
+hd_qi <- hd_qi %>%
+  mutate(hf = location_name)
+hd_qi <- hd_qi %>%
+  filter(grepl('HF', hf))
+
+hd_qi <- hd_qi %>% 
+  rename(year = time_from) %>%
+  select(-(time_to))
+hd_qi$year <- format(as.Date(hd_qi$year), "%Y")
+hd_qi <- hd_qi %>%
+  filter(year>=2010)
 write_csv(hd_qi, "./data/merged_datasets/hd_qi.csv")
 }
 
-
-
-# Apply janitor::clean_names
-ssb_ds <- ssb_ds %>% 
-  clean_names()
-hd_qi <- hd_qi %>%
-  clean_names()
-
 #Need to merge data sets... language translation needed. but first, filter for yearly.
-hd_qi <- hd_qi %>%
-  filter(period_type=="Årlig")
+ssb_ds<- filter(ssb_ds$rhf, grepl("RHF", health_region))
+ssb_ds <- ssb_ds %>%
+  mutate(rhf = health_region)
 
-hd_qi <- hd_qi %>%
-  select.list(contains("RHF"))
+ssb_ds_filter <- ssb_ds
+ssb_ds_filter <- ssb_ds_filter %>%
+  mutate(rhf = health_region) %>%
+  filter(grepl("HF", rhf))
 
-unique_location_hd <- tibble(unique(hd_qi$parent_name))
+ssb_ds <- full_join(ssb_ds_filter, ssb_ds)
+
+ssb_ds <- ssb_ds %>%
+  mutate(hf = health_region) 
+ssb_ds$hf <- ssb_ds$hf %>%
+  filter(grepl('HF', hf))
+
+  filter(grepl("RHF", hf, fixed = TRUE))
+
+unique_parent_hd <- tibble(unique(hd_qi$parent_name))
+unique_location_hd <- tibble(unique(hd_qi$location_name))
 unique_location_ssb <- tibble(unique(ssb_ds$health_region))
 
 unique_location <- full_join(unique_location_hd, unique_location_ssb)
@@ -160,10 +193,18 @@ unique_location <- full_join(unique_location_hd, unique_location_ssb)
 # we initially will try form
 
 
+hd_qi_f <- hd_qi %>%
+  filter(grepl('HF', location_name))
+unique_location_hd_f <- tibble(unique(hd_qi_f$location_name))
+
+
+ssb_ds_f <- ssb_ds %>%
+  filter(grepl('HF', health_region))
+unique_location_ssb_f <- tibble(unique(ssb_ds_f$health_region))
+
 hd_qi <- hd_qi %>%
-  select(contains("RHF"))
+  mutate(is_from_hd = "is_from_health-directorate")
+ssb_ds <- ssb_ds %>%
+  mutate(is_from_ssb = "is_from_statistics_norway")
 
-hd_qi <- filter(hd_qi, parent_name==contains("RHF"))
-
-
-merged_ds <- full_join(ssb_ds, clean_qi)
+merged_ds <- full_join(ssb_ds, hd_qi)
