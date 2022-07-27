@@ -1,0 +1,139 @@
+---
+title: "Plots"
+output: html_document
+date: '2022-07-27'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+```{r}
+library(tidyverse)
+library(ggplot2)
+`Super Merge` <- readRDS("~/Documents/R-course/Test/super_merge.rds")
+super_merge <- `Super Merge`
+ggplot(data = super_merge, 
+       mapping = aes(x = ar,
+                     y = value_driftskostnader))+
+  geom_point(size = 5)+
+  geom_line(colour = "red")
+```
+
+
+```{r}
+ggplot(data = super_merge, 
+       mapping = aes(x = ar,
+                     y = value_driftskostnader))+
+  geom_point(size = 5)
+```
+
+```{r}
+super_merge %>% 
+  ggplot(aes(liggedager_oppholdsdogn, value_driftskostnader, 
+             colour = ar) )+ 
+  geom_point(aes(size = dognplasser, alpha = 0.8)) 
+  geom_label (aes(label = location_name))
+  facet_wrap(~location_name)
+  theme_bw()
+```
+
+
+#data with outliers
+
+```{r}
+super_merge %>% 
+  ggplot(aes(value_utsettelse, value_overlevelse, 
+             colour = ar) )+ 
+  geom_point()
+  geom_label (aes(label = location_name))
+  facet_wrap(~location_name)
+  theme_bw()
+```
+
+# to find the outliers 
+```{r}
+super_merge %>% 
+  arrange(desc(value_utsettelse))
+```
+
+
+#to filter out the outliers (two hospitals from 2016)
+
+```{r}
+super_merge %>% 
+  filter(!location_name %in% c("Haraldsplass Diakonale Sykehus AS", "Sunnaas sykehus HF")) %>% 
+  ggplot(aes(value_utsettelse, value_overlevelse, 
+             colour = ar) )+ 
+  geom_point()
+  geom_label (aes(label = location_name))
+  facet_wrap(~location_name)
+  theme_bw()
+```
+
+
+
+```{r}
+super_merge %>% 
+  ggplot(aes(value_driftskostnader, value_reinleggelse, 
+             colour = ar) )+ 
+  geom_point()
+  geom_label (aes(label = location_name))
+  facet_wrap(~location_name)
+  theme_bw()
+```
+
+
+
+
+```{r}
+super_merge %>% 
+  ggplot(aes(dagbehandlinger_oppholdsdager, value_reinleggelse) )+ 
+  geom_point(aes(colour = ar))
+  geom_label (aes(label = ar))
+  theme_bw()
+  theme(legend.position = "top")
+```
+
+
+#two outliers
+
+```{r}
+super_merge %>% 
+  ggplot(aes(dognplasser, value_utsettelse))+ 
+  geom_point(aes(size = value_utsettelse, colour = ar))
+  geom_label (aes(label = location_name))
+  theme_bw()
+```
+
+#filtered out the two outliers (same two hospitals in 2016)
+
+```{r}
+super_merge %>% 
+  filter(!location_name %in% c("Haraldsplass Diakonale Sykehus AS", "Sunnaas sykehus HF")) %>% 
+  ggplot(aes(dognplasser, value_utsettelse) )+ 
+  geom_point(aes(size = value_utsettelse, colour = ar))
+  geom_label (aes(label = location_name))
+  theme_bw()
+```
+
+#to find the outliers 
+```{r}
+super_merge %>% 
+  group_by(location_name, ar) %>% 
+  summarise(sum = value_utsettelse) %>%
+  arrange(desc(sum))
+```
+
+
+```{r}
+library(tidyverse)
+super_merge %>% 
+  ggplot(aes(dognplasser, value_reinleggelse))+ 
+  geom_point(aes(colour = ar))
+  geom_label (aes(label = ar))
+  theme_bw()
+```
+
