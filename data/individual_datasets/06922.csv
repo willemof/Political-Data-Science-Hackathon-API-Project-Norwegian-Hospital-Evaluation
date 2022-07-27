@@ -1,0 +1,2026 @@
+health region,type of service,contents,year,value
+Helse Bergen HF,Total,Beds,2002,1520
+Helse Bergen HF,Total,Beds,2020,1308
+Helse Bergen HF,Total,Beds,2021,1301
+Helse Bergen HF,Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Helse Bergen HF,Total,Out-patient consultations per 1 000 inhabitants,2020,NA
+Helse Bergen HF,Total,Out-patient consultations per 1 000 inhabitants,2021,NA
+Helse Bergen HF,Total,Day cases per 1 000 inhabitants,2002,NA
+Helse Bergen HF,Total,Day cases per 1 000 inhabitants,2020,NA
+Helse Bergen HF,Total,Day cases per 1 000 inhabitants,2021,NA
+Helse Bergen HF,Somatic health care,Beds,2002,1135
+Helse Bergen HF,Somatic health care,Beds,2020,931
+Helse Bergen HF,Somatic health care,Beds,2021,934
+Helse Bergen HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Helse Bergen HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,NA
+Helse Bergen HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,NA
+Helse Bergen HF,Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Helse Bergen HF,Somatic health care,Day cases per 1 000 inhabitants,2020,NA
+Helse Bergen HF,Somatic health care,Day cases per 1 000 inhabitants,2021,NA
+Helse Bergen HF,Drug treatment (TSB),Beds,2002,0
+Helse Bergen HF,Drug treatment (TSB),Beds,2020,138
+Helse Bergen HF,Drug treatment (TSB),Beds,2021,131
+Helse Bergen HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Helse Bergen HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,NA
+Helse Bergen HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,NA
+Helse Bergen HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Helse Bergen HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,NA
+Helse Bergen HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,NA
+Helse Førde HF,Total,Beds,2002,497
+Helse Førde HF,Total,Beds,2020,310
+Helse Førde HF,Total,Beds,2021,312
+Helse Førde HF,Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Helse Førde HF,Total,Out-patient consultations per 1 000 inhabitants,2020,NA
+Helse Førde HF,Total,Out-patient consultations per 1 000 inhabitants,2021,NA
+Helse Førde HF,Total,Day cases per 1 000 inhabitants,2002,NA
+Helse Førde HF,Total,Day cases per 1 000 inhabitants,2020,NA
+Helse Førde HF,Total,Day cases per 1 000 inhabitants,2021,NA
+Helse Førde HF,Somatic health care,Beds,2002,394
+Helse Førde HF,Somatic health care,Beds,2020,219
+Helse Førde HF,Somatic health care,Beds,2021,220
+Helse Førde HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Helse Førde HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,NA
+Helse Førde HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,NA
+Helse Førde HF,Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Helse Førde HF,Somatic health care,Day cases per 1 000 inhabitants,2020,NA
+Helse Førde HF,Somatic health care,Day cases per 1 000 inhabitants,2021,NA
+Helse Førde HF,Drug treatment (TSB),Beds,2002,0
+Helse Førde HF,Drug treatment (TSB),Beds,2020,21
+Helse Førde HF,Drug treatment (TSB),Beds,2021,20
+Helse Førde HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Helse Førde HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,NA
+Helse Førde HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,NA
+Helse Førde HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Helse Førde HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,NA
+Helse Førde HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,NA
+Helse Stavanger HF,Total,Beds,2002,1088
+Helse Stavanger HF,Total,Beds,2020,845
+Helse Stavanger HF,Total,Beds,2021,852
+Helse Stavanger HF,Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Helse Stavanger HF,Total,Out-patient consultations per 1 000 inhabitants,2020,NA
+Helse Stavanger HF,Total,Out-patient consultations per 1 000 inhabitants,2021,NA
+Helse Stavanger HF,Total,Day cases per 1 000 inhabitants,2002,NA
+Helse Stavanger HF,Total,Day cases per 1 000 inhabitants,2020,NA
+Helse Stavanger HF,Total,Day cases per 1 000 inhabitants,2021,NA
+Helse Stavanger HF,Somatic health care,Beds,2002,737
+Helse Stavanger HF,Somatic health care,Beds,2020,565
+Helse Stavanger HF,Somatic health care,Beds,2021,571
+Helse Stavanger HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Helse Stavanger HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,NA
+Helse Stavanger HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,NA
+Helse Stavanger HF,Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Helse Stavanger HF,Somatic health care,Day cases per 1 000 inhabitants,2020,NA
+Helse Stavanger HF,Somatic health care,Day cases per 1 000 inhabitants,2021,NA
+Helse Stavanger HF,Drug treatment (TSB),Beds,2002,0
+Helse Stavanger HF,Drug treatment (TSB),Beds,2020,32
+Helse Stavanger HF,Drug treatment (TSB),Beds,2021,32
+Helse Stavanger HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Helse Stavanger HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,NA
+Helse Stavanger HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,NA
+Helse Stavanger HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Helse Stavanger HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,NA
+Helse Stavanger HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,NA
+Helse Fonna HF,Total,Beds,2002,631
+Helse Fonna HF,Total,Beds,2020,475
+Helse Fonna HF,Total,Beds,2021,466
+Helse Fonna HF,Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Helse Fonna HF,Total,Out-patient consultations per 1 000 inhabitants,2020,NA
+Helse Fonna HF,Total,Out-patient consultations per 1 000 inhabitants,2021,NA
+Helse Fonna HF,Total,Day cases per 1 000 inhabitants,2002,NA
+Helse Fonna HF,Total,Day cases per 1 000 inhabitants,2020,NA
+Helse Fonna HF,Total,Day cases per 1 000 inhabitants,2021,NA
+Helse Fonna HF,Somatic health care,Beds,2002,363
+Helse Fonna HF,Somatic health care,Beds,2020,340
+Helse Fonna HF,Somatic health care,Beds,2021,328
+Helse Fonna HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Helse Fonna HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,NA
+Helse Fonna HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,NA
+Helse Fonna HF,Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Helse Fonna HF,Somatic health care,Day cases per 1 000 inhabitants,2020,NA
+Helse Fonna HF,Somatic health care,Day cases per 1 000 inhabitants,2021,NA
+Helse Fonna HF,Drug treatment (TSB),Beds,2002,0
+Helse Fonna HF,Drug treatment (TSB),Beds,2020,14
+Helse Fonna HF,Drug treatment (TSB),Beds,2021,16
+Helse Fonna HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Helse Fonna HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,NA
+Helse Fonna HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,NA
+Helse Fonna HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Helse Fonna HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,NA
+Helse Fonna HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,NA
+St Olavs Hospital HF,Total,Beds,2002,918
+St Olavs Hospital HF,Total,Beds,2020,973
+St Olavs Hospital HF,Total,Beds,2021,938
+St Olavs Hospital HF,Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+St Olavs Hospital HF,Total,Out-patient consultations per 1 000 inhabitants,2020,NA
+St Olavs Hospital HF,Total,Out-patient consultations per 1 000 inhabitants,2021,NA
+St Olavs Hospital HF,Total,Day cases per 1 000 inhabitants,2002,NA
+St Olavs Hospital HF,Total,Day cases per 1 000 inhabitants,2020,NA
+St Olavs Hospital HF,Total,Day cases per 1 000 inhabitants,2021,NA
+St Olavs Hospital HF,Somatic health care,Beds,2002,918
+St Olavs Hospital HF,Somatic health care,Beds,2020,732
+St Olavs Hospital HF,Somatic health care,Beds,2021,699
+St Olavs Hospital HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+St Olavs Hospital HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,NA
+St Olavs Hospital HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,NA
+St Olavs Hospital HF,Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+St Olavs Hospital HF,Somatic health care,Day cases per 1 000 inhabitants,2020,NA
+St Olavs Hospital HF,Somatic health care,Day cases per 1 000 inhabitants,2021,NA
+St Olavs Hospital HF,Drug treatment (TSB),Beds,2002,0
+St Olavs Hospital HF,Drug treatment (TSB),Beds,2020,34
+St Olavs Hospital HF,Drug treatment (TSB),Beds,2021,34
+St Olavs Hospital HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+St Olavs Hospital HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,NA
+St Olavs Hospital HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,NA
+St Olavs Hospital HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+St Olavs Hospital HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,NA
+St Olavs Hospital HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,NA
+Helse Sunnmøre HF  (2002-2010),Total,Beds,2002,540
+Helse Sunnmøre HF  (2002-2010),Total,Beds,2020,0
+Helse Sunnmøre HF  (2002-2010),Total,Beds,2021,0
+Helse Sunnmøre HF  (2002-2010),Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Helse Sunnmøre HF  (2002-2010),Total,Out-patient consultations per 1 000 inhabitants,2020,0
+Helse Sunnmøre HF  (2002-2010),Total,Out-patient consultations per 1 000 inhabitants,2021,0
+Helse Sunnmøre HF  (2002-2010),Total,Day cases per 1 000 inhabitants,2002,NA
+Helse Sunnmøre HF  (2002-2010),Total,Day cases per 1 000 inhabitants,2020,0
+Helse Sunnmøre HF  (2002-2010),Total,Day cases per 1 000 inhabitants,2021,0
+Helse Sunnmøre HF  (2002-2010),Somatic health care,Beds,2002,430
+Helse Sunnmøre HF  (2002-2010),Somatic health care,Beds,2020,0
+Helse Sunnmøre HF  (2002-2010),Somatic health care,Beds,2021,0
+Helse Sunnmøre HF  (2002-2010),Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Helse Sunnmøre HF  (2002-2010),Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+Helse Sunnmøre HF  (2002-2010),Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+Helse Sunnmøre HF  (2002-2010),Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Helse Sunnmøre HF  (2002-2010),Somatic health care,Day cases per 1 000 inhabitants,2020,0
+Helse Sunnmøre HF  (2002-2010),Somatic health care,Day cases per 1 000 inhabitants,2021,0
+Helse Sunnmøre HF  (2002-2010),Drug treatment (TSB),Beds,2002,0
+Helse Sunnmøre HF  (2002-2010),Drug treatment (TSB),Beds,2020,0
+Helse Sunnmøre HF  (2002-2010),Drug treatment (TSB),Beds,2021,0
+Helse Sunnmøre HF  (2002-2010),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Helse Sunnmøre HF  (2002-2010),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Helse Sunnmøre HF  (2002-2010),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Helse Sunnmøre HF  (2002-2010),Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Helse Sunnmøre HF  (2002-2010),Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Helse Sunnmøre HF  (2002-2010),Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Oslo Universitetssykehus HF (2009-),Total,Beds,2002,0
+Oslo Universitetssykehus HF (2009-),Total,Beds,2020,1930
+Oslo Universitetssykehus HF (2009-),Total,Beds,2021,1951
+Oslo Universitetssykehus HF (2009-),Total,Out-patient consultations per 1 000 inhabitants,2002,0
+Oslo Universitetssykehus HF (2009-),Total,Out-patient consultations per 1 000 inhabitants,2020,NA
+Oslo Universitetssykehus HF (2009-),Total,Out-patient consultations per 1 000 inhabitants,2021,NA
+Oslo Universitetssykehus HF (2009-),Total,Day cases per 1 000 inhabitants,2002,0
+Oslo Universitetssykehus HF (2009-),Total,Day cases per 1 000 inhabitants,2020,NA
+Oslo Universitetssykehus HF (2009-),Total,Day cases per 1 000 inhabitants,2021,NA
+Oslo Universitetssykehus HF (2009-),Somatic health care,Beds,2002,0
+Oslo Universitetssykehus HF (2009-),Somatic health care,Beds,2020,1575
+Oslo Universitetssykehus HF (2009-),Somatic health care,Beds,2021,1588
+Oslo Universitetssykehus HF (2009-),Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,0
+Oslo Universitetssykehus HF (2009-),Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,NA
+Oslo Universitetssykehus HF (2009-),Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,NA
+Oslo Universitetssykehus HF (2009-),Somatic health care,Day cases per 1 000 inhabitants,2002,0
+Oslo Universitetssykehus HF (2009-),Somatic health care,Day cases per 1 000 inhabitants,2020,NA
+Oslo Universitetssykehus HF (2009-),Somatic health care,Day cases per 1 000 inhabitants,2021,NA
+Oslo Universitetssykehus HF (2009-),Drug treatment (TSB),Beds,2002,0
+Oslo Universitetssykehus HF (2009-),Drug treatment (TSB),Beds,2020,86
+Oslo Universitetssykehus HF (2009-),Drug treatment (TSB),Beds,2021,86
+Oslo Universitetssykehus HF (2009-),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Oslo Universitetssykehus HF (2009-),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,NA
+Oslo Universitetssykehus HF (2009-),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,NA
+Oslo Universitetssykehus HF (2009-),Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Oslo Universitetssykehus HF (2009-),Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,NA
+Oslo Universitetssykehus HF (2009-),Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,NA
+Helse Nordmøre og Romsdal HF  (2002-2010),Total,Beds,2002,453
+Helse Nordmøre og Romsdal HF  (2002-2010),Total,Beds,2020,0
+Helse Nordmøre og Romsdal HF  (2002-2010),Total,Beds,2021,0
+Helse Nordmøre og Romsdal HF  (2002-2010),Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Helse Nordmøre og Romsdal HF  (2002-2010),Total,Out-patient consultations per 1 000 inhabitants,2020,0
+Helse Nordmøre og Romsdal HF  (2002-2010),Total,Out-patient consultations per 1 000 inhabitants,2021,0
+Helse Nordmøre og Romsdal HF  (2002-2010),Total,Day cases per 1 000 inhabitants,2002,NA
+Helse Nordmøre og Romsdal HF  (2002-2010),Total,Day cases per 1 000 inhabitants,2020,0
+Helse Nordmøre og Romsdal HF  (2002-2010),Total,Day cases per 1 000 inhabitants,2021,0
+Helse Nordmøre og Romsdal HF  (2002-2010),Somatic health care,Beds,2002,289
+Helse Nordmøre og Romsdal HF  (2002-2010),Somatic health care,Beds,2020,0
+Helse Nordmøre og Romsdal HF  (2002-2010),Somatic health care,Beds,2021,0
+Helse Nordmøre og Romsdal HF  (2002-2010),Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Helse Nordmøre og Romsdal HF  (2002-2010),Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+Helse Nordmøre og Romsdal HF  (2002-2010),Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+Helse Nordmøre og Romsdal HF  (2002-2010),Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Helse Nordmøre og Romsdal HF  (2002-2010),Somatic health care,Day cases per 1 000 inhabitants,2020,0
+Helse Nordmøre og Romsdal HF  (2002-2010),Somatic health care,Day cases per 1 000 inhabitants,2021,0
+Helse Nordmøre og Romsdal HF  (2002-2010),Drug treatment (TSB),Beds,2002,0
+Helse Nordmøre og Romsdal HF  (2002-2010),Drug treatment (TSB),Beds,2020,0
+Helse Nordmøre og Romsdal HF  (2002-2010),Drug treatment (TSB),Beds,2021,0
+Helse Nordmøre og Romsdal HF  (2002-2010),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Helse Nordmøre og Romsdal HF  (2002-2010),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Helse Nordmøre og Romsdal HF  (2002-2010),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Helse Nordmøre og Romsdal HF  (2002-2010),Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Helse Nordmøre og Romsdal HF  (2002-2010),Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Helse Nordmøre og Romsdal HF  (2002-2010),Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Vestre Viken HF (2009-),Total,Beds,2002,0
+Vestre Viken HF (2009-),Total,Beds,2020,978
+Vestre Viken HF (2009-),Total,Beds,2021,995
+Vestre Viken HF (2009-),Total,Out-patient consultations per 1 000 inhabitants,2002,0
+Vestre Viken HF (2009-),Total,Out-patient consultations per 1 000 inhabitants,2020,NA
+Vestre Viken HF (2009-),Total,Out-patient consultations per 1 000 inhabitants,2021,NA
+Vestre Viken HF (2009-),Total,Day cases per 1 000 inhabitants,2002,0
+Vestre Viken HF (2009-),Total,Day cases per 1 000 inhabitants,2020,NA
+Vestre Viken HF (2009-),Total,Day cases per 1 000 inhabitants,2021,NA
+Vestre Viken HF (2009-),Somatic health care,Beds,2002,0
+Vestre Viken HF (2009-),Somatic health care,Beds,2020,714
+Vestre Viken HF (2009-),Somatic health care,Beds,2021,717
+Vestre Viken HF (2009-),Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,0
+Vestre Viken HF (2009-),Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,NA
+Vestre Viken HF (2009-),Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,NA
+Vestre Viken HF (2009-),Somatic health care,Day cases per 1 000 inhabitants,2002,0
+Vestre Viken HF (2009-),Somatic health care,Day cases per 1 000 inhabitants,2020,NA
+Vestre Viken HF (2009-),Somatic health care,Day cases per 1 000 inhabitants,2021,NA
+Vestre Viken HF (2009-),Drug treatment (TSB),Beds,2002,0
+Vestre Viken HF (2009-),Drug treatment (TSB),Beds,2020,49
+Vestre Viken HF (2009-),Drug treatment (TSB),Beds,2021,49
+Vestre Viken HF (2009-),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Vestre Viken HF (2009-),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,NA
+Vestre Viken HF (2009-),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,NA
+Vestre Viken HF (2009-),Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Vestre Viken HF (2009-),Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,NA
+Vestre Viken HF (2009-),Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,NA
+Helse Nord Trøndelag HF,Total,Beds,2002,472
+Helse Nord Trøndelag HF,Total,Beds,2020,369
+Helse Nord Trøndelag HF,Total,Beds,2021,368
+Helse Nord Trøndelag HF,Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Helse Nord Trøndelag HF,Total,Out-patient consultations per 1 000 inhabitants,2020,NA
+Helse Nord Trøndelag HF,Total,Out-patient consultations per 1 000 inhabitants,2021,NA
+Helse Nord Trøndelag HF,Total,Day cases per 1 000 inhabitants,2002,NA
+Helse Nord Trøndelag HF,Total,Day cases per 1 000 inhabitants,2020,NA
+Helse Nord Trøndelag HF,Total,Day cases per 1 000 inhabitants,2021,NA
+Helse Nord Trøndelag HF,Somatic health care,Beds,2002,339
+Helse Nord Trøndelag HF,Somatic health care,Beds,2020,261
+Helse Nord Trøndelag HF,Somatic health care,Beds,2021,260
+Helse Nord Trøndelag HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Helse Nord Trøndelag HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,NA
+Helse Nord Trøndelag HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,NA
+Helse Nord Trøndelag HF,Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Helse Nord Trøndelag HF,Somatic health care,Day cases per 1 000 inhabitants,2020,NA
+Helse Nord Trøndelag HF,Somatic health care,Day cases per 1 000 inhabitants,2021,NA
+Helse Nord Trøndelag HF,Drug treatment (TSB),Beds,2002,0
+Helse Nord Trøndelag HF,Drug treatment (TSB),Beds,2020,16
+Helse Nord Trøndelag HF,Drug treatment (TSB),Beds,2021,16
+Helse Nord Trøndelag HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Helse Nord Trøndelag HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,NA
+Helse Nord Trøndelag HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,NA
+Helse Nord Trøndelag HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Helse Nord Trøndelag HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,NA
+Helse Nord Trøndelag HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,NA
+Rusbehandling Midt-Norge HF (2004-2013),Total,Beds,2002,0
+Rusbehandling Midt-Norge HF (2004-2013),Total,Beds,2020,0
+Rusbehandling Midt-Norge HF (2004-2013),Total,Beds,2021,0
+Rusbehandling Midt-Norge HF (2004-2013),Total,Out-patient consultations per 1 000 inhabitants,2002,0
+Rusbehandling Midt-Norge HF (2004-2013),Total,Out-patient consultations per 1 000 inhabitants,2020,0
+Rusbehandling Midt-Norge HF (2004-2013),Total,Out-patient consultations per 1 000 inhabitants,2021,0
+Rusbehandling Midt-Norge HF (2004-2013),Total,Day cases per 1 000 inhabitants,2002,0
+Rusbehandling Midt-Norge HF (2004-2013),Total,Day cases per 1 000 inhabitants,2020,0
+Rusbehandling Midt-Norge HF (2004-2013),Total,Day cases per 1 000 inhabitants,2021,0
+Rusbehandling Midt-Norge HF (2004-2013),Somatic health care,Beds,2002,0
+Rusbehandling Midt-Norge HF (2004-2013),Somatic health care,Beds,2020,0
+Rusbehandling Midt-Norge HF (2004-2013),Somatic health care,Beds,2021,0
+Rusbehandling Midt-Norge HF (2004-2013),Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,0
+Rusbehandling Midt-Norge HF (2004-2013),Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+Rusbehandling Midt-Norge HF (2004-2013),Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+Rusbehandling Midt-Norge HF (2004-2013),Somatic health care,Day cases per 1 000 inhabitants,2002,0
+Rusbehandling Midt-Norge HF (2004-2013),Somatic health care,Day cases per 1 000 inhabitants,2020,0
+Rusbehandling Midt-Norge HF (2004-2013),Somatic health care,Day cases per 1 000 inhabitants,2021,0
+Rusbehandling Midt-Norge HF (2004-2013),Drug treatment (TSB),Beds,2002,0
+Rusbehandling Midt-Norge HF (2004-2013),Drug treatment (TSB),Beds,2020,0
+Rusbehandling Midt-Norge HF (2004-2013),Drug treatment (TSB),Beds,2021,0
+Rusbehandling Midt-Norge HF (2004-2013),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Rusbehandling Midt-Norge HF (2004-2013),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Rusbehandling Midt-Norge HF (2004-2013),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Rusbehandling Midt-Norge HF (2004-2013),Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Rusbehandling Midt-Norge HF (2004-2013),Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Rusbehandling Midt-Norge HF (2004-2013),Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Nordlandssykehuset HF,Total,Beds,2002,539
+Nordlandssykehuset HF,Total,Beds,2020,447
+Nordlandssykehuset HF,Total,Beds,2021,435
+Nordlandssykehuset HF,Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Nordlandssykehuset HF,Total,Out-patient consultations per 1 000 inhabitants,2020,NA
+Nordlandssykehuset HF,Total,Out-patient consultations per 1 000 inhabitants,2021,NA
+Nordlandssykehuset HF,Total,Day cases per 1 000 inhabitants,2002,NA
+Nordlandssykehuset HF,Total,Day cases per 1 000 inhabitants,2020,NA
+Nordlandssykehuset HF,Total,Day cases per 1 000 inhabitants,2021,NA
+Nordlandssykehuset HF,Somatic health care,Beds,2002,379
+Nordlandssykehuset HF,Somatic health care,Beds,2020,307
+Nordlandssykehuset HF,Somatic health care,Beds,2021,295
+Nordlandssykehuset HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Nordlandssykehuset HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,NA
+Nordlandssykehuset HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,NA
+Nordlandssykehuset HF,Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Nordlandssykehuset HF,Somatic health care,Day cases per 1 000 inhabitants,2020,NA
+Nordlandssykehuset HF,Somatic health care,Day cases per 1 000 inhabitants,2021,NA
+Nordlandssykehuset HF,Drug treatment (TSB),Beds,2002,0
+Nordlandssykehuset HF,Drug treatment (TSB),Beds,2020,16
+Nordlandssykehuset HF,Drug treatment (TSB),Beds,2021,8
+Nordlandssykehuset HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Nordlandssykehuset HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,NA
+Nordlandssykehuset HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,NA
+Nordlandssykehuset HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Nordlandssykehuset HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,NA
+Nordlandssykehuset HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,NA
+Helgelandssykehuset HF,Total,Beds,2002,243
+Helgelandssykehuset HF,Total,Beds,2020,201
+Helgelandssykehuset HF,Total,Beds,2021,196
+Helgelandssykehuset HF,Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Helgelandssykehuset HF,Total,Out-patient consultations per 1 000 inhabitants,2020,NA
+Helgelandssykehuset HF,Total,Out-patient consultations per 1 000 inhabitants,2021,NA
+Helgelandssykehuset HF,Total,Day cases per 1 000 inhabitants,2002,NA
+Helgelandssykehuset HF,Total,Day cases per 1 000 inhabitants,2020,NA
+Helgelandssykehuset HF,Total,Day cases per 1 000 inhabitants,2021,NA
+Helgelandssykehuset HF,Somatic health care,Beds,2002,217
+Helgelandssykehuset HF,Somatic health care,Beds,2020,163
+Helgelandssykehuset HF,Somatic health care,Beds,2021,158
+Helgelandssykehuset HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Helgelandssykehuset HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,NA
+Helgelandssykehuset HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,NA
+Helgelandssykehuset HF,Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Helgelandssykehuset HF,Somatic health care,Day cases per 1 000 inhabitants,2020,NA
+Helgelandssykehuset HF,Somatic health care,Day cases per 1 000 inhabitants,2021,NA
+Helgelandssykehuset HF,Drug treatment (TSB),Beds,2002,0
+Helgelandssykehuset HF,Drug treatment (TSB),Beds,2020,8
+Helgelandssykehuset HF,Drug treatment (TSB),Beds,2021,8
+Helgelandssykehuset HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Helgelandssykehuset HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,NA
+Helgelandssykehuset HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,NA
+Helgelandssykehuset HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Helgelandssykehuset HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,NA
+Helgelandssykehuset HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,NA
+Finnmarkssykehuset HF,Total,Beds,2002,288
+Finnmarkssykehuset HF,Total,Beds,2020,182
+Finnmarkssykehuset HF,Total,Beds,2021,200
+Finnmarkssykehuset HF,Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Finnmarkssykehuset HF,Total,Out-patient consultations per 1 000 inhabitants,2020,NA
+Finnmarkssykehuset HF,Total,Out-patient consultations per 1 000 inhabitants,2021,NA
+Finnmarkssykehuset HF,Total,Day cases per 1 000 inhabitants,2002,NA
+Finnmarkssykehuset HF,Total,Day cases per 1 000 inhabitants,2020,NA
+Finnmarkssykehuset HF,Total,Day cases per 1 000 inhabitants,2021,NA
+Finnmarkssykehuset HF,Somatic health care,Beds,2002,218
+Finnmarkssykehuset HF,Somatic health care,Beds,2020,136
+Finnmarkssykehuset HF,Somatic health care,Beds,2021,153
+Finnmarkssykehuset HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Finnmarkssykehuset HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,NA
+Finnmarkssykehuset HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,NA
+Finnmarkssykehuset HF,Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Finnmarkssykehuset HF,Somatic health care,Day cases per 1 000 inhabitants,2020,NA
+Finnmarkssykehuset HF,Somatic health care,Day cases per 1 000 inhabitants,2021,NA
+Finnmarkssykehuset HF,Drug treatment (TSB),Beds,2002,0
+Finnmarkssykehuset HF,Drug treatment (TSB),Beds,2020,12
+Finnmarkssykehuset HF,Drug treatment (TSB),Beds,2021,12
+Finnmarkssykehuset HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Finnmarkssykehuset HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,NA
+Finnmarkssykehuset HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,NA
+Finnmarkssykehuset HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Finnmarkssykehuset HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,NA
+Finnmarkssykehuset HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,NA
+Universitetssykehuset Nord-Norge HF,Total,Beds,2002,664
+Universitetssykehuset Nord-Norge HF,Total,Beds,2020,825
+Universitetssykehuset Nord-Norge HF,Total,Beds,2021,819
+Universitetssykehuset Nord-Norge HF,Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Universitetssykehuset Nord-Norge HF,Total,Out-patient consultations per 1 000 inhabitants,2020,NA
+Universitetssykehuset Nord-Norge HF,Total,Out-patient consultations per 1 000 inhabitants,2021,NA
+Universitetssykehuset Nord-Norge HF,Total,Day cases per 1 000 inhabitants,2002,NA
+Universitetssykehuset Nord-Norge HF,Total,Day cases per 1 000 inhabitants,2020,NA
+Universitetssykehuset Nord-Norge HF,Total,Day cases per 1 000 inhabitants,2021,NA
+Universitetssykehuset Nord-Norge HF,Somatic health care,Beds,2002,502
+Universitetssykehuset Nord-Norge HF,Somatic health care,Beds,2020,591
+Universitetssykehuset Nord-Norge HF,Somatic health care,Beds,2021,589
+Universitetssykehuset Nord-Norge HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Universitetssykehuset Nord-Norge HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,NA
+Universitetssykehuset Nord-Norge HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,NA
+Universitetssykehuset Nord-Norge HF,Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Universitetssykehuset Nord-Norge HF,Somatic health care,Day cases per 1 000 inhabitants,2020,NA
+Universitetssykehuset Nord-Norge HF,Somatic health care,Day cases per 1 000 inhabitants,2021,NA
+Universitetssykehuset Nord-Norge HF,Drug treatment (TSB),Beds,2002,0
+Universitetssykehuset Nord-Norge HF,Drug treatment (TSB),Beds,2020,67
+Universitetssykehuset Nord-Norge HF,Drug treatment (TSB),Beds,2021,67
+Universitetssykehuset Nord-Norge HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Universitetssykehuset Nord-Norge HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,NA
+Universitetssykehuset Nord-Norge HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,NA
+Universitetssykehuset Nord-Norge HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Universitetssykehuset Nord-Norge HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,NA
+Universitetssykehuset Nord-Norge HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,NA
+Sykehuset Telemark HF,Total,Beds,2002,531
+Sykehuset Telemark HF,Total,Beds,2020,480
+Sykehuset Telemark HF,Total,Beds,2021,459
+Sykehuset Telemark HF,Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Sykehuset Telemark HF,Total,Out-patient consultations per 1 000 inhabitants,2020,NA
+Sykehuset Telemark HF,Total,Out-patient consultations per 1 000 inhabitants,2021,NA
+Sykehuset Telemark HF,Total,Day cases per 1 000 inhabitants,2002,NA
+Sykehuset Telemark HF,Total,Day cases per 1 000 inhabitants,2020,NA
+Sykehuset Telemark HF,Total,Day cases per 1 000 inhabitants,2021,NA
+Sykehuset Telemark HF,Somatic health care,Beds,2002,397
+Sykehuset Telemark HF,Somatic health care,Beds,2020,346
+Sykehuset Telemark HF,Somatic health care,Beds,2021,323
+Sykehuset Telemark HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Sykehuset Telemark HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,NA
+Sykehuset Telemark HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,NA
+Sykehuset Telemark HF,Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Sykehuset Telemark HF,Somatic health care,Day cases per 1 000 inhabitants,2020,NA
+Sykehuset Telemark HF,Somatic health care,Day cases per 1 000 inhabitants,2021,NA
+Sykehuset Telemark HF,Drug treatment (TSB),Beds,2002,0
+Sykehuset Telemark HF,Drug treatment (TSB),Beds,2020,13
+Sykehuset Telemark HF,Drug treatment (TSB),Beds,2021,13
+Sykehuset Telemark HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Sykehuset Telemark HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,NA
+Sykehuset Telemark HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,NA
+Sykehuset Telemark HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Sykehuset Telemark HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,NA
+Sykehuset Telemark HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,NA
+Psykiatrien i  Vestfold HF (2002-2011),Total,Beds,2002,198
+Psykiatrien i  Vestfold HF (2002-2011),Total,Beds,2020,0
+Psykiatrien i  Vestfold HF (2002-2011),Total,Beds,2021,0
+Psykiatrien i  Vestfold HF (2002-2011),Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Psykiatrien i  Vestfold HF (2002-2011),Total,Out-patient consultations per 1 000 inhabitants,2020,0
+Psykiatrien i  Vestfold HF (2002-2011),Total,Out-patient consultations per 1 000 inhabitants,2021,0
+Psykiatrien i  Vestfold HF (2002-2011),Total,Day cases per 1 000 inhabitants,2002,NA
+Psykiatrien i  Vestfold HF (2002-2011),Total,Day cases per 1 000 inhabitants,2020,0
+Psykiatrien i  Vestfold HF (2002-2011),Total,Day cases per 1 000 inhabitants,2021,0
+Psykiatrien i  Vestfold HF (2002-2011),Somatic health care,Beds,2002,0
+Psykiatrien i  Vestfold HF (2002-2011),Somatic health care,Beds,2020,0
+Psykiatrien i  Vestfold HF (2002-2011),Somatic health care,Beds,2021,0
+Psykiatrien i  Vestfold HF (2002-2011),Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,0
+Psykiatrien i  Vestfold HF (2002-2011),Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+Psykiatrien i  Vestfold HF (2002-2011),Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+Psykiatrien i  Vestfold HF (2002-2011),Somatic health care,Day cases per 1 000 inhabitants,2002,0
+Psykiatrien i  Vestfold HF (2002-2011),Somatic health care,Day cases per 1 000 inhabitants,2020,0
+Psykiatrien i  Vestfold HF (2002-2011),Somatic health care,Day cases per 1 000 inhabitants,2021,0
+Psykiatrien i  Vestfold HF (2002-2011),Drug treatment (TSB),Beds,2002,0
+Psykiatrien i  Vestfold HF (2002-2011),Drug treatment (TSB),Beds,2020,0
+Psykiatrien i  Vestfold HF (2002-2011),Drug treatment (TSB),Beds,2021,0
+Psykiatrien i  Vestfold HF (2002-2011),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Psykiatrien i  Vestfold HF (2002-2011),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Psykiatrien i  Vestfold HF (2002-2011),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Psykiatrien i  Vestfold HF (2002-2011),Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Psykiatrien i  Vestfold HF (2002-2011),Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Psykiatrien i  Vestfold HF (2002-2011),Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Sunnaas sykehus HF,Total,Beds,2002,124
+Sunnaas sykehus HF,Total,Beds,2020,159
+Sunnaas sykehus HF,Total,Beds,2021,159
+Sunnaas sykehus HF,Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Sunnaas sykehus HF,Total,Out-patient consultations per 1 000 inhabitants,2020,NA
+Sunnaas sykehus HF,Total,Out-patient consultations per 1 000 inhabitants,2021,NA
+Sunnaas sykehus HF,Total,Day cases per 1 000 inhabitants,2002,NA
+Sunnaas sykehus HF,Total,Day cases per 1 000 inhabitants,2020,NA
+Sunnaas sykehus HF,Total,Day cases per 1 000 inhabitants,2021,NA
+Sunnaas sykehus HF,Somatic health care,Beds,2002,124
+Sunnaas sykehus HF,Somatic health care,Beds,2020,159
+Sunnaas sykehus HF,Somatic health care,Beds,2021,159
+Sunnaas sykehus HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Sunnaas sykehus HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,NA
+Sunnaas sykehus HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,NA
+Sunnaas sykehus HF,Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Sunnaas sykehus HF,Somatic health care,Day cases per 1 000 inhabitants,2020,NA
+Sunnaas sykehus HF,Somatic health care,Day cases per 1 000 inhabitants,2021,NA
+Sunnaas sykehus HF,Drug treatment (TSB),Beds,2002,0
+Sunnaas sykehus HF,Drug treatment (TSB),Beds,2020,0
+Sunnaas sykehus HF,Drug treatment (TSB),Beds,2021,0
+Sunnaas sykehus HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Sunnaas sykehus HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Sunnaas sykehus HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Sunnaas sykehus HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Sunnaas sykehus HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Sunnaas sykehus HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Akershus universitetssykehus HF,Total,Beds,2002,691
+Akershus universitetssykehus HF,Total,Beds,2020,1013
+Akershus universitetssykehus HF,Total,Beds,2021,1089
+Akershus universitetssykehus HF,Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Akershus universitetssykehus HF,Total,Out-patient consultations per 1 000 inhabitants,2020,NA
+Akershus universitetssykehus HF,Total,Out-patient consultations per 1 000 inhabitants,2021,NA
+Akershus universitetssykehus HF,Total,Day cases per 1 000 inhabitants,2002,NA
+Akershus universitetssykehus HF,Total,Day cases per 1 000 inhabitants,2020,NA
+Akershus universitetssykehus HF,Total,Day cases per 1 000 inhabitants,2021,NA
+Akershus universitetssykehus HF,Somatic health care,Beds,2002,497
+Akershus universitetssykehus HF,Somatic health care,Beds,2020,720
+Akershus universitetssykehus HF,Somatic health care,Beds,2021,790
+Akershus universitetssykehus HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Akershus universitetssykehus HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,NA
+Akershus universitetssykehus HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,NA
+Akershus universitetssykehus HF,Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Akershus universitetssykehus HF,Somatic health care,Day cases per 1 000 inhabitants,2020,NA
+Akershus universitetssykehus HF,Somatic health care,Day cases per 1 000 inhabitants,2021,NA
+Akershus universitetssykehus HF,Drug treatment (TSB),Beds,2002,0
+Akershus universitetssykehus HF,Drug treatment (TSB),Beds,2020,60
+Akershus universitetssykehus HF,Drug treatment (TSB),Beds,2021,60
+Akershus universitetssykehus HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Akershus universitetssykehus HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,NA
+Akershus universitetssykehus HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,NA
+Akershus universitetssykehus HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Akershus universitetssykehus HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,NA
+Akershus universitetssykehus HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,NA
+Sørlandet sykehus HF,Total,Beds,2002,580
+Sørlandet sykehus HF,Total,Beds,2020,0
+Sørlandet sykehus HF,Total,Beds,2021,0
+Sørlandet sykehus HF,Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Sørlandet sykehus HF,Total,Out-patient consultations per 1 000 inhabitants,2020,0
+Sørlandet sykehus HF,Total,Out-patient consultations per 1 000 inhabitants,2021,0
+Sørlandet sykehus HF,Total,Day cases per 1 000 inhabitants,2002,NA
+Sørlandet sykehus HF,Total,Day cases per 1 000 inhabitants,2020,0
+Sørlandet sykehus HF,Total,Day cases per 1 000 inhabitants,2021,0
+Sørlandet sykehus HF,Somatic health care,Beds,2002,375
+Sørlandet sykehus HF,Somatic health care,Beds,2020,0
+Sørlandet sykehus HF,Somatic health care,Beds,2021,0
+Sørlandet sykehus HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Sørlandet sykehus HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+Sørlandet sykehus HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+Sørlandet sykehus HF,Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Sørlandet sykehus HF,Somatic health care,Day cases per 1 000 inhabitants,2020,0
+Sørlandet sykehus HF,Somatic health care,Day cases per 1 000 inhabitants,2021,0
+Sørlandet sykehus HF,Drug treatment (TSB),Beds,2002,0
+Sørlandet sykehus HF,Drug treatment (TSB),Beds,2020,0
+Sørlandet sykehus HF,Drug treatment (TSB),Beds,2021,0
+Sørlandet sykehus HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Sørlandet sykehus HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Sørlandet sykehus HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Sørlandet sykehus HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Sørlandet sykehus HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Sørlandet sykehus HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Sykehuset i Vestfold HF,Total,Beds,2002,420
+Sykehuset i Vestfold HF,Total,Beds,2020,470
+Sykehuset i Vestfold HF,Total,Beds,2021,484
+Sykehuset i Vestfold HF,Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Sykehuset i Vestfold HF,Total,Out-patient consultations per 1 000 inhabitants,2020,NA
+Sykehuset i Vestfold HF,Total,Out-patient consultations per 1 000 inhabitants,2021,NA
+Sykehuset i Vestfold HF,Total,Day cases per 1 000 inhabitants,2002,NA
+Sykehuset i Vestfold HF,Total,Day cases per 1 000 inhabitants,2020,NA
+Sykehuset i Vestfold HF,Total,Day cases per 1 000 inhabitants,2021,NA
+Sykehuset i Vestfold HF,Somatic health care,Beds,2002,420
+Sykehuset i Vestfold HF,Somatic health care,Beds,2020,323
+Sykehuset i Vestfold HF,Somatic health care,Beds,2021,337
+Sykehuset i Vestfold HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Sykehuset i Vestfold HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,NA
+Sykehuset i Vestfold HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,NA
+Sykehuset i Vestfold HF,Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Sykehuset i Vestfold HF,Somatic health care,Day cases per 1 000 inhabitants,2020,NA
+Sykehuset i Vestfold HF,Somatic health care,Day cases per 1 000 inhabitants,2021,NA
+Sykehuset i Vestfold HF,Drug treatment (TSB),Beds,2002,0
+Sykehuset i Vestfold HF,Drug treatment (TSB),Beds,2020,46
+Sykehuset i Vestfold HF,Drug treatment (TSB),Beds,2021,46
+Sykehuset i Vestfold HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Sykehuset i Vestfold HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,NA
+Sykehuset i Vestfold HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,NA
+Sykehuset i Vestfold HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Sykehuset i Vestfold HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,NA
+Sykehuset i Vestfold HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,NA
+Sykehuset Innlandet HF,Total,Beds,2002,770
+Sykehuset Innlandet HF,Total,Beds,2020,0
+Sykehuset Innlandet HF,Total,Beds,2021,0
+Sykehuset Innlandet HF,Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Sykehuset Innlandet HF,Total,Out-patient consultations per 1 000 inhabitants,2020,0
+Sykehuset Innlandet HF,Total,Out-patient consultations per 1 000 inhabitants,2021,0
+Sykehuset Innlandet HF,Total,Day cases per 1 000 inhabitants,2002,NA
+Sykehuset Innlandet HF,Total,Day cases per 1 000 inhabitants,2020,0
+Sykehuset Innlandet HF,Total,Day cases per 1 000 inhabitants,2021,0
+Sykehuset Innlandet HF,Somatic health care,Beds,2002,518
+Sykehuset Innlandet HF,Somatic health care,Beds,2020,0
+Sykehuset Innlandet HF,Somatic health care,Beds,2021,0
+Sykehuset Innlandet HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Sykehuset Innlandet HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+Sykehuset Innlandet HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+Sykehuset Innlandet HF,Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Sykehuset Innlandet HF,Somatic health care,Day cases per 1 000 inhabitants,2020,0
+Sykehuset Innlandet HF,Somatic health care,Day cases per 1 000 inhabitants,2021,0
+Sykehuset Innlandet HF,Drug treatment (TSB),Beds,2002,0
+Sykehuset Innlandet HF,Drug treatment (TSB),Beds,2020,0
+Sykehuset Innlandet HF,Drug treatment (TSB),Beds,2021,0
+Sykehuset Innlandet HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Sykehuset Innlandet HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Sykehuset Innlandet HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Sykehuset Innlandet HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Sykehuset Innlandet HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Sykehuset Innlandet HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Lister sykehus HF (2002),Total,Beds,2002,73
+Lister sykehus HF (2002),Total,Beds,2020,0
+Lister sykehus HF (2002),Total,Beds,2021,0
+Lister sykehus HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Lister sykehus HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2020,0
+Lister sykehus HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2021,0
+Lister sykehus HF (2002),Total,Day cases per 1 000 inhabitants,2002,NA
+Lister sykehus HF (2002),Total,Day cases per 1 000 inhabitants,2020,0
+Lister sykehus HF (2002),Total,Day cases per 1 000 inhabitants,2021,0
+Lister sykehus HF (2002),Somatic health care,Beds,2002,73
+Lister sykehus HF (2002),Somatic health care,Beds,2020,0
+Lister sykehus HF (2002),Somatic health care,Beds,2021,0
+Lister sykehus HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Lister sykehus HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+Lister sykehus HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+Lister sykehus HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Lister sykehus HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2020,0
+Lister sykehus HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2021,0
+Lister sykehus HF (2002),Drug treatment (TSB),Beds,2002,0
+Lister sykehus HF (2002),Drug treatment (TSB),Beds,2020,0
+Lister sykehus HF (2002),Drug treatment (TSB),Beds,2021,0
+Lister sykehus HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Lister sykehus HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Lister sykehus HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Lister sykehus HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Lister sykehus HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Lister sykehus HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Sykehuset Østfold HF,Total,Beds,2002,584
+Sykehuset Østfold HF,Total,Beds,2020,596
+Sykehuset Østfold HF,Total,Beds,2021,586
+Sykehuset Østfold HF,Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Sykehuset Østfold HF,Total,Out-patient consultations per 1 000 inhabitants,2020,NA
+Sykehuset Østfold HF,Total,Out-patient consultations per 1 000 inhabitants,2021,NA
+Sykehuset Østfold HF,Total,Day cases per 1 000 inhabitants,2002,NA
+Sykehuset Østfold HF,Total,Day cases per 1 000 inhabitants,2020,NA
+Sykehuset Østfold HF,Total,Day cases per 1 000 inhabitants,2021,NA
+Sykehuset Østfold HF,Somatic health care,Beds,2002,584
+Sykehuset Østfold HF,Somatic health care,Beds,2020,376
+Sykehuset Østfold HF,Somatic health care,Beds,2021,373
+Sykehuset Østfold HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Sykehuset Østfold HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,NA
+Sykehuset Østfold HF,Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,NA
+Sykehuset Østfold HF,Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Sykehuset Østfold HF,Somatic health care,Day cases per 1 000 inhabitants,2020,NA
+Sykehuset Østfold HF,Somatic health care,Day cases per 1 000 inhabitants,2021,NA
+Sykehuset Østfold HF,Drug treatment (TSB),Beds,2002,0
+Sykehuset Østfold HF,Drug treatment (TSB),Beds,2020,33
+Sykehuset Østfold HF,Drug treatment (TSB),Beds,2021,34
+Sykehuset Østfold HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Sykehuset Østfold HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,NA
+Sykehuset Østfold HF,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,NA
+Sykehuset Østfold HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Sykehuset Østfold HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,NA
+Sykehuset Østfold HF,Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,NA
+Rikshospitalet HF (2005-2008),Total,Beds,2002,0
+Rikshospitalet HF (2005-2008),Total,Beds,2020,0
+Rikshospitalet HF (2005-2008),Total,Beds,2021,0
+Rikshospitalet HF (2005-2008),Total,Out-patient consultations per 1 000 inhabitants,2002,0
+Rikshospitalet HF (2005-2008),Total,Out-patient consultations per 1 000 inhabitants,2020,0
+Rikshospitalet HF (2005-2008),Total,Out-patient consultations per 1 000 inhabitants,2021,0
+Rikshospitalet HF (2005-2008),Total,Day cases per 1 000 inhabitants,2002,0
+Rikshospitalet HF (2005-2008),Total,Day cases per 1 000 inhabitants,2020,0
+Rikshospitalet HF (2005-2008),Total,Day cases per 1 000 inhabitants,2021,0
+Rikshospitalet HF (2005-2008),Somatic health care,Beds,2002,0
+Rikshospitalet HF (2005-2008),Somatic health care,Beds,2020,0
+Rikshospitalet HF (2005-2008),Somatic health care,Beds,2021,0
+Rikshospitalet HF (2005-2008),Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,0
+Rikshospitalet HF (2005-2008),Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+Rikshospitalet HF (2005-2008),Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+Rikshospitalet HF (2005-2008),Somatic health care,Day cases per 1 000 inhabitants,2002,0
+Rikshospitalet HF (2005-2008),Somatic health care,Day cases per 1 000 inhabitants,2020,0
+Rikshospitalet HF (2005-2008),Somatic health care,Day cases per 1 000 inhabitants,2021,0
+Rikshospitalet HF (2005-2008),Drug treatment (TSB),Beds,2002,0
+Rikshospitalet HF (2005-2008),Drug treatment (TSB),Beds,2020,0
+Rikshospitalet HF (2005-2008),Drug treatment (TSB),Beds,2021,0
+Rikshospitalet HF (2005-2008),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Rikshospitalet HF (2005-2008),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Rikshospitalet HF (2005-2008),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Rikshospitalet HF (2005-2008),Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Rikshospitalet HF (2005-2008),Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Rikshospitalet HF (2005-2008),Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Spesialsykehuset for epilepsi HF (2002),Total,Beds,2002,87
+Spesialsykehuset for epilepsi HF (2002),Total,Beds,2020,0
+Spesialsykehuset for epilepsi HF (2002),Total,Beds,2021,0
+Spesialsykehuset for epilepsi HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Spesialsykehuset for epilepsi HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2020,0
+Spesialsykehuset for epilepsi HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2021,0
+Spesialsykehuset for epilepsi HF (2002),Total,Day cases per 1 000 inhabitants,2002,NA
+Spesialsykehuset for epilepsi HF (2002),Total,Day cases per 1 000 inhabitants,2020,0
+Spesialsykehuset for epilepsi HF (2002),Total,Day cases per 1 000 inhabitants,2021,0
+Spesialsykehuset for epilepsi HF (2002),Somatic health care,Beds,2002,87
+Spesialsykehuset for epilepsi HF (2002),Somatic health care,Beds,2020,0
+Spesialsykehuset for epilepsi HF (2002),Somatic health care,Beds,2021,0
+Spesialsykehuset for epilepsi HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Spesialsykehuset for epilepsi HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+Spesialsykehuset for epilepsi HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+Spesialsykehuset for epilepsi HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Spesialsykehuset for epilepsi HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2020,0
+Spesialsykehuset for epilepsi HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2021,0
+Spesialsykehuset for epilepsi HF (2002),Drug treatment (TSB),Beds,2002,0
+Spesialsykehuset for epilepsi HF (2002),Drug treatment (TSB),Beds,2020,0
+Spesialsykehuset for epilepsi HF (2002),Drug treatment (TSB),Beds,2021,0
+Spesialsykehuset for epilepsi HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Spesialsykehuset for epilepsi HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Spesialsykehuset for epilepsi HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Spesialsykehuset for epilepsi HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Spesialsykehuset for epilepsi HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Spesialsykehuset for epilepsi HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Spesialsykehuset for rehabilitering HF (2002),Total,Beds,2002,113
+Spesialsykehuset for rehabilitering HF (2002),Total,Beds,2020,0
+Spesialsykehuset for rehabilitering HF (2002),Total,Beds,2021,0
+Spesialsykehuset for rehabilitering HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Spesialsykehuset for rehabilitering HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2020,0
+Spesialsykehuset for rehabilitering HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2021,0
+Spesialsykehuset for rehabilitering HF (2002),Total,Day cases per 1 000 inhabitants,2002,NA
+Spesialsykehuset for rehabilitering HF (2002),Total,Day cases per 1 000 inhabitants,2020,0
+Spesialsykehuset for rehabilitering HF (2002),Total,Day cases per 1 000 inhabitants,2021,0
+Spesialsykehuset for rehabilitering HF (2002),Somatic health care,Beds,2002,113
+Spesialsykehuset for rehabilitering HF (2002),Somatic health care,Beds,2020,0
+Spesialsykehuset for rehabilitering HF (2002),Somatic health care,Beds,2021,0
+Spesialsykehuset for rehabilitering HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Spesialsykehuset for rehabilitering HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+Spesialsykehuset for rehabilitering HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+Spesialsykehuset for rehabilitering HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Spesialsykehuset for rehabilitering HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2020,0
+Spesialsykehuset for rehabilitering HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2021,0
+Spesialsykehuset for rehabilitering HF (2002),Drug treatment (TSB),Beds,2002,0
+Spesialsykehuset for rehabilitering HF (2002),Drug treatment (TSB),Beds,2020,0
+Spesialsykehuset for rehabilitering HF (2002),Drug treatment (TSB),Beds,2021,0
+Spesialsykehuset for rehabilitering HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Spesialsykehuset for rehabilitering HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Spesialsykehuset for rehabilitering HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Spesialsykehuset for rehabilitering HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Spesialsykehuset for rehabilitering HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Spesialsykehuset for rehabilitering HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Orkdal sanitetsforenings sjukehus HF (2002-2003),Total,Beds,2002,121
+Orkdal sanitetsforenings sjukehus HF (2002-2003),Total,Beds,2020,0
+Orkdal sanitetsforenings sjukehus HF (2002-2003),Total,Beds,2021,0
+Orkdal sanitetsforenings sjukehus HF (2002-2003),Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Orkdal sanitetsforenings sjukehus HF (2002-2003),Total,Out-patient consultations per 1 000 inhabitants,2020,0
+Orkdal sanitetsforenings sjukehus HF (2002-2003),Total,Out-patient consultations per 1 000 inhabitants,2021,0
+Orkdal sanitetsforenings sjukehus HF (2002-2003),Total,Day cases per 1 000 inhabitants,2002,NA
+Orkdal sanitetsforenings sjukehus HF (2002-2003),Total,Day cases per 1 000 inhabitants,2020,0
+Orkdal sanitetsforenings sjukehus HF (2002-2003),Total,Day cases per 1 000 inhabitants,2021,0
+Orkdal sanitetsforenings sjukehus HF (2002-2003),Somatic health care,Beds,2002,121
+Orkdal sanitetsforenings sjukehus HF (2002-2003),Somatic health care,Beds,2020,0
+Orkdal sanitetsforenings sjukehus HF (2002-2003),Somatic health care,Beds,2021,0
+Orkdal sanitetsforenings sjukehus HF (2002-2003),Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Orkdal sanitetsforenings sjukehus HF (2002-2003),Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+Orkdal sanitetsforenings sjukehus HF (2002-2003),Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+Orkdal sanitetsforenings sjukehus HF (2002-2003),Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Orkdal sanitetsforenings sjukehus HF (2002-2003),Somatic health care,Day cases per 1 000 inhabitants,2020,0
+Orkdal sanitetsforenings sjukehus HF (2002-2003),Somatic health care,Day cases per 1 000 inhabitants,2021,0
+Orkdal sanitetsforenings sjukehus HF (2002-2003),Drug treatment (TSB),Beds,2002,0
+Orkdal sanitetsforenings sjukehus HF (2002-2003),Drug treatment (TSB),Beds,2020,0
+Orkdal sanitetsforenings sjukehus HF (2002-2003),Drug treatment (TSB),Beds,2021,0
+Orkdal sanitetsforenings sjukehus HF (2002-2003),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Orkdal sanitetsforenings sjukehus HF (2002-2003),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Orkdal sanitetsforenings sjukehus HF (2002-2003),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Orkdal sanitetsforenings sjukehus HF (2002-2003),Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Orkdal sanitetsforenings sjukehus HF (2002-2003),Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Orkdal sanitetsforenings sjukehus HF (2002-2003),Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Blefjell sykehus HF (2002-2008),Total,Beds,2002,239
+Blefjell sykehus HF (2002-2008),Total,Beds,2020,0
+Blefjell sykehus HF (2002-2008),Total,Beds,2021,0
+Blefjell sykehus HF (2002-2008),Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Blefjell sykehus HF (2002-2008),Total,Out-patient consultations per 1 000 inhabitants,2020,0
+Blefjell sykehus HF (2002-2008),Total,Out-patient consultations per 1 000 inhabitants,2021,0
+Blefjell sykehus HF (2002-2008),Total,Day cases per 1 000 inhabitants,2002,NA
+Blefjell sykehus HF (2002-2008),Total,Day cases per 1 000 inhabitants,2020,0
+Blefjell sykehus HF (2002-2008),Total,Day cases per 1 000 inhabitants,2021,0
+Blefjell sykehus HF (2002-2008),Somatic health care,Beds,2002,200
+Blefjell sykehus HF (2002-2008),Somatic health care,Beds,2020,0
+Blefjell sykehus HF (2002-2008),Somatic health care,Beds,2021,0
+Blefjell sykehus HF (2002-2008),Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Blefjell sykehus HF (2002-2008),Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+Blefjell sykehus HF (2002-2008),Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+Blefjell sykehus HF (2002-2008),Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Blefjell sykehus HF (2002-2008),Somatic health care,Day cases per 1 000 inhabitants,2020,0
+Blefjell sykehus HF (2002-2008),Somatic health care,Day cases per 1 000 inhabitants,2021,0
+Blefjell sykehus HF (2002-2008),Drug treatment (TSB),Beds,2002,0
+Blefjell sykehus HF (2002-2008),Drug treatment (TSB),Beds,2020,0
+Blefjell sykehus HF (2002-2008),Drug treatment (TSB),Beds,2021,0
+Blefjell sykehus HF (2002-2008),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Blefjell sykehus HF (2002-2008),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Blefjell sykehus HF (2002-2008),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Blefjell sykehus HF (2002-2008),Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Blefjell sykehus HF (2002-2008),Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Blefjell sykehus HF (2002-2008),Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Sykehuset Buskerud HF (2002-2008),Total,Beds,2002,649
+Sykehuset Buskerud HF (2002-2008),Total,Beds,2020,0
+Sykehuset Buskerud HF (2002-2008),Total,Beds,2021,0
+Sykehuset Buskerud HF (2002-2008),Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Sykehuset Buskerud HF (2002-2008),Total,Out-patient consultations per 1 000 inhabitants,2020,0
+Sykehuset Buskerud HF (2002-2008),Total,Out-patient consultations per 1 000 inhabitants,2021,0
+Sykehuset Buskerud HF (2002-2008),Total,Day cases per 1 000 inhabitants,2002,NA
+Sykehuset Buskerud HF (2002-2008),Total,Day cases per 1 000 inhabitants,2020,0
+Sykehuset Buskerud HF (2002-2008),Total,Day cases per 1 000 inhabitants,2021,0
+Sykehuset Buskerud HF (2002-2008),Somatic health care,Beds,2002,443
+Sykehuset Buskerud HF (2002-2008),Somatic health care,Beds,2020,0
+Sykehuset Buskerud HF (2002-2008),Somatic health care,Beds,2021,0
+Sykehuset Buskerud HF (2002-2008),Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Sykehuset Buskerud HF (2002-2008),Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+Sykehuset Buskerud HF (2002-2008),Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+Sykehuset Buskerud HF (2002-2008),Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Sykehuset Buskerud HF (2002-2008),Somatic health care,Day cases per 1 000 inhabitants,2020,0
+Sykehuset Buskerud HF (2002-2008),Somatic health care,Day cases per 1 000 inhabitants,2021,0
+Sykehuset Buskerud HF (2002-2008),Drug treatment (TSB),Beds,2002,0
+Sykehuset Buskerud HF (2002-2008),Drug treatment (TSB),Beds,2020,0
+Sykehuset Buskerud HF (2002-2008),Drug treatment (TSB),Beds,2021,0
+Sykehuset Buskerud HF (2002-2008),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Sykehuset Buskerud HF (2002-2008),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Sykehuset Buskerud HF (2002-2008),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Sykehuset Buskerud HF (2002-2008),Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Sykehuset Buskerud HF (2002-2008),Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Sykehuset Buskerud HF (2002-2008),Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Aker universitetssykehus HF (2002-2008),Total,Beds,2002,684
+Aker universitetssykehus HF (2002-2008),Total,Beds,2020,0
+Aker universitetssykehus HF (2002-2008),Total,Beds,2021,0
+Aker universitetssykehus HF (2002-2008),Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Aker universitetssykehus HF (2002-2008),Total,Out-patient consultations per 1 000 inhabitants,2020,0
+Aker universitetssykehus HF (2002-2008),Total,Out-patient consultations per 1 000 inhabitants,2021,0
+Aker universitetssykehus HF (2002-2008),Total,Day cases per 1 000 inhabitants,2002,NA
+Aker universitetssykehus HF (2002-2008),Total,Day cases per 1 000 inhabitants,2020,0
+Aker universitetssykehus HF (2002-2008),Total,Day cases per 1 000 inhabitants,2021,0
+Aker universitetssykehus HF (2002-2008),Somatic health care,Beds,2002,395
+Aker universitetssykehus HF (2002-2008),Somatic health care,Beds,2020,0
+Aker universitetssykehus HF (2002-2008),Somatic health care,Beds,2021,0
+Aker universitetssykehus HF (2002-2008),Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Aker universitetssykehus HF (2002-2008),Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+Aker universitetssykehus HF (2002-2008),Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+Aker universitetssykehus HF (2002-2008),Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Aker universitetssykehus HF (2002-2008),Somatic health care,Day cases per 1 000 inhabitants,2020,0
+Aker universitetssykehus HF (2002-2008),Somatic health care,Day cases per 1 000 inhabitants,2021,0
+Aker universitetssykehus HF (2002-2008),Drug treatment (TSB),Beds,2002,0
+Aker universitetssykehus HF (2002-2008),Drug treatment (TSB),Beds,2020,0
+Aker universitetssykehus HF (2002-2008),Drug treatment (TSB),Beds,2021,0
+Aker universitetssykehus HF (2002-2008),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Aker universitetssykehus HF (2002-2008),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Aker universitetssykehus HF (2002-2008),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Aker universitetssykehus HF (2002-2008),Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Aker universitetssykehus HF (2002-2008),Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Aker universitetssykehus HF (2002-2008),Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Barne- og ungdomsprykiatri Oslo HF (2002),Total,Beds,2002,51
+Barne- og ungdomsprykiatri Oslo HF (2002),Total,Beds,2020,0
+Barne- og ungdomsprykiatri Oslo HF (2002),Total,Beds,2021,0
+Barne- og ungdomsprykiatri Oslo HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Barne- og ungdomsprykiatri Oslo HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2020,0
+Barne- og ungdomsprykiatri Oslo HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2021,0
+Barne- og ungdomsprykiatri Oslo HF (2002),Total,Day cases per 1 000 inhabitants,2002,NA
+Barne- og ungdomsprykiatri Oslo HF (2002),Total,Day cases per 1 000 inhabitants,2020,0
+Barne- og ungdomsprykiatri Oslo HF (2002),Total,Day cases per 1 000 inhabitants,2021,0
+Barne- og ungdomsprykiatri Oslo HF (2002),Somatic health care,Beds,2002,0
+Barne- og ungdomsprykiatri Oslo HF (2002),Somatic health care,Beds,2020,0
+Barne- og ungdomsprykiatri Oslo HF (2002),Somatic health care,Beds,2021,0
+Barne- og ungdomsprykiatri Oslo HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,0
+Barne- og ungdomsprykiatri Oslo HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+Barne- og ungdomsprykiatri Oslo HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+Barne- og ungdomsprykiatri Oslo HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2002,0
+Barne- og ungdomsprykiatri Oslo HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2020,0
+Barne- og ungdomsprykiatri Oslo HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2021,0
+Barne- og ungdomsprykiatri Oslo HF (2002),Drug treatment (TSB),Beds,2002,0
+Barne- og ungdomsprykiatri Oslo HF (2002),Drug treatment (TSB),Beds,2020,0
+Barne- og ungdomsprykiatri Oslo HF (2002),Drug treatment (TSB),Beds,2021,0
+Barne- og ungdomsprykiatri Oslo HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Barne- og ungdomsprykiatri Oslo HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Barne- og ungdomsprykiatri Oslo HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Barne- og ungdomsprykiatri Oslo HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Barne- og ungdomsprykiatri Oslo HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Barne- og ungdomsprykiatri Oslo HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Blakstad sykehus HF (2002),Total,Beds,2002,249
+Blakstad sykehus HF (2002),Total,Beds,2020,0
+Blakstad sykehus HF (2002),Total,Beds,2021,0
+Blakstad sykehus HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Blakstad sykehus HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2020,0
+Blakstad sykehus HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2021,0
+Blakstad sykehus HF (2002),Total,Day cases per 1 000 inhabitants,2002,NA
+Blakstad sykehus HF (2002),Total,Day cases per 1 000 inhabitants,2020,0
+Blakstad sykehus HF (2002),Total,Day cases per 1 000 inhabitants,2021,0
+Blakstad sykehus HF (2002),Somatic health care,Beds,2002,0
+Blakstad sykehus HF (2002),Somatic health care,Beds,2020,0
+Blakstad sykehus HF (2002),Somatic health care,Beds,2021,0
+Blakstad sykehus HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,0
+Blakstad sykehus HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+Blakstad sykehus HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+Blakstad sykehus HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2002,0
+Blakstad sykehus HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2020,0
+Blakstad sykehus HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2021,0
+Blakstad sykehus HF (2002),Drug treatment (TSB),Beds,2002,0
+Blakstad sykehus HF (2002),Drug treatment (TSB),Beds,2020,0
+Blakstad sykehus HF (2002),Drug treatment (TSB),Beds,2021,0
+Blakstad sykehus HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Blakstad sykehus HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Blakstad sykehus HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Blakstad sykehus HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Blakstad sykehus HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Blakstad sykehus HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Sykehuset Asker og Bærum HF (2003-2008),Total,Beds,2002,0
+Sykehuset Asker og Bærum HF (2003-2008),Total,Beds,2020,0
+Sykehuset Asker og Bærum HF (2003-2008),Total,Beds,2021,0
+Sykehuset Asker og Bærum HF (2003-2008),Total,Out-patient consultations per 1 000 inhabitants,2002,0
+Sykehuset Asker og Bærum HF (2003-2008),Total,Out-patient consultations per 1 000 inhabitants,2020,0
+Sykehuset Asker og Bærum HF (2003-2008),Total,Out-patient consultations per 1 000 inhabitants,2021,0
+Sykehuset Asker og Bærum HF (2003-2008),Total,Day cases per 1 000 inhabitants,2002,0
+Sykehuset Asker og Bærum HF (2003-2008),Total,Day cases per 1 000 inhabitants,2020,0
+Sykehuset Asker og Bærum HF (2003-2008),Total,Day cases per 1 000 inhabitants,2021,0
+Sykehuset Asker og Bærum HF (2003-2008),Somatic health care,Beds,2002,0
+Sykehuset Asker og Bærum HF (2003-2008),Somatic health care,Beds,2020,0
+Sykehuset Asker og Bærum HF (2003-2008),Somatic health care,Beds,2021,0
+Sykehuset Asker og Bærum HF (2003-2008),Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,0
+Sykehuset Asker og Bærum HF (2003-2008),Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+Sykehuset Asker og Bærum HF (2003-2008),Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+Sykehuset Asker og Bærum HF (2003-2008),Somatic health care,Day cases per 1 000 inhabitants,2002,0
+Sykehuset Asker og Bærum HF (2003-2008),Somatic health care,Day cases per 1 000 inhabitants,2020,0
+Sykehuset Asker og Bærum HF (2003-2008),Somatic health care,Day cases per 1 000 inhabitants,2021,0
+Sykehuset Asker og Bærum HF (2003-2008),Drug treatment (TSB),Beds,2002,0
+Sykehuset Asker og Bærum HF (2003-2008),Drug treatment (TSB),Beds,2020,0
+Sykehuset Asker og Bærum HF (2003-2008),Drug treatment (TSB),Beds,2021,0
+Sykehuset Asker og Bærum HF (2003-2008),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Sykehuset Asker og Bærum HF (2003-2008),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Sykehuset Asker og Bærum HF (2003-2008),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Sykehuset Asker og Bærum HF (2003-2008),Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Sykehuset Asker og Bærum HF (2003-2008),Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Sykehuset Asker og Bærum HF (2003-2008),Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Sykehuset Asker og Bærum HF (2002),Total,Beds,2002,260
+Sykehuset Asker og Bærum HF (2002),Total,Beds,2020,0
+Sykehuset Asker og Bærum HF (2002),Total,Beds,2021,0
+Sykehuset Asker og Bærum HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Sykehuset Asker og Bærum HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2020,0
+Sykehuset Asker og Bærum HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2021,0
+Sykehuset Asker og Bærum HF (2002),Total,Day cases per 1 000 inhabitants,2002,NA
+Sykehuset Asker og Bærum HF (2002),Total,Day cases per 1 000 inhabitants,2020,0
+Sykehuset Asker og Bærum HF (2002),Total,Day cases per 1 000 inhabitants,2021,0
+Sykehuset Asker og Bærum HF (2002),Somatic health care,Beds,2002,260
+Sykehuset Asker og Bærum HF (2002),Somatic health care,Beds,2020,0
+Sykehuset Asker og Bærum HF (2002),Somatic health care,Beds,2021,0
+Sykehuset Asker og Bærum HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Sykehuset Asker og Bærum HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+Sykehuset Asker og Bærum HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+Sykehuset Asker og Bærum HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Sykehuset Asker og Bærum HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2020,0
+Sykehuset Asker og Bærum HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2021,0
+Sykehuset Asker og Bærum HF (2002),Drug treatment (TSB),Beds,2002,0
+Sykehuset Asker og Bærum HF (2002),Drug treatment (TSB),Beds,2020,0
+Sykehuset Asker og Bærum HF (2002),Drug treatment (TSB),Beds,2021,0
+Sykehuset Asker og Bærum HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Sykehuset Asker og Bærum HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Sykehuset Asker og Bærum HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Sykehuset Asker og Bærum HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Sykehuset Asker og Bærum HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Sykehuset Asker og Bærum HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Kongsvinger sjukehus HF (2002),Total,Beds,2002,145
+Kongsvinger sjukehus HF (2002),Total,Beds,2020,0
+Kongsvinger sjukehus HF (2002),Total,Beds,2021,0
+Kongsvinger sjukehus HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Kongsvinger sjukehus HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2020,0
+Kongsvinger sjukehus HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2021,0
+Kongsvinger sjukehus HF (2002),Total,Day cases per 1 000 inhabitants,2002,NA
+Kongsvinger sjukehus HF (2002),Total,Day cases per 1 000 inhabitants,2020,0
+Kongsvinger sjukehus HF (2002),Total,Day cases per 1 000 inhabitants,2021,0
+Kongsvinger sjukehus HF (2002),Somatic health care,Beds,2002,122
+Kongsvinger sjukehus HF (2002),Somatic health care,Beds,2020,0
+Kongsvinger sjukehus HF (2002),Somatic health care,Beds,2021,0
+Kongsvinger sjukehus HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Kongsvinger sjukehus HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+Kongsvinger sjukehus HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+Kongsvinger sjukehus HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Kongsvinger sjukehus HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2020,0
+Kongsvinger sjukehus HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2021,0
+Kongsvinger sjukehus HF (2002),Drug treatment (TSB),Beds,2002,0
+Kongsvinger sjukehus HF (2002),Drug treatment (TSB),Beds,2020,0
+Kongsvinger sjukehus HF (2002),Drug treatment (TSB),Beds,2021,0
+Kongsvinger sjukehus HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Kongsvinger sjukehus HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Kongsvinger sjukehus HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Kongsvinger sjukehus HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Kongsvinger sjukehus HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Kongsvinger sjukehus HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Sykehuset Innlandet HF (2003-),Total,Beds,2002,0
+Sykehuset Innlandet HF (2003-),Total,Beds,2020,921
+Sykehuset Innlandet HF (2003-),Total,Beds,2021,910
+Sykehuset Innlandet HF (2003-),Total,Out-patient consultations per 1 000 inhabitants,2002,0
+Sykehuset Innlandet HF (2003-),Total,Out-patient consultations per 1 000 inhabitants,2020,NA
+Sykehuset Innlandet HF (2003-),Total,Out-patient consultations per 1 000 inhabitants,2021,NA
+Sykehuset Innlandet HF (2003-),Total,Day cases per 1 000 inhabitants,2002,0
+Sykehuset Innlandet HF (2003-),Total,Day cases per 1 000 inhabitants,2020,NA
+Sykehuset Innlandet HF (2003-),Total,Day cases per 1 000 inhabitants,2021,NA
+Sykehuset Innlandet HF (2003-),Somatic health care,Beds,2002,0
+Sykehuset Innlandet HF (2003-),Somatic health care,Beds,2020,659
+Sykehuset Innlandet HF (2003-),Somatic health care,Beds,2021,650
+Sykehuset Innlandet HF (2003-),Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,0
+Sykehuset Innlandet HF (2003-),Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,NA
+Sykehuset Innlandet HF (2003-),Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,NA
+Sykehuset Innlandet HF (2003-),Somatic health care,Day cases per 1 000 inhabitants,2002,0
+Sykehuset Innlandet HF (2003-),Somatic health care,Day cases per 1 000 inhabitants,2020,NA
+Sykehuset Innlandet HF (2003-),Somatic health care,Day cases per 1 000 inhabitants,2021,NA
+Sykehuset Innlandet HF (2003-),Drug treatment (TSB),Beds,2002,0
+Sykehuset Innlandet HF (2003-),Drug treatment (TSB),Beds,2020,49
+Sykehuset Innlandet HF (2003-),Drug treatment (TSB),Beds,2021,49
+Sykehuset Innlandet HF (2003-),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Sykehuset Innlandet HF (2003-),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,NA
+Sykehuset Innlandet HF (2003-),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,NA
+Sykehuset Innlandet HF (2003-),Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Sykehuset Innlandet HF (2003-),Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,NA
+Sykehuset Innlandet HF (2003-),Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,NA
+Psykisk helsevern Østfold HF (2002),Total,Beds,2002,282
+Psykisk helsevern Østfold HF (2002),Total,Beds,2020,0
+Psykisk helsevern Østfold HF (2002),Total,Beds,2021,0
+Psykisk helsevern Østfold HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Psykisk helsevern Østfold HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2020,0
+Psykisk helsevern Østfold HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2021,0
+Psykisk helsevern Østfold HF (2002),Total,Day cases per 1 000 inhabitants,2002,NA
+Psykisk helsevern Østfold HF (2002),Total,Day cases per 1 000 inhabitants,2020,0
+Psykisk helsevern Østfold HF (2002),Total,Day cases per 1 000 inhabitants,2021,0
+Psykisk helsevern Østfold HF (2002),Somatic health care,Beds,2002,0
+Psykisk helsevern Østfold HF (2002),Somatic health care,Beds,2020,0
+Psykisk helsevern Østfold HF (2002),Somatic health care,Beds,2021,0
+Psykisk helsevern Østfold HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,0
+Psykisk helsevern Østfold HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+Psykisk helsevern Østfold HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+Psykisk helsevern Østfold HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2002,0
+Psykisk helsevern Østfold HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2020,0
+Psykisk helsevern Østfold HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2021,0
+Psykisk helsevern Østfold HF (2002),Drug treatment (TSB),Beds,2002,0
+Psykisk helsevern Østfold HF (2002),Drug treatment (TSB),Beds,2020,0
+Psykisk helsevern Østfold HF (2002),Drug treatment (TSB),Beds,2021,0
+Psykisk helsevern Østfold HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Psykisk helsevern Østfold HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Psykisk helsevern Østfold HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Psykisk helsevern Østfold HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Psykisk helsevern Østfold HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Psykisk helsevern Østfold HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Sanderud sykehus HF (2002),Total,Beds,2002,121
+Sanderud sykehus HF (2002),Total,Beds,2020,0
+Sanderud sykehus HF (2002),Total,Beds,2021,0
+Sanderud sykehus HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Sanderud sykehus HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2020,0
+Sanderud sykehus HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2021,0
+Sanderud sykehus HF (2002),Total,Day cases per 1 000 inhabitants,2002,NA
+Sanderud sykehus HF (2002),Total,Day cases per 1 000 inhabitants,2020,0
+Sanderud sykehus HF (2002),Total,Day cases per 1 000 inhabitants,2021,0
+Sanderud sykehus HF (2002),Somatic health care,Beds,2002,NA
+Sanderud sykehus HF (2002),Somatic health care,Beds,2020,0
+Sanderud sykehus HF (2002),Somatic health care,Beds,2021,0
+Sanderud sykehus HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Sanderud sykehus HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+Sanderud sykehus HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+Sanderud sykehus HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Sanderud sykehus HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2020,0
+Sanderud sykehus HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2021,0
+Sanderud sykehus HF (2002),Drug treatment (TSB),Beds,2002,0
+Sanderud sykehus HF (2002),Drug treatment (TSB),Beds,2020,0
+Sanderud sykehus HF (2002),Drug treatment (TSB),Beds,2021,0
+Sanderud sykehus HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Sanderud sykehus HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Sanderud sykehus HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Sanderud sykehus HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Sanderud sykehus HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Sanderud sykehus HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Sentralsjukehuset i Hedmark HF (2002),Total,Beds,2002,336
+Sentralsjukehuset i Hedmark HF (2002),Total,Beds,2020,0
+Sentralsjukehuset i Hedmark HF (2002),Total,Beds,2021,0
+Sentralsjukehuset i Hedmark HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Sentralsjukehuset i Hedmark HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2020,0
+Sentralsjukehuset i Hedmark HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2021,0
+Sentralsjukehuset i Hedmark HF (2002),Total,Day cases per 1 000 inhabitants,2002,NA
+Sentralsjukehuset i Hedmark HF (2002),Total,Day cases per 1 000 inhabitants,2020,0
+Sentralsjukehuset i Hedmark HF (2002),Total,Day cases per 1 000 inhabitants,2021,0
+Sentralsjukehuset i Hedmark HF (2002),Somatic health care,Beds,2002,336
+Sentralsjukehuset i Hedmark HF (2002),Somatic health care,Beds,2020,0
+Sentralsjukehuset i Hedmark HF (2002),Somatic health care,Beds,2021,0
+Sentralsjukehuset i Hedmark HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Sentralsjukehuset i Hedmark HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+Sentralsjukehuset i Hedmark HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+Sentralsjukehuset i Hedmark HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Sentralsjukehuset i Hedmark HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2020,0
+Sentralsjukehuset i Hedmark HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2021,0
+Sentralsjukehuset i Hedmark HF (2002),Drug treatment (TSB),Beds,2002,0
+Sentralsjukehuset i Hedmark HF (2002),Drug treatment (TSB),Beds,2020,0
+Sentralsjukehuset i Hedmark HF (2002),Drug treatment (TSB),Beds,2021,0
+Sentralsjukehuset i Hedmark HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Sentralsjukehuset i Hedmark HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Sentralsjukehuset i Hedmark HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Sentralsjukehuset i Hedmark HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Sentralsjukehuset i Hedmark HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Sentralsjukehuset i Hedmark HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Ski sykehus HF (2002),Total,Beds,2002,48
+Ski sykehus HF (2002),Total,Beds,2020,0
+Ski sykehus HF (2002),Total,Beds,2021,0
+Ski sykehus HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Ski sykehus HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2020,0
+Ski sykehus HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2021,0
+Ski sykehus HF (2002),Total,Day cases per 1 000 inhabitants,2002,NA
+Ski sykehus HF (2002),Total,Day cases per 1 000 inhabitants,2020,0
+Ski sykehus HF (2002),Total,Day cases per 1 000 inhabitants,2021,0
+Ski sykehus HF (2002),Somatic health care,Beds,2002,48
+Ski sykehus HF (2002),Somatic health care,Beds,2020,0
+Ski sykehus HF (2002),Somatic health care,Beds,2021,0
+Ski sykehus HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Ski sykehus HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+Ski sykehus HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+Ski sykehus HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Ski sykehus HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2020,0
+Ski sykehus HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2021,0
+Ski sykehus HF (2002),Drug treatment (TSB),Beds,2002,0
+Ski sykehus HF (2002),Drug treatment (TSB),Beds,2020,0
+Ski sykehus HF (2002),Drug treatment (TSB),Beds,2021,0
+Ski sykehus HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Ski sykehus HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Ski sykehus HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Ski sykehus HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Ski sykehus HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Ski sykehus HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Tynset sjukehus HF (2002),Total,Beds,2002,56
+Tynset sjukehus HF (2002),Total,Beds,2020,0
+Tynset sjukehus HF (2002),Total,Beds,2021,0
+Tynset sjukehus HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Tynset sjukehus HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2020,0
+Tynset sjukehus HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2021,0
+Tynset sjukehus HF (2002),Total,Day cases per 1 000 inhabitants,2002,NA
+Tynset sjukehus HF (2002),Total,Day cases per 1 000 inhabitants,2020,0
+Tynset sjukehus HF (2002),Total,Day cases per 1 000 inhabitants,2021,0
+Tynset sjukehus HF (2002),Somatic health care,Beds,2002,46
+Tynset sjukehus HF (2002),Somatic health care,Beds,2020,0
+Tynset sjukehus HF (2002),Somatic health care,Beds,2021,0
+Tynset sjukehus HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Tynset sjukehus HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+Tynset sjukehus HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+Tynset sjukehus HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Tynset sjukehus HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2020,0
+Tynset sjukehus HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2021,0
+Tynset sjukehus HF (2002),Drug treatment (TSB),Beds,2002,0
+Tynset sjukehus HF (2002),Drug treatment (TSB),Beds,2020,0
+Tynset sjukehus HF (2002),Drug treatment (TSB),Beds,2021,0
+Tynset sjukehus HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Tynset sjukehus HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Tynset sjukehus HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Tynset sjukehus HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Tynset sjukehus HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Tynset sjukehus HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Ullevål universitetssykehus HF (2002-2008),Total,Beds,2002,1220
+Ullevål universitetssykehus HF (2002-2008),Total,Beds,2020,0
+Ullevål universitetssykehus HF (2002-2008),Total,Beds,2021,0
+Ullevål universitetssykehus HF (2002-2008),Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Ullevål universitetssykehus HF (2002-2008),Total,Out-patient consultations per 1 000 inhabitants,2020,0
+Ullevål universitetssykehus HF (2002-2008),Total,Out-patient consultations per 1 000 inhabitants,2021,0
+Ullevål universitetssykehus HF (2002-2008),Total,Day cases per 1 000 inhabitants,2002,NA
+Ullevål universitetssykehus HF (2002-2008),Total,Day cases per 1 000 inhabitants,2020,0
+Ullevål universitetssykehus HF (2002-2008),Total,Day cases per 1 000 inhabitants,2021,0
+Ullevål universitetssykehus HF (2002-2008),Somatic health care,Beds,2002,788
+Ullevål universitetssykehus HF (2002-2008),Somatic health care,Beds,2020,0
+Ullevål universitetssykehus HF (2002-2008),Somatic health care,Beds,2021,0
+Ullevål universitetssykehus HF (2002-2008),Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Ullevål universitetssykehus HF (2002-2008),Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+Ullevål universitetssykehus HF (2002-2008),Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+Ullevål universitetssykehus HF (2002-2008),Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Ullevål universitetssykehus HF (2002-2008),Somatic health care,Day cases per 1 000 inhabitants,2020,0
+Ullevål universitetssykehus HF (2002-2008),Somatic health care,Day cases per 1 000 inhabitants,2021,0
+Ullevål universitetssykehus HF (2002-2008),Drug treatment (TSB),Beds,2002,0
+Ullevål universitetssykehus HF (2002-2008),Drug treatment (TSB),Beds,2020,0
+Ullevål universitetssykehus HF (2002-2008),Drug treatment (TSB),Beds,2021,0
+Ullevål universitetssykehus HF (2002-2008),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Ullevål universitetssykehus HF (2002-2008),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Ullevål universitetssykehus HF (2002-2008),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Ullevål universitetssykehus HF (2002-2008),Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Ullevål universitetssykehus HF (2002-2008),Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Ullevål universitetssykehus HF (2002-2008),Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Psykisk helsevern i Sør Trøndelag HF (2002),Total,Beds,2002,305
+Psykisk helsevern i Sør Trøndelag HF (2002),Total,Beds,2020,0
+Psykisk helsevern i Sør Trøndelag HF (2002),Total,Beds,2021,0
+Psykisk helsevern i Sør Trøndelag HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Psykisk helsevern i Sør Trøndelag HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2020,0
+Psykisk helsevern i Sør Trøndelag HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2021,0
+Psykisk helsevern i Sør Trøndelag HF (2002),Total,Day cases per 1 000 inhabitants,2002,NA
+Psykisk helsevern i Sør Trøndelag HF (2002),Total,Day cases per 1 000 inhabitants,2020,0
+Psykisk helsevern i Sør Trøndelag HF (2002),Total,Day cases per 1 000 inhabitants,2021,0
+Psykisk helsevern i Sør Trøndelag HF (2002),Somatic health care,Beds,2002,NA
+Psykisk helsevern i Sør Trøndelag HF (2002),Somatic health care,Beds,2020,0
+Psykisk helsevern i Sør Trøndelag HF (2002),Somatic health care,Beds,2021,0
+Psykisk helsevern i Sør Trøndelag HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Psykisk helsevern i Sør Trøndelag HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+Psykisk helsevern i Sør Trøndelag HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+Psykisk helsevern i Sør Trøndelag HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Psykisk helsevern i Sør Trøndelag HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2020,0
+Psykisk helsevern i Sør Trøndelag HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2021,0
+Psykisk helsevern i Sør Trøndelag HF (2002),Drug treatment (TSB),Beds,2002,0
+Psykisk helsevern i Sør Trøndelag HF (2002),Drug treatment (TSB),Beds,2020,0
+Psykisk helsevern i Sør Trøndelag HF (2002),Drug treatment (TSB),Beds,2021,0
+Psykisk helsevern i Sør Trøndelag HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Psykisk helsevern i Sør Trøndelag HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Psykisk helsevern i Sør Trøndelag HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Psykisk helsevern i Sør Trøndelag HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Psykisk helsevern i Sør Trøndelag HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Psykisk helsevern i Sør Trøndelag HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Hålogalandssykehuset HF (2002-2006),Total,Beds,2002,373
+Hålogalandssykehuset HF (2002-2006),Total,Beds,2020,0
+Hålogalandssykehuset HF (2002-2006),Total,Beds,2021,0
+Hålogalandssykehuset HF (2002-2006),Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Hålogalandssykehuset HF (2002-2006),Total,Out-patient consultations per 1 000 inhabitants,2020,0
+Hålogalandssykehuset HF (2002-2006),Total,Out-patient consultations per 1 000 inhabitants,2021,0
+Hålogalandssykehuset HF (2002-2006),Total,Day cases per 1 000 inhabitants,2002,NA
+Hålogalandssykehuset HF (2002-2006),Total,Day cases per 1 000 inhabitants,2020,0
+Hålogalandssykehuset HF (2002-2006),Total,Day cases per 1 000 inhabitants,2021,0
+Hålogalandssykehuset HF (2002-2006),Somatic health care,Beds,2002,315
+Hålogalandssykehuset HF (2002-2006),Somatic health care,Beds,2020,0
+Hålogalandssykehuset HF (2002-2006),Somatic health care,Beds,2021,0
+Hålogalandssykehuset HF (2002-2006),Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Hålogalandssykehuset HF (2002-2006),Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+Hålogalandssykehuset HF (2002-2006),Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+Hålogalandssykehuset HF (2002-2006),Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Hålogalandssykehuset HF (2002-2006),Somatic health care,Day cases per 1 000 inhabitants,2020,0
+Hålogalandssykehuset HF (2002-2006),Somatic health care,Day cases per 1 000 inhabitants,2021,0
+Hålogalandssykehuset HF (2002-2006),Drug treatment (TSB),Beds,2002,0
+Hålogalandssykehuset HF (2002-2006),Drug treatment (TSB),Beds,2020,0
+Hålogalandssykehuset HF (2002-2006),Drug treatment (TSB),Beds,2021,0
+Hålogalandssykehuset HF (2002-2006),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Hålogalandssykehuset HF (2002-2006),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Hålogalandssykehuset HF (2002-2006),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Hålogalandssykehuset HF (2002-2006),Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Hålogalandssykehuset HF (2002-2006),Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Hålogalandssykehuset HF (2002-2006),Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Det Norske Radiumhospital HF (2002-2004),Total,Beds,2002,346
+Det Norske Radiumhospital HF (2002-2004),Total,Beds,2020,0
+Det Norske Radiumhospital HF (2002-2004),Total,Beds,2021,0
+Det Norske Radiumhospital HF (2002-2004),Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Det Norske Radiumhospital HF (2002-2004),Total,Out-patient consultations per 1 000 inhabitants,2020,0
+Det Norske Radiumhospital HF (2002-2004),Total,Out-patient consultations per 1 000 inhabitants,2021,0
+Det Norske Radiumhospital HF (2002-2004),Total,Day cases per 1 000 inhabitants,2002,NA
+Det Norske Radiumhospital HF (2002-2004),Total,Day cases per 1 000 inhabitants,2020,0
+Det Norske Radiumhospital HF (2002-2004),Total,Day cases per 1 000 inhabitants,2021,0
+Det Norske Radiumhospital HF (2002-2004),Somatic health care,Beds,2002,346
+Det Norske Radiumhospital HF (2002-2004),Somatic health care,Beds,2020,0
+Det Norske Radiumhospital HF (2002-2004),Somatic health care,Beds,2021,0
+Det Norske Radiumhospital HF (2002-2004),Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Det Norske Radiumhospital HF (2002-2004),Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+Det Norske Radiumhospital HF (2002-2004),Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+Det Norske Radiumhospital HF (2002-2004),Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Det Norske Radiumhospital HF (2002-2004),Somatic health care,Day cases per 1 000 inhabitants,2020,0
+Det Norske Radiumhospital HF (2002-2004),Somatic health care,Day cases per 1 000 inhabitants,2021,0
+Det Norske Radiumhospital HF (2002-2004),Drug treatment (TSB),Beds,2002,0
+Det Norske Radiumhospital HF (2002-2004),Drug treatment (TSB),Beds,2020,0
+Det Norske Radiumhospital HF (2002-2004),Drug treatment (TSB),Beds,2021,0
+Det Norske Radiumhospital HF (2002-2004),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Det Norske Radiumhospital HF (2002-2004),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Det Norske Radiumhospital HF (2002-2004),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Det Norske Radiumhospital HF (2002-2004),Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Det Norske Radiumhospital HF (2002-2004),Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Det Norske Radiumhospital HF (2002-2004),Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Rikshospitalet HF (2002-2004),Total,Beds,2002,579
+Rikshospitalet HF (2002-2004),Total,Beds,2020,0
+Rikshospitalet HF (2002-2004),Total,Beds,2021,0
+Rikshospitalet HF (2002-2004),Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Rikshospitalet HF (2002-2004),Total,Out-patient consultations per 1 000 inhabitants,2020,0
+Rikshospitalet HF (2002-2004),Total,Out-patient consultations per 1 000 inhabitants,2021,0
+Rikshospitalet HF (2002-2004),Total,Day cases per 1 000 inhabitants,2002,NA
+Rikshospitalet HF (2002-2004),Total,Day cases per 1 000 inhabitants,2020,0
+Rikshospitalet HF (2002-2004),Total,Day cases per 1 000 inhabitants,2021,0
+Rikshospitalet HF (2002-2004),Somatic health care,Beds,2002,579
+Rikshospitalet HF (2002-2004),Somatic health care,Beds,2020,0
+Rikshospitalet HF (2002-2004),Somatic health care,Beds,2021,0
+Rikshospitalet HF (2002-2004),Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Rikshospitalet HF (2002-2004),Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+Rikshospitalet HF (2002-2004),Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+Rikshospitalet HF (2002-2004),Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Rikshospitalet HF (2002-2004),Somatic health care,Day cases per 1 000 inhabitants,2020,0
+Rikshospitalet HF (2002-2004),Somatic health care,Day cases per 1 000 inhabitants,2021,0
+Rikshospitalet HF (2002-2004),Drug treatment (TSB),Beds,2002,0
+Rikshospitalet HF (2002-2004),Drug treatment (TSB),Beds,2020,0
+Rikshospitalet HF (2002-2004),Drug treatment (TSB),Beds,2021,0
+Rikshospitalet HF (2002-2004),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Rikshospitalet HF (2002-2004),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Rikshospitalet HF (2002-2004),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Rikshospitalet HF (2002-2004),Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Rikshospitalet HF (2002-2004),Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Rikshospitalet HF (2002-2004),Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Sørlandet sykehus HF (2003-),Total,Beds,2002,0
+Sørlandet sykehus HF (2003-),Total,Beds,2020,732
+Sørlandet sykehus HF (2003-),Total,Beds,2021,730
+Sørlandet sykehus HF (2003-),Total,Out-patient consultations per 1 000 inhabitants,2002,0
+Sørlandet sykehus HF (2003-),Total,Out-patient consultations per 1 000 inhabitants,2020,NA
+Sørlandet sykehus HF (2003-),Total,Out-patient consultations per 1 000 inhabitants,2021,NA
+Sørlandet sykehus HF (2003-),Total,Day cases per 1 000 inhabitants,2002,0
+Sørlandet sykehus HF (2003-),Total,Day cases per 1 000 inhabitants,2020,NA
+Sørlandet sykehus HF (2003-),Total,Day cases per 1 000 inhabitants,2021,NA
+Sørlandet sykehus HF (2003-),Somatic health care,Beds,2002,0
+Sørlandet sykehus HF (2003-),Somatic health care,Beds,2020,469
+Sørlandet sykehus HF (2003-),Somatic health care,Beds,2021,467
+Sørlandet sykehus HF (2003-),Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,0
+Sørlandet sykehus HF (2003-),Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,NA
+Sørlandet sykehus HF (2003-),Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,NA
+Sørlandet sykehus HF (2003-),Somatic health care,Day cases per 1 000 inhabitants,2002,0
+Sørlandet sykehus HF (2003-),Somatic health care,Day cases per 1 000 inhabitants,2020,NA
+Sørlandet sykehus HF (2003-),Somatic health care,Day cases per 1 000 inhabitants,2021,NA
+Sørlandet sykehus HF (2003-),Drug treatment (TSB),Beds,2002,0
+Sørlandet sykehus HF (2003-),Drug treatment (TSB),Beds,2020,73
+Sørlandet sykehus HF (2003-),Drug treatment (TSB),Beds,2021,73
+Sørlandet sykehus HF (2003-),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Sørlandet sykehus HF (2003-),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,NA
+Sørlandet sykehus HF (2003-),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,NA
+Sørlandet sykehus HF (2003-),Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Sørlandet sykehus HF (2003-),Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,NA
+Sørlandet sykehus HF (2003-),Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,NA
+Aust-Agder Sykehus HF (2002),Total,Beds,2002,414
+Aust-Agder Sykehus HF (2002),Total,Beds,2020,0
+Aust-Agder Sykehus HF (2002),Total,Beds,2021,0
+Aust-Agder Sykehus HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Aust-Agder Sykehus HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2020,0
+Aust-Agder Sykehus HF (2002),Total,Out-patient consultations per 1 000 inhabitants,2021,0
+Aust-Agder Sykehus HF (2002),Total,Day cases per 1 000 inhabitants,2002,NA
+Aust-Agder Sykehus HF (2002),Total,Day cases per 1 000 inhabitants,2020,0
+Aust-Agder Sykehus HF (2002),Total,Day cases per 1 000 inhabitants,2021,0
+Aust-Agder Sykehus HF (2002),Somatic health care,Beds,2002,257
+Aust-Agder Sykehus HF (2002),Somatic health care,Beds,2020,0
+Aust-Agder Sykehus HF (2002),Somatic health care,Beds,2021,0
+Aust-Agder Sykehus HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Aust-Agder Sykehus HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+Aust-Agder Sykehus HF (2002),Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+Aust-Agder Sykehus HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Aust-Agder Sykehus HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2020,0
+Aust-Agder Sykehus HF (2002),Somatic health care,Day cases per 1 000 inhabitants,2021,0
+Aust-Agder Sykehus HF (2002),Drug treatment (TSB),Beds,2002,0
+Aust-Agder Sykehus HF (2002),Drug treatment (TSB),Beds,2020,0
+Aust-Agder Sykehus HF (2002),Drug treatment (TSB),Beds,2021,0
+Aust-Agder Sykehus HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Aust-Agder Sykehus HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Aust-Agder Sykehus HF (2002),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Aust-Agder Sykehus HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Aust-Agder Sykehus HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Aust-Agder Sykehus HF (2002),Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Ringerike sykehus HF (2002-2008),Total,Beds,2002,194
+Ringerike sykehus HF (2002-2008),Total,Beds,2020,0
+Ringerike sykehus HF (2002-2008),Total,Beds,2021,0
+Ringerike sykehus HF (2002-2008),Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Ringerike sykehus HF (2002-2008),Total,Out-patient consultations per 1 000 inhabitants,2020,0
+Ringerike sykehus HF (2002-2008),Total,Out-patient consultations per 1 000 inhabitants,2021,0
+Ringerike sykehus HF (2002-2008),Total,Day cases per 1 000 inhabitants,2002,NA
+Ringerike sykehus HF (2002-2008),Total,Day cases per 1 000 inhabitants,2020,0
+Ringerike sykehus HF (2002-2008),Total,Day cases per 1 000 inhabitants,2021,0
+Ringerike sykehus HF (2002-2008),Somatic health care,Beds,2002,158
+Ringerike sykehus HF (2002-2008),Somatic health care,Beds,2020,0
+Ringerike sykehus HF (2002-2008),Somatic health care,Beds,2021,0
+Ringerike sykehus HF (2002-2008),Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Ringerike sykehus HF (2002-2008),Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+Ringerike sykehus HF (2002-2008),Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+Ringerike sykehus HF (2002-2008),Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Ringerike sykehus HF (2002-2008),Somatic health care,Day cases per 1 000 inhabitants,2020,0
+Ringerike sykehus HF (2002-2008),Somatic health care,Day cases per 1 000 inhabitants,2021,0
+Ringerike sykehus HF (2002-2008),Drug treatment (TSB),Beds,2002,0
+Ringerike sykehus HF (2002-2008),Drug treatment (TSB),Beds,2020,0
+Ringerike sykehus HF (2002-2008),Drug treatment (TSB),Beds,2021,0
+Ringerike sykehus HF (2002-2008),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Ringerike sykehus HF (2002-2008),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Ringerike sykehus HF (2002-2008),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Ringerike sykehus HF (2002-2008),Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Ringerike sykehus HF (2002-2008),Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Ringerike sykehus HF (2002-2008),Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Helse Møre og Romsdal HF (2011-),Total,Beds,2002,0
+Helse Møre og Romsdal HF (2011-),Total,Beds,2020,716
+Helse Møre og Romsdal HF (2011-),Total,Beds,2021,701
+Helse Møre og Romsdal HF (2011-),Total,Out-patient consultations per 1 000 inhabitants,2002,0
+Helse Møre og Romsdal HF (2011-),Total,Out-patient consultations per 1 000 inhabitants,2020,NA
+Helse Møre og Romsdal HF (2011-),Total,Out-patient consultations per 1 000 inhabitants,2021,NA
+Helse Møre og Romsdal HF (2011-),Total,Day cases per 1 000 inhabitants,2002,0
+Helse Møre og Romsdal HF (2011-),Total,Day cases per 1 000 inhabitants,2020,NA
+Helse Møre og Romsdal HF (2011-),Total,Day cases per 1 000 inhabitants,2021,NA
+Helse Møre og Romsdal HF (2011-),Somatic health care,Beds,2002,0
+Helse Møre og Romsdal HF (2011-),Somatic health care,Beds,2020,502
+Helse Møre og Romsdal HF (2011-),Somatic health care,Beds,2021,492
+Helse Møre og Romsdal HF (2011-),Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,0
+Helse Møre og Romsdal HF (2011-),Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,NA
+Helse Møre og Romsdal HF (2011-),Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,NA
+Helse Møre og Romsdal HF (2011-),Somatic health care,Day cases per 1 000 inhabitants,2002,0
+Helse Møre og Romsdal HF (2011-),Somatic health care,Day cases per 1 000 inhabitants,2020,NA
+Helse Møre og Romsdal HF (2011-),Somatic health care,Day cases per 1 000 inhabitants,2021,NA
+Helse Møre og Romsdal HF (2011-),Drug treatment (TSB),Beds,2002,0
+Helse Møre og Romsdal HF (2011-),Drug treatment (TSB),Beds,2020,59
+Helse Møre og Romsdal HF (2011-),Drug treatment (TSB),Beds,2021,56
+Helse Møre og Romsdal HF (2011-),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Helse Møre og Romsdal HF (2011-),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,NA
+Helse Møre og Romsdal HF (2011-),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,NA
+Helse Møre og Romsdal HF (2011-),Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Helse Møre og Romsdal HF (2011-),Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,NA
+Helse Møre og Romsdal HF (2011-),Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,NA
+Country,Total,Beds,2002,22662
+Country,Total,Beds,2020,18281
+Country,Total,Beds,2021,18396
+Country,Total,Out-patient consultations per 1 000 inhabitants,2002,879
+Country,Total,Out-patient consultations per 1 000 inhabitants,2020,2199
+Country,Total,Out-patient consultations per 1 000 inhabitants,2021,2289
+Country,Total,Day cases per 1 000 inhabitants,2002,129
+Country,Total,Day cases per 1 000 inhabitants,2020,70
+Country,Total,Day cases per 1 000 inhabitants,2021,79
+Country,Somatic health care,Beds,2002,16911
+Country,Somatic health care,Beds,2020,12832
+Country,Somatic health care,Beds,2021,12925
+Country,Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,694
+Country,Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,1483
+Country,Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,1572
+Country,Somatic health care,Day cases per 1 000 inhabitants,2002,80
+Country,Somatic health care,Day cases per 1 000 inhabitants,2020,67
+Country,Somatic health care,Day cases per 1 000 inhabitants,2021,77
+Country,Drug treatment (TSB),Beds,2002,0
+Country,Drug treatment (TSB),Beds,2020,1867
+Country,Drug treatment (TSB),Beds,2021,1867
+Country,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Country,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,96
+Country,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,93
+Country,Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Country,Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Country,Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,1
+Helseregion Øst (2002-2006),Total,Beds,2002,6323
+Helseregion Øst (2002-2006),Total,Beds,2020,0
+Helseregion Øst (2002-2006),Total,Beds,2021,0
+Helseregion Øst (2002-2006),Total,Out-patient consultations per 1 000 inhabitants,2002,769
+Helseregion Øst (2002-2006),Total,Out-patient consultations per 1 000 inhabitants,2020,0
+Helseregion Øst (2002-2006),Total,Out-patient consultations per 1 000 inhabitants,2021,0
+Helseregion Øst (2002-2006),Total,Day cases per 1 000 inhabitants,2002,135
+Helseregion Øst (2002-2006),Total,Day cases per 1 000 inhabitants,2020,0
+Helseregion Øst (2002-2006),Total,Day cases per 1 000 inhabitants,2021,0
+Helseregion Øst (2002-2006),Somatic health care,Beds,2002,4176
+Helseregion Øst (2002-2006),Somatic health care,Beds,2020,0
+Helseregion Øst (2002-2006),Somatic health care,Beds,2021,0
+Helseregion Øst (2002-2006),Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,580
+Helseregion Øst (2002-2006),Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+Helseregion Øst (2002-2006),Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+Helseregion Øst (2002-2006),Somatic health care,Day cases per 1 000 inhabitants,2002,66
+Helseregion Øst (2002-2006),Somatic health care,Day cases per 1 000 inhabitants,2020,0
+Helseregion Øst (2002-2006),Somatic health care,Day cases per 1 000 inhabitants,2021,0
+Helseregion Øst (2002-2006),Drug treatment (TSB),Beds,2002,0
+Helseregion Øst (2002-2006),Drug treatment (TSB),Beds,2020,0
+Helseregion Øst (2002-2006),Drug treatment (TSB),Beds,2021,0
+Helseregion Øst (2002-2006),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Helseregion Øst (2002-2006),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Helseregion Øst (2002-2006),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Helseregion Øst (2002-2006),Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Helseregion Øst (2002-2006),Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Helseregion Øst (2002-2006),Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+HELSEREGION ØST TOTALT,Total,Beds,2002,6323
+HELSEREGION ØST TOTALT,Total,Beds,2020,0
+HELSEREGION ØST TOTALT,Total,Beds,2021,0
+HELSEREGION ØST TOTALT,Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+HELSEREGION ØST TOTALT,Total,Out-patient consultations per 1 000 inhabitants,2020,0
+HELSEREGION ØST TOTALT,Total,Out-patient consultations per 1 000 inhabitants,2021,0
+HELSEREGION ØST TOTALT,Total,Day cases per 1 000 inhabitants,2002,NA
+HELSEREGION ØST TOTALT,Total,Day cases per 1 000 inhabitants,2020,0
+HELSEREGION ØST TOTALT,Total,Day cases per 1 000 inhabitants,2021,0
+HELSEREGION ØST TOTALT,Somatic health care,Beds,2002,4176
+HELSEREGION ØST TOTALT,Somatic health care,Beds,2020,0
+HELSEREGION ØST TOTALT,Somatic health care,Beds,2021,0
+HELSEREGION ØST TOTALT,Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+HELSEREGION ØST TOTALT,Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+HELSEREGION ØST TOTALT,Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+HELSEREGION ØST TOTALT,Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+HELSEREGION ØST TOTALT,Somatic health care,Day cases per 1 000 inhabitants,2020,0
+HELSEREGION ØST TOTALT,Somatic health care,Day cases per 1 000 inhabitants,2021,0
+HELSEREGION ØST TOTALT,Drug treatment (TSB),Beds,2002,0
+HELSEREGION ØST TOTALT,Drug treatment (TSB),Beds,2020,0
+HELSEREGION ØST TOTALT,Drug treatment (TSB),Beds,2021,0
+HELSEREGION ØST TOTALT,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+HELSEREGION ØST TOTALT,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+HELSEREGION ØST TOTALT,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+HELSEREGION ØST TOTALT,Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+HELSEREGION ØST TOTALT,Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+HELSEREGION ØST TOTALT,Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Private inst. m/ driftsavtale Helseregion Øst,Total,Beds,2002,702
+Private inst. m/ driftsavtale Helseregion Øst,Total,Beds,2020,0
+Private inst. m/ driftsavtale Helseregion Øst,Total,Beds,2021,0
+Private inst. m/ driftsavtale Helseregion Øst,Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Private inst. m/ driftsavtale Helseregion Øst,Total,Out-patient consultations per 1 000 inhabitants,2020,0
+Private inst. m/ driftsavtale Helseregion Øst,Total,Out-patient consultations per 1 000 inhabitants,2021,0
+Private inst. m/ driftsavtale Helseregion Øst,Total,Day cases per 1 000 inhabitants,2002,NA
+Private inst. m/ driftsavtale Helseregion Øst,Total,Day cases per 1 000 inhabitants,2020,0
+Private inst. m/ driftsavtale Helseregion Øst,Total,Day cases per 1 000 inhabitants,2021,0
+Private inst. m/ driftsavtale Helseregion Øst,Somatic health care,Beds,2002,458
+Private inst. m/ driftsavtale Helseregion Øst,Somatic health care,Beds,2020,0
+Private inst. m/ driftsavtale Helseregion Øst,Somatic health care,Beds,2021,0
+Private inst. m/ driftsavtale Helseregion Øst,Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Private inst. m/ driftsavtale Helseregion Øst,Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+Private inst. m/ driftsavtale Helseregion Øst,Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+Private inst. m/ driftsavtale Helseregion Øst,Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Private inst. m/ driftsavtale Helseregion Øst,Somatic health care,Day cases per 1 000 inhabitants,2020,0
+Private inst. m/ driftsavtale Helseregion Øst,Somatic health care,Day cases per 1 000 inhabitants,2021,0
+Private inst. m/ driftsavtale Helseregion Øst,Drug treatment (TSB),Beds,2002,0
+Private inst. m/ driftsavtale Helseregion Øst,Drug treatment (TSB),Beds,2020,0
+Private inst. m/ driftsavtale Helseregion Øst,Drug treatment (TSB),Beds,2021,0
+Private inst. m/ driftsavtale Helseregion Øst,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Private inst. m/ driftsavtale Helseregion Øst,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Private inst. m/ driftsavtale Helseregion Øst,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Private inst. m/ driftsavtale Helseregion Øst,Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Private inst. m/ driftsavtale Helseregion Øst,Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Private inst. m/ driftsavtale Helseregion Øst,Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Helseregion Sør (2002-2006),Total,Beds,2002,4500
+Helseregion Sør (2002-2006),Total,Beds,2020,0
+Helseregion Sør (2002-2006),Total,Beds,2021,0
+Helseregion Sør (2002-2006),Total,Out-patient consultations per 1 000 inhabitants,2002,977
+Helseregion Sør (2002-2006),Total,Out-patient consultations per 1 000 inhabitants,2020,0
+Helseregion Sør (2002-2006),Total,Out-patient consultations per 1 000 inhabitants,2021,0
+Helseregion Sør (2002-2006),Total,Day cases per 1 000 inhabitants,2002,152
+Helseregion Sør (2002-2006),Total,Day cases per 1 000 inhabitants,2020,0
+Helseregion Sør (2002-2006),Total,Day cases per 1 000 inhabitants,2021,0
+Helseregion Sør (2002-2006),Somatic health care,Beds,2002,3525
+Helseregion Sør (2002-2006),Somatic health care,Beds,2020,0
+Helseregion Sør (2002-2006),Somatic health care,Beds,2021,0
+Helseregion Sør (2002-2006),Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,783
+Helseregion Sør (2002-2006),Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+Helseregion Sør (2002-2006),Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+Helseregion Sør (2002-2006),Somatic health care,Day cases per 1 000 inhabitants,2002,113
+Helseregion Sør (2002-2006),Somatic health care,Day cases per 1 000 inhabitants,2020,0
+Helseregion Sør (2002-2006),Somatic health care,Day cases per 1 000 inhabitants,2021,0
+Helseregion Sør (2002-2006),Drug treatment (TSB),Beds,2002,0
+Helseregion Sør (2002-2006),Drug treatment (TSB),Beds,2020,0
+Helseregion Sør (2002-2006),Drug treatment (TSB),Beds,2021,0
+Helseregion Sør (2002-2006),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Helseregion Sør (2002-2006),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Helseregion Sør (2002-2006),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Helseregion Sør (2002-2006),Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Helseregion Sør (2002-2006),Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Helseregion Sør (2002-2006),Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+HELSEREGION SØR TOTALT,Total,Beds,2002,4500
+HELSEREGION SØR TOTALT,Total,Beds,2020,0
+HELSEREGION SØR TOTALT,Total,Beds,2021,0
+HELSEREGION SØR TOTALT,Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+HELSEREGION SØR TOTALT,Total,Out-patient consultations per 1 000 inhabitants,2020,0
+HELSEREGION SØR TOTALT,Total,Out-patient consultations per 1 000 inhabitants,2021,0
+HELSEREGION SØR TOTALT,Total,Day cases per 1 000 inhabitants,2002,NA
+HELSEREGION SØR TOTALT,Total,Day cases per 1 000 inhabitants,2020,0
+HELSEREGION SØR TOTALT,Total,Day cases per 1 000 inhabitants,2021,0
+HELSEREGION SØR TOTALT,Somatic health care,Beds,2002,3525
+HELSEREGION SØR TOTALT,Somatic health care,Beds,2020,0
+HELSEREGION SØR TOTALT,Somatic health care,Beds,2021,0
+HELSEREGION SØR TOTALT,Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+HELSEREGION SØR TOTALT,Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+HELSEREGION SØR TOTALT,Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+HELSEREGION SØR TOTALT,Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+HELSEREGION SØR TOTALT,Somatic health care,Day cases per 1 000 inhabitants,2020,0
+HELSEREGION SØR TOTALT,Somatic health care,Day cases per 1 000 inhabitants,2021,0
+HELSEREGION SØR TOTALT,Drug treatment (TSB),Beds,2002,0
+HELSEREGION SØR TOTALT,Drug treatment (TSB),Beds,2020,0
+HELSEREGION SØR TOTALT,Drug treatment (TSB),Beds,2021,0
+HELSEREGION SØR TOTALT,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+HELSEREGION SØR TOTALT,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+HELSEREGION SØR TOTALT,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+HELSEREGION SØR TOTALT,Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+HELSEREGION SØR TOTALT,Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+HELSEREGION SØR TOTALT,Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Private inst. m/ driftsavtale Helseregion Sør,Total,Beds,2002,77
+Private inst. m/ driftsavtale Helseregion Sør,Total,Beds,2020,0
+Private inst. m/ driftsavtale Helseregion Sør,Total,Beds,2021,0
+Private inst. m/ driftsavtale Helseregion Sør,Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Private inst. m/ driftsavtale Helseregion Sør,Total,Out-patient consultations per 1 000 inhabitants,2020,0
+Private inst. m/ driftsavtale Helseregion Sør,Total,Out-patient consultations per 1 000 inhabitants,2021,0
+Private inst. m/ driftsavtale Helseregion Sør,Total,Day cases per 1 000 inhabitants,2002,NA
+Private inst. m/ driftsavtale Helseregion Sør,Total,Day cases per 1 000 inhabitants,2020,0
+Private inst. m/ driftsavtale Helseregion Sør,Total,Day cases per 1 000 inhabitants,2021,0
+Private inst. m/ driftsavtale Helseregion Sør,Somatic health care,Beds,2002,77
+Private inst. m/ driftsavtale Helseregion Sør,Somatic health care,Beds,2020,0
+Private inst. m/ driftsavtale Helseregion Sør,Somatic health care,Beds,2021,0
+Private inst. m/ driftsavtale Helseregion Sør,Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Private inst. m/ driftsavtale Helseregion Sør,Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+Private inst. m/ driftsavtale Helseregion Sør,Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+Private inst. m/ driftsavtale Helseregion Sør,Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Private inst. m/ driftsavtale Helseregion Sør,Somatic health care,Day cases per 1 000 inhabitants,2020,0
+Private inst. m/ driftsavtale Helseregion Sør,Somatic health care,Day cases per 1 000 inhabitants,2021,0
+Private inst. m/ driftsavtale Helseregion Sør,Drug treatment (TSB),Beds,2002,0
+Private inst. m/ driftsavtale Helseregion Sør,Drug treatment (TSB),Beds,2020,0
+Private inst. m/ driftsavtale Helseregion Sør,Drug treatment (TSB),Beds,2021,0
+Private inst. m/ driftsavtale Helseregion Sør,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Private inst. m/ driftsavtale Helseregion Sør,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Private inst. m/ driftsavtale Helseregion Sør,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Private inst. m/ driftsavtale Helseregion Sør,Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Private inst. m/ driftsavtale Helseregion Sør,Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Private inst. m/ driftsavtale Helseregion Sør,Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Helseregion Vest,Total,Beds,2002,4117
+Helseregion Vest,Total,Beds,2020,3212
+Helseregion Vest,Total,Beds,2021,3208
+Helseregion Vest,Total,Out-patient consultations per 1 000 inhabitants,2002,804
+Helseregion Vest,Total,Out-patient consultations per 1 000 inhabitants,2020,2129
+Helseregion Vest,Total,Out-patient consultations per 1 000 inhabitants,2021,2211
+Helseregion Vest,Total,Day cases per 1 000 inhabitants,2002,118
+Helseregion Vest,Total,Day cases per 1 000 inhabitants,2020,61
+Helseregion Vest,Total,Day cases per 1 000 inhabitants,2021,62
+Helseregion Vest,Somatic health care,Beds,2002,2829
+Helseregion Vest,Somatic health care,Beds,2020,2214
+Helseregion Vest,Somatic health care,Beds,2021,2215
+Helseregion Vest,Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,647
+Helseregion Vest,Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,1425
+Helseregion Vest,Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,1511
+Helseregion Vest,Somatic health care,Day cases per 1 000 inhabitants,2002,67
+Helseregion Vest,Somatic health care,Day cases per 1 000 inhabitants,2020,55
+Helseregion Vest,Somatic health care,Day cases per 1 000 inhabitants,2021,58
+Helseregion Vest,Drug treatment (TSB),Beds,2002,0
+Helseregion Vest,Drug treatment (TSB),Beds,2020,205
+Helseregion Vest,Drug treatment (TSB),Beds,2021,199
+Helseregion Vest,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Helseregion Vest,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,113
+Helseregion Vest,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,104
+Helseregion Vest,Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Helseregion Vest,Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,1
+Helseregion Vest,Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Medical specialists in Health region West,Total,Beds,2002,0
+Medical specialists in Health region West,Total,Beds,2020,NA
+Medical specialists in Health region West,Total,Beds,2021,NA
+Medical specialists in Health region West,Total,Out-patient consultations per 1 000 inhabitants,2002,0
+Medical specialists in Health region West,Total,Out-patient consultations per 1 000 inhabitants,2020,NA
+Medical specialists in Health region West,Total,Out-patient consultations per 1 000 inhabitants,2021,NA
+Medical specialists in Health region West,Total,Day cases per 1 000 inhabitants,2002,0
+Medical specialists in Health region West,Total,Day cases per 1 000 inhabitants,2020,NA
+Medical specialists in Health region West,Total,Day cases per 1 000 inhabitants,2021,NA
+Medical specialists in Health region West,Somatic health care,Beds,2002,0
+Medical specialists in Health region West,Somatic health care,Beds,2020,NA
+Medical specialists in Health region West,Somatic health care,Beds,2021,NA
+Medical specialists in Health region West,Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,0
+Medical specialists in Health region West,Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,NA
+Medical specialists in Health region West,Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,NA
+Medical specialists in Health region West,Somatic health care,Day cases per 1 000 inhabitants,2002,0
+Medical specialists in Health region West,Somatic health care,Day cases per 1 000 inhabitants,2020,NA
+Medical specialists in Health region West,Somatic health care,Day cases per 1 000 inhabitants,2021,NA
+Medical specialists in Health region West,Drug treatment (TSB),Beds,2002,0
+Medical specialists in Health region West,Drug treatment (TSB),Beds,2020,NA
+Medical specialists in Health region West,Drug treatment (TSB),Beds,2021,NA
+Medical specialists in Health region West,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Medical specialists in Health region West,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,NA
+Medical specialists in Health region West,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,NA
+Medical specialists in Health region West,Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Medical specialists in Health region West,Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,NA
+Medical specialists in Health region West,Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,NA
+HELSEREGION VEST TOTALT,Total,Beds,2002,4117
+HELSEREGION VEST TOTALT,Total,Beds,2020,3212
+HELSEREGION VEST TOTALT,Total,Beds,2021,3208
+HELSEREGION VEST TOTALT,Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+HELSEREGION VEST TOTALT,Total,Out-patient consultations per 1 000 inhabitants,2020,NA
+HELSEREGION VEST TOTALT,Total,Out-patient consultations per 1 000 inhabitants,2021,NA
+HELSEREGION VEST TOTALT,Total,Day cases per 1 000 inhabitants,2002,NA
+HELSEREGION VEST TOTALT,Total,Day cases per 1 000 inhabitants,2020,NA
+HELSEREGION VEST TOTALT,Total,Day cases per 1 000 inhabitants,2021,NA
+HELSEREGION VEST TOTALT,Somatic health care,Beds,2002,2829
+HELSEREGION VEST TOTALT,Somatic health care,Beds,2020,2214
+HELSEREGION VEST TOTALT,Somatic health care,Beds,2021,2215
+HELSEREGION VEST TOTALT,Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+HELSEREGION VEST TOTALT,Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,NA
+HELSEREGION VEST TOTALT,Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,NA
+HELSEREGION VEST TOTALT,Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+HELSEREGION VEST TOTALT,Somatic health care,Day cases per 1 000 inhabitants,2020,NA
+HELSEREGION VEST TOTALT,Somatic health care,Day cases per 1 000 inhabitants,2021,NA
+HELSEREGION VEST TOTALT,Drug treatment (TSB),Beds,2002,0
+HELSEREGION VEST TOTALT,Drug treatment (TSB),Beds,2020,205
+HELSEREGION VEST TOTALT,Drug treatment (TSB),Beds,2021,199
+HELSEREGION VEST TOTALT,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+HELSEREGION VEST TOTALT,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,NA
+HELSEREGION VEST TOTALT,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,NA
+HELSEREGION VEST TOTALT,Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+HELSEREGION VEST TOTALT,Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,NA
+HELSEREGION VEST TOTALT,Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,NA
+Private inst. m/ driftsavtale Helseregion Vest,Total,Beds,2002,381
+Private inst. m/ driftsavtale Helseregion Vest,Total,Beds,2020,274
+Private inst. m/ driftsavtale Helseregion Vest,Total,Beds,2021,277
+Private inst. m/ driftsavtale Helseregion Vest,Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+Private inst. m/ driftsavtale Helseregion Vest,Total,Out-patient consultations per 1 000 inhabitants,2020,NA
+Private inst. m/ driftsavtale Helseregion Vest,Total,Out-patient consultations per 1 000 inhabitants,2021,NA
+Private inst. m/ driftsavtale Helseregion Vest,Total,Day cases per 1 000 inhabitants,2002,NA
+Private inst. m/ driftsavtale Helseregion Vest,Total,Day cases per 1 000 inhabitants,2020,NA
+Private inst. m/ driftsavtale Helseregion Vest,Total,Day cases per 1 000 inhabitants,2021,NA
+Private inst. m/ driftsavtale Helseregion Vest,Somatic health care,Beds,2002,200
+Private inst. m/ driftsavtale Helseregion Vest,Somatic health care,Beds,2020,159
+Private inst. m/ driftsavtale Helseregion Vest,Somatic health care,Beds,2021,162
+Private inst. m/ driftsavtale Helseregion Vest,Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+Private inst. m/ driftsavtale Helseregion Vest,Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,NA
+Private inst. m/ driftsavtale Helseregion Vest,Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,NA
+Private inst. m/ driftsavtale Helseregion Vest,Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+Private inst. m/ driftsavtale Helseregion Vest,Somatic health care,Day cases per 1 000 inhabitants,2020,NA
+Private inst. m/ driftsavtale Helseregion Vest,Somatic health care,Day cases per 1 000 inhabitants,2021,NA
+Private inst. m/ driftsavtale Helseregion Vest,Drug treatment (TSB),Beds,2002,0
+Private inst. m/ driftsavtale Helseregion Vest,Drug treatment (TSB),Beds,2020,0
+Private inst. m/ driftsavtale Helseregion Vest,Drug treatment (TSB),Beds,2021,0
+Private inst. m/ driftsavtale Helseregion Vest,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Private inst. m/ driftsavtale Helseregion Vest,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Private inst. m/ driftsavtale Helseregion Vest,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Private inst. m/ driftsavtale Helseregion Vest,Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Private inst. m/ driftsavtale Helseregion Vest,Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Private inst. m/ driftsavtale Helseregion Vest,Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Helseregion Midt-Norge,Total,Beds,2002,2809
+Helseregion Midt-Norge,Total,Beds,2020,2058
+Helseregion Midt-Norge,Total,Beds,2021,2007
+Helseregion Midt-Norge,Total,Out-patient consultations per 1 000 inhabitants,2002,947
+Helseregion Midt-Norge,Total,Out-patient consultations per 1 000 inhabitants,2020,2144
+Helseregion Midt-Norge,Total,Out-patient consultations per 1 000 inhabitants,2021,2301
+Helseregion Midt-Norge,Total,Day cases per 1 000 inhabitants,2002,94
+Helseregion Midt-Norge,Total,Day cases per 1 000 inhabitants,2020,55
+Helseregion Midt-Norge,Total,Day cases per 1 000 inhabitants,2021,60
+Helseregion Midt-Norge,Somatic health care,Beds,2002,2097
+Helseregion Midt-Norge,Somatic health care,Beds,2020,1495
+Helseregion Midt-Norge,Somatic health care,Beds,2021,1451
+Helseregion Midt-Norge,Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,770
+Helseregion Midt-Norge,Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,1519
+Helseregion Midt-Norge,Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,1663
+Helseregion Midt-Norge,Somatic health care,Day cases per 1 000 inhabitants,2002,75
+Helseregion Midt-Norge,Somatic health care,Day cases per 1 000 inhabitants,2020,54
+Helseregion Midt-Norge,Somatic health care,Day cases per 1 000 inhabitants,2021,60
+Helseregion Midt-Norge,Drug treatment (TSB),Beds,2002,0
+Helseregion Midt-Norge,Drug treatment (TSB),Beds,2020,109
+Helseregion Midt-Norge,Drug treatment (TSB),Beds,2021,106
+Helseregion Midt-Norge,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Helseregion Midt-Norge,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,60
+Helseregion Midt-Norge,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,65
+Helseregion Midt-Norge,Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Helseregion Midt-Norge,Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,1
+Helseregion Midt-Norge,Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Medical specialists in Health region Central Norway,Total,Beds,2002,0
+Medical specialists in Health region Central Norway,Total,Beds,2020,NA
+Medical specialists in Health region Central Norway,Total,Beds,2021,NA
+Medical specialists in Health region Central Norway,Total,Out-patient consultations per 1 000 inhabitants,2002,0
+Medical specialists in Health region Central Norway,Total,Out-patient consultations per 1 000 inhabitants,2020,NA
+Medical specialists in Health region Central Norway,Total,Out-patient consultations per 1 000 inhabitants,2021,NA
+Medical specialists in Health region Central Norway,Total,Day cases per 1 000 inhabitants,2002,0
+Medical specialists in Health region Central Norway,Total,Day cases per 1 000 inhabitants,2020,NA
+Medical specialists in Health region Central Norway,Total,Day cases per 1 000 inhabitants,2021,NA
+Medical specialists in Health region Central Norway,Somatic health care,Beds,2002,0
+Medical specialists in Health region Central Norway,Somatic health care,Beds,2020,NA
+Medical specialists in Health region Central Norway,Somatic health care,Beds,2021,NA
+Medical specialists in Health region Central Norway,Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,0
+Medical specialists in Health region Central Norway,Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,NA
+Medical specialists in Health region Central Norway,Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,NA
+Medical specialists in Health region Central Norway,Somatic health care,Day cases per 1 000 inhabitants,2002,0
+Medical specialists in Health region Central Norway,Somatic health care,Day cases per 1 000 inhabitants,2020,NA
+Medical specialists in Health region Central Norway,Somatic health care,Day cases per 1 000 inhabitants,2021,NA
+Medical specialists in Health region Central Norway,Drug treatment (TSB),Beds,2002,0
+Medical specialists in Health region Central Norway,Drug treatment (TSB),Beds,2020,NA
+Medical specialists in Health region Central Norway,Drug treatment (TSB),Beds,2021,NA
+Medical specialists in Health region Central Norway,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Medical specialists in Health region Central Norway,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,NA
+Medical specialists in Health region Central Norway,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,NA
+Medical specialists in Health region Central Norway,Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Medical specialists in Health region Central Norway,Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,NA
+Medical specialists in Health region Central Norway,Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,NA
+HELSEREGION MIDT-NORGE TOTALT,Total,Beds,2002,2809
+HELSEREGION MIDT-NORGE TOTALT,Total,Beds,2020,2058
+HELSEREGION MIDT-NORGE TOTALT,Total,Beds,2021,2007
+HELSEREGION MIDT-NORGE TOTALT,Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+HELSEREGION MIDT-NORGE TOTALT,Total,Out-patient consultations per 1 000 inhabitants,2020,NA
+HELSEREGION MIDT-NORGE TOTALT,Total,Out-patient consultations per 1 000 inhabitants,2021,NA
+HELSEREGION MIDT-NORGE TOTALT,Total,Day cases per 1 000 inhabitants,2002,NA
+HELSEREGION MIDT-NORGE TOTALT,Total,Day cases per 1 000 inhabitants,2020,NA
+HELSEREGION MIDT-NORGE TOTALT,Total,Day cases per 1 000 inhabitants,2021,NA
+HELSEREGION MIDT-NORGE TOTALT,Somatic health care,Beds,2002,2097
+HELSEREGION MIDT-NORGE TOTALT,Somatic health care,Beds,2020,1495
+HELSEREGION MIDT-NORGE TOTALT,Somatic health care,Beds,2021,1451
+HELSEREGION MIDT-NORGE TOTALT,Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+HELSEREGION MIDT-NORGE TOTALT,Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,NA
+HELSEREGION MIDT-NORGE TOTALT,Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,NA
+HELSEREGION MIDT-NORGE TOTALT,Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+HELSEREGION MIDT-NORGE TOTALT,Somatic health care,Day cases per 1 000 inhabitants,2020,NA
+HELSEREGION MIDT-NORGE TOTALT,Somatic health care,Day cases per 1 000 inhabitants,2021,NA
+HELSEREGION MIDT-NORGE TOTALT,Drug treatment (TSB),Beds,2002,0
+HELSEREGION MIDT-NORGE TOTALT,Drug treatment (TSB),Beds,2020,109
+HELSEREGION MIDT-NORGE TOTALT,Drug treatment (TSB),Beds,2021,106
+HELSEREGION MIDT-NORGE TOTALT,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+HELSEREGION MIDT-NORGE TOTALT,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,NA
+HELSEREGION MIDT-NORGE TOTALT,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,NA
+HELSEREGION MIDT-NORGE TOTALT,Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+HELSEREGION MIDT-NORGE TOTALT,Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,NA
+HELSEREGION MIDT-NORGE TOTALT,Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,NA
+Private inst. m/ driftsavtale Helseregion Midt-Norge,Total,Beds,2002,0
+Private inst. m/ driftsavtale Helseregion Midt-Norge,Total,Beds,2020,0
+Private inst. m/ driftsavtale Helseregion Midt-Norge,Total,Beds,2021,0
+Private inst. m/ driftsavtale Helseregion Midt-Norge,Total,Out-patient consultations per 1 000 inhabitants,2002,0
+Private inst. m/ driftsavtale Helseregion Midt-Norge,Total,Out-patient consultations per 1 000 inhabitants,2020,0
+Private inst. m/ driftsavtale Helseregion Midt-Norge,Total,Out-patient consultations per 1 000 inhabitants,2021,0
+Private inst. m/ driftsavtale Helseregion Midt-Norge,Total,Day cases per 1 000 inhabitants,2002,0
+Private inst. m/ driftsavtale Helseregion Midt-Norge,Total,Day cases per 1 000 inhabitants,2020,0
+Private inst. m/ driftsavtale Helseregion Midt-Norge,Total,Day cases per 1 000 inhabitants,2021,0
+Private inst. m/ driftsavtale Helseregion Midt-Norge,Somatic health care,Beds,2002,0
+Private inst. m/ driftsavtale Helseregion Midt-Norge,Somatic health care,Beds,2020,0
+Private inst. m/ driftsavtale Helseregion Midt-Norge,Somatic health care,Beds,2021,0
+Private inst. m/ driftsavtale Helseregion Midt-Norge,Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,0
+Private inst. m/ driftsavtale Helseregion Midt-Norge,Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+Private inst. m/ driftsavtale Helseregion Midt-Norge,Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+Private inst. m/ driftsavtale Helseregion Midt-Norge,Somatic health care,Day cases per 1 000 inhabitants,2002,0
+Private inst. m/ driftsavtale Helseregion Midt-Norge,Somatic health care,Day cases per 1 000 inhabitants,2020,0
+Private inst. m/ driftsavtale Helseregion Midt-Norge,Somatic health care,Day cases per 1 000 inhabitants,2021,0
+Private inst. m/ driftsavtale Helseregion Midt-Norge,Drug treatment (TSB),Beds,2002,0
+Private inst. m/ driftsavtale Helseregion Midt-Norge,Drug treatment (TSB),Beds,2020,0
+Private inst. m/ driftsavtale Helseregion Midt-Norge,Drug treatment (TSB),Beds,2021,0
+Private inst. m/ driftsavtale Helseregion Midt-Norge,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Private inst. m/ driftsavtale Helseregion Midt-Norge,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Private inst. m/ driftsavtale Helseregion Midt-Norge,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Private inst. m/ driftsavtale Helseregion Midt-Norge,Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Private inst. m/ driftsavtale Helseregion Midt-Norge,Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Private inst. m/ driftsavtale Helseregion Midt-Norge,Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Helseregion Nord,Total,Beds,2002,2107
+Helseregion Nord,Total,Beds,2020,1655
+Helseregion Nord,Total,Beds,2021,1650
+Helseregion Nord,Total,Out-patient consultations per 1 000 inhabitants,2002,1002
+Helseregion Nord,Total,Out-patient consultations per 1 000 inhabitants,2020,1968
+Helseregion Nord,Total,Out-patient consultations per 1 000 inhabitants,2021,2077
+Helseregion Nord,Total,Day cases per 1 000 inhabitants,2002,108
+Helseregion Nord,Total,Day cases per 1 000 inhabitants,2020,52
+Helseregion Nord,Total,Day cases per 1 000 inhabitants,2021,58
+Helseregion Nord,Somatic health care,Beds,2002,1631
+Helseregion Nord,Somatic health care,Beds,2020,1197
+Helseregion Nord,Somatic health care,Beds,2021,1195
+Helseregion Nord,Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,797
+Helseregion Nord,Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,1362
+Helseregion Nord,Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,1463
+Helseregion Nord,Somatic health care,Day cases per 1 000 inhabitants,2002,84
+Helseregion Nord,Somatic health care,Day cases per 1 000 inhabitants,2020,50
+Helseregion Nord,Somatic health care,Day cases per 1 000 inhabitants,2021,55
+Helseregion Nord,Drug treatment (TSB),Beds,2002,0
+Helseregion Nord,Drug treatment (TSB),Beds,2020,103
+Helseregion Nord,Drug treatment (TSB),Beds,2021,95
+Helseregion Nord,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Helseregion Nord,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,40
+Helseregion Nord,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,35
+Helseregion Nord,Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Helseregion Nord,Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,1
+Helseregion Nord,Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,1
+Medical specialists in Health region North,Total,Beds,2002,0
+Medical specialists in Health region North,Total,Beds,2020,NA
+Medical specialists in Health region North,Total,Beds,2021,NA
+Medical specialists in Health region North,Total,Out-patient consultations per 1 000 inhabitants,2002,0
+Medical specialists in Health region North,Total,Out-patient consultations per 1 000 inhabitants,2020,NA
+Medical specialists in Health region North,Total,Out-patient consultations per 1 000 inhabitants,2021,NA
+Medical specialists in Health region North,Total,Day cases per 1 000 inhabitants,2002,0
+Medical specialists in Health region North,Total,Day cases per 1 000 inhabitants,2020,NA
+Medical specialists in Health region North,Total,Day cases per 1 000 inhabitants,2021,NA
+Medical specialists in Health region North,Somatic health care,Beds,2002,0
+Medical specialists in Health region North,Somatic health care,Beds,2020,NA
+Medical specialists in Health region North,Somatic health care,Beds,2021,NA
+Medical specialists in Health region North,Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,0
+Medical specialists in Health region North,Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,NA
+Medical specialists in Health region North,Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,NA
+Medical specialists in Health region North,Somatic health care,Day cases per 1 000 inhabitants,2002,0
+Medical specialists in Health region North,Somatic health care,Day cases per 1 000 inhabitants,2020,NA
+Medical specialists in Health region North,Somatic health care,Day cases per 1 000 inhabitants,2021,NA
+Medical specialists in Health region North,Drug treatment (TSB),Beds,2002,0
+Medical specialists in Health region North,Drug treatment (TSB),Beds,2020,NA
+Medical specialists in Health region North,Drug treatment (TSB),Beds,2021,NA
+Medical specialists in Health region North,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Medical specialists in Health region North,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,NA
+Medical specialists in Health region North,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,NA
+Medical specialists in Health region North,Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Medical specialists in Health region North,Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,NA
+Medical specialists in Health region North,Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,NA
+HELSEREGION NORD TOTALT,Total,Beds,2002,2107
+HELSEREGION NORD TOTALT,Total,Beds,2020,1655
+HELSEREGION NORD TOTALT,Total,Beds,2021,1650
+HELSEREGION NORD TOTALT,Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+HELSEREGION NORD TOTALT,Total,Out-patient consultations per 1 000 inhabitants,2020,NA
+HELSEREGION NORD TOTALT,Total,Out-patient consultations per 1 000 inhabitants,2021,NA
+HELSEREGION NORD TOTALT,Total,Day cases per 1 000 inhabitants,2002,NA
+HELSEREGION NORD TOTALT,Total,Day cases per 1 000 inhabitants,2020,NA
+HELSEREGION NORD TOTALT,Total,Day cases per 1 000 inhabitants,2021,NA
+HELSEREGION NORD TOTALT,Somatic health care,Beds,2002,1631
+HELSEREGION NORD TOTALT,Somatic health care,Beds,2020,1197
+HELSEREGION NORD TOTALT,Somatic health care,Beds,2021,1195
+HELSEREGION NORD TOTALT,Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+HELSEREGION NORD TOTALT,Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,NA
+HELSEREGION NORD TOTALT,Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,NA
+HELSEREGION NORD TOTALT,Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+HELSEREGION NORD TOTALT,Somatic health care,Day cases per 1 000 inhabitants,2020,NA
+HELSEREGION NORD TOTALT,Somatic health care,Day cases per 1 000 inhabitants,2021,NA
+HELSEREGION NORD TOTALT,Drug treatment (TSB),Beds,2002,0
+HELSEREGION NORD TOTALT,Drug treatment (TSB),Beds,2020,103
+HELSEREGION NORD TOTALT,Drug treatment (TSB),Beds,2021,95
+HELSEREGION NORD TOTALT,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+HELSEREGION NORD TOTALT,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,NA
+HELSEREGION NORD TOTALT,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,NA
+HELSEREGION NORD TOTALT,Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+HELSEREGION NORD TOTALT,Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,NA
+HELSEREGION NORD TOTALT,Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,NA
+Private inst. m/ driftsavtale Helseregion Nord,Total,Beds,2002,0
+Private inst. m/ driftsavtale Helseregion Nord,Total,Beds,2020,0
+Private inst. m/ driftsavtale Helseregion Nord,Total,Beds,2021,0
+Private inst. m/ driftsavtale Helseregion Nord,Total,Out-patient consultations per 1 000 inhabitants,2002,0
+Private inst. m/ driftsavtale Helseregion Nord,Total,Out-patient consultations per 1 000 inhabitants,2020,0
+Private inst. m/ driftsavtale Helseregion Nord,Total,Out-patient consultations per 1 000 inhabitants,2021,0
+Private inst. m/ driftsavtale Helseregion Nord,Total,Day cases per 1 000 inhabitants,2002,0
+Private inst. m/ driftsavtale Helseregion Nord,Total,Day cases per 1 000 inhabitants,2020,0
+Private inst. m/ driftsavtale Helseregion Nord,Total,Day cases per 1 000 inhabitants,2021,0
+Private inst. m/ driftsavtale Helseregion Nord,Somatic health care,Beds,2002,0
+Private inst. m/ driftsavtale Helseregion Nord,Somatic health care,Beds,2020,0
+Private inst. m/ driftsavtale Helseregion Nord,Somatic health care,Beds,2021,0
+Private inst. m/ driftsavtale Helseregion Nord,Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,0
+Private inst. m/ driftsavtale Helseregion Nord,Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,0
+Private inst. m/ driftsavtale Helseregion Nord,Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,0
+Private inst. m/ driftsavtale Helseregion Nord,Somatic health care,Day cases per 1 000 inhabitants,2002,0
+Private inst. m/ driftsavtale Helseregion Nord,Somatic health care,Day cases per 1 000 inhabitants,2020,0
+Private inst. m/ driftsavtale Helseregion Nord,Somatic health care,Day cases per 1 000 inhabitants,2021,0
+Private inst. m/ driftsavtale Helseregion Nord,Drug treatment (TSB),Beds,2002,0
+Private inst. m/ driftsavtale Helseregion Nord,Drug treatment (TSB),Beds,2020,0
+Private inst. m/ driftsavtale Helseregion Nord,Drug treatment (TSB),Beds,2021,0
+Private inst. m/ driftsavtale Helseregion Nord,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Private inst. m/ driftsavtale Helseregion Nord,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,0
+Private inst. m/ driftsavtale Helseregion Nord,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,0
+Private inst. m/ driftsavtale Helseregion Nord,Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Private inst. m/ driftsavtale Helseregion Nord,Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Private inst. m/ driftsavtale Helseregion Nord,Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+ Private institutions,Total,Beds,2002,2806
+ Private institutions,Total,Beds,2020,3583
+ Private institutions,Total,Beds,2021,3689
+ Private institutions,Total,Out-patient consultations per 1 000 inhabitants,2002,NA
+ Private institutions,Total,Out-patient consultations per 1 000 inhabitants,2020,NA
+ Private institutions,Total,Out-patient consultations per 1 000 inhabitants,2021,NA
+ Private institutions,Total,Day cases per 1 000 inhabitants,2002,NA
+ Private institutions,Total,Day cases per 1 000 inhabitants,2020,NA
+ Private institutions,Total,Day cases per 1 000 inhabitants,2021,NA
+ Private institutions,Somatic health care,Beds,2002,2653
+ Private institutions,Somatic health care,Beds,2020,2210
+ Private institutions,Somatic health care,Beds,2021,2293
+ Private institutions,Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,NA
+ Private institutions,Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,NA
+ Private institutions,Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,NA
+ Private institutions,Somatic health care,Day cases per 1 000 inhabitants,2002,NA
+ Private institutions,Somatic health care,Day cases per 1 000 inhabitants,2020,NA
+ Private institutions,Somatic health care,Day cases per 1 000 inhabitants,2021,NA
+ Private institutions,Drug treatment (TSB),Beds,2002,0
+ Private institutions,Drug treatment (TSB),Beds,2020,1041
+ Private institutions,Drug treatment (TSB),Beds,2021,1057
+ Private institutions,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+ Private institutions,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,NA
+ Private institutions,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,NA
+ Private institutions,Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+ Private institutions,Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,NA
+ Private institutions,Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,NA
+Helseregion Sør-Øst (2007-),Total,Beds,2002,0
+Helseregion Sør-Øst (2007-),Total,Beds,2020,7773
+Helseregion Sør-Øst (2007-),Total,Beds,2021,7842
+Helseregion Sør-Øst (2007-),Total,Out-patient consultations per 1 000 inhabitants,2002,0
+Helseregion Sør-Øst (2007-),Total,Out-patient consultations per 1 000 inhabitants,2020,2220
+Helseregion Sør-Øst (2007-),Total,Out-patient consultations per 1 000 inhabitants,2021,2291
+Helseregion Sør-Øst (2007-),Total,Day cases per 1 000 inhabitants,2002,0
+Helseregion Sør-Øst (2007-),Total,Day cases per 1 000 inhabitants,2020,57
+Helseregion Sør-Øst (2007-),Total,Day cases per 1 000 inhabitants,2021,59
+Helseregion Sør-Øst (2007-),Somatic health care,Beds,2002,0
+Helseregion Sør-Øst (2007-),Somatic health care,Beds,2020,5716
+Helseregion Sør-Øst (2007-),Somatic health care,Beds,2021,5771
+Helseregion Sør-Øst (2007-),Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,0
+Helseregion Sør-Øst (2007-),Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,1484
+Helseregion Sør-Øst (2007-),Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,1558
+Helseregion Sør-Øst (2007-),Somatic health care,Day cases per 1 000 inhabitants,2002,0
+Helseregion Sør-Øst (2007-),Somatic health care,Day cases per 1 000 inhabitants,2020,54
+Helseregion Sør-Øst (2007-),Somatic health care,Day cases per 1 000 inhabitants,2021,57
+Helseregion Sør-Øst (2007-),Drug treatment (TSB),Beds,2002,0
+Helseregion Sør-Øst (2007-),Drug treatment (TSB),Beds,2020,409
+Helseregion Sør-Øst (2007-),Drug treatment (TSB),Beds,2021,410
+Helseregion Sør-Øst (2007-),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Helseregion Sør-Øst (2007-),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,89
+Helseregion Sør-Øst (2007-),Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,86
+Helseregion Sør-Øst (2007-),Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Helseregion Sør-Øst (2007-),Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,0
+Helseregion Sør-Øst (2007-),Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,0
+Medical specialists in Health region South-East,Total,Beds,2002,0
+Medical specialists in Health region South-East,Total,Beds,2020,NA
+Medical specialists in Health region South-East,Total,Beds,2021,NA
+Medical specialists in Health region South-East,Total,Out-patient consultations per 1 000 inhabitants,2002,0
+Medical specialists in Health region South-East,Total,Out-patient consultations per 1 000 inhabitants,2020,NA
+Medical specialists in Health region South-East,Total,Out-patient consultations per 1 000 inhabitants,2021,NA
+Medical specialists in Health region South-East,Total,Day cases per 1 000 inhabitants,2002,0
+Medical specialists in Health region South-East,Total,Day cases per 1 000 inhabitants,2020,NA
+Medical specialists in Health region South-East,Total,Day cases per 1 000 inhabitants,2021,NA
+Medical specialists in Health region South-East,Somatic health care,Beds,2002,0
+Medical specialists in Health region South-East,Somatic health care,Beds,2020,NA
+Medical specialists in Health region South-East,Somatic health care,Beds,2021,NA
+Medical specialists in Health region South-East,Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,0
+Medical specialists in Health region South-East,Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,NA
+Medical specialists in Health region South-East,Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,NA
+Medical specialists in Health region South-East,Somatic health care,Day cases per 1 000 inhabitants,2002,0
+Medical specialists in Health region South-East,Somatic health care,Day cases per 1 000 inhabitants,2020,NA
+Medical specialists in Health region South-East,Somatic health care,Day cases per 1 000 inhabitants,2021,NA
+Medical specialists in Health region South-East,Drug treatment (TSB),Beds,2002,0
+Medical specialists in Health region South-East,Drug treatment (TSB),Beds,2020,NA
+Medical specialists in Health region South-East,Drug treatment (TSB),Beds,2021,NA
+Medical specialists in Health region South-East,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Medical specialists in Health region South-East,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,NA
+Medical specialists in Health region South-East,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,NA
+Medical specialists in Health region South-East,Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Medical specialists in Health region South-East,Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,NA
+Medical specialists in Health region South-East,Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,NA
+HELSEREGION SØR-ØST TOTALT,Total,Beds,2002,0
+HELSEREGION SØR-ØST TOTALT,Total,Beds,2020,7773
+HELSEREGION SØR-ØST TOTALT,Total,Beds,2021,7842
+HELSEREGION SØR-ØST TOTALT,Total,Out-patient consultations per 1 000 inhabitants,2002,0
+HELSEREGION SØR-ØST TOTALT,Total,Out-patient consultations per 1 000 inhabitants,2020,NA
+HELSEREGION SØR-ØST TOTALT,Total,Out-patient consultations per 1 000 inhabitants,2021,NA
+HELSEREGION SØR-ØST TOTALT,Total,Day cases per 1 000 inhabitants,2002,0
+HELSEREGION SØR-ØST TOTALT,Total,Day cases per 1 000 inhabitants,2020,NA
+HELSEREGION SØR-ØST TOTALT,Total,Day cases per 1 000 inhabitants,2021,NA
+HELSEREGION SØR-ØST TOTALT,Somatic health care,Beds,2002,0
+HELSEREGION SØR-ØST TOTALT,Somatic health care,Beds,2020,5716
+HELSEREGION SØR-ØST TOTALT,Somatic health care,Beds,2021,5771
+HELSEREGION SØR-ØST TOTALT,Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,0
+HELSEREGION SØR-ØST TOTALT,Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,NA
+HELSEREGION SØR-ØST TOTALT,Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,NA
+HELSEREGION SØR-ØST TOTALT,Somatic health care,Day cases per 1 000 inhabitants,2002,0
+HELSEREGION SØR-ØST TOTALT,Somatic health care,Day cases per 1 000 inhabitants,2020,NA
+HELSEREGION SØR-ØST TOTALT,Somatic health care,Day cases per 1 000 inhabitants,2021,NA
+HELSEREGION SØR-ØST TOTALT,Drug treatment (TSB),Beds,2002,0
+HELSEREGION SØR-ØST TOTALT,Drug treatment (TSB),Beds,2020,409
+HELSEREGION SØR-ØST TOTALT,Drug treatment (TSB),Beds,2021,410
+HELSEREGION SØR-ØST TOTALT,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+HELSEREGION SØR-ØST TOTALT,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,NA
+HELSEREGION SØR-ØST TOTALT,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,NA
+HELSEREGION SØR-ØST TOTALT,Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+HELSEREGION SØR-ØST TOTALT,Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,NA
+HELSEREGION SØR-ØST TOTALT,Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,NA
+Private inst. m/ driftsavtale Helseregion Sør-Øst,Total,Beds,2002,0
+Private inst. m/ driftsavtale Helseregion Sør-Øst,Total,Beds,2020,494
+Private inst. m/ driftsavtale Helseregion Sør-Øst,Total,Beds,2021,479
+Private inst. m/ driftsavtale Helseregion Sør-Øst,Total,Out-patient consultations per 1 000 inhabitants,2002,0
+Private inst. m/ driftsavtale Helseregion Sør-Øst,Total,Out-patient consultations per 1 000 inhabitants,2020,NA
+Private inst. m/ driftsavtale Helseregion Sør-Øst,Total,Out-patient consultations per 1 000 inhabitants,2021,NA
+Private inst. m/ driftsavtale Helseregion Sør-Øst,Total,Day cases per 1 000 inhabitants,2002,0
+Private inst. m/ driftsavtale Helseregion Sør-Øst,Total,Day cases per 1 000 inhabitants,2020,NA
+Private inst. m/ driftsavtale Helseregion Sør-Øst,Total,Day cases per 1 000 inhabitants,2021,NA
+Private inst. m/ driftsavtale Helseregion Sør-Øst,Somatic health care,Beds,2002,0
+Private inst. m/ driftsavtale Helseregion Sør-Øst,Somatic health care,Beds,2020,375
+Private inst. m/ driftsavtale Helseregion Sør-Øst,Somatic health care,Beds,2021,367
+Private inst. m/ driftsavtale Helseregion Sør-Øst,Somatic health care,Out-patient consultations per 1 000 inhabitants,2002,0
+Private inst. m/ driftsavtale Helseregion Sør-Øst,Somatic health care,Out-patient consultations per 1 000 inhabitants,2020,NA
+Private inst. m/ driftsavtale Helseregion Sør-Øst,Somatic health care,Out-patient consultations per 1 000 inhabitants,2021,NA
+Private inst. m/ driftsavtale Helseregion Sør-Øst,Somatic health care,Day cases per 1 000 inhabitants,2002,0
+Private inst. m/ driftsavtale Helseregion Sør-Øst,Somatic health care,Day cases per 1 000 inhabitants,2020,NA
+Private inst. m/ driftsavtale Helseregion Sør-Øst,Somatic health care,Day cases per 1 000 inhabitants,2021,NA
+Private inst. m/ driftsavtale Helseregion Sør-Øst,Drug treatment (TSB),Beds,2002,0
+Private inst. m/ driftsavtale Helseregion Sør-Øst,Drug treatment (TSB),Beds,2020,NA
+Private inst. m/ driftsavtale Helseregion Sør-Øst,Drug treatment (TSB),Beds,2021,NA
+Private inst. m/ driftsavtale Helseregion Sør-Øst,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2002,0
+Private inst. m/ driftsavtale Helseregion Sør-Øst,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2020,NA
+Private inst. m/ driftsavtale Helseregion Sør-Øst,Drug treatment (TSB),Out-patient consultations per 1 000 inhabitants,2021,NA
+Private inst. m/ driftsavtale Helseregion Sør-Øst,Drug treatment (TSB),Day cases per 1 000 inhabitants,2002,0
+Private inst. m/ driftsavtale Helseregion Sør-Øst,Drug treatment (TSB),Day cases per 1 000 inhabitants,2020,NA
+Private inst. m/ driftsavtale Helseregion Sør-Øst,Drug treatment (TSB),Day cases per 1 000 inhabitants,2021,NA
