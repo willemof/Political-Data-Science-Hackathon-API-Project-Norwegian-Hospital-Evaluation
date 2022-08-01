@@ -14,7 +14,8 @@
   library(rlang)
   library(kableExtra)
   library(dplyr)
-  
+  library(stringr)
+  library(furrr)
   
 }
 #Get SSB Data
@@ -29,21 +30,40 @@ for(i in 1:NROW(url_list)){
     str_remove_all("/")
 }
 
-#derives json queries from url_list using PxWebApiData package
-query_list <- c()
-for (i in 1:NROW(url_list)){
-  query_list[i] <- ApiData(url_list[i], TRUE, returnApiQuery = TRUE, defaultJSONquery = c(1, -2, -1))
-  t_query_list <- tibble(query_list)
-}
+  query1<-  ApiData(url_list[1], HelseReg = TRUE, 
+                    HelseRegnKost = TRUE,
+                    HelseRegnFunk = TRUE,
+                    Tid= c(-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11,-12),
+                    ContentsCode = TRUE,
+                    returnApiQuery = TRUE )
+  
+  query2<-  ApiData(url_list[2], HelseReg = TRUE, 
+                    HelseTjenomr = TRUE,
+                    Tid= c(-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11,-12),
+                    ContentsCode = TRUE,
+                    returnApiQuery = TRUE )
+  
+  query3<-  ApiData(url_list[3], HelseReg = TRUE, 
+                    HelseTjenomr = TRUE,
+                    Yrke = TRUE,
+                    Tid= c(-1,-2,-3,-4,-5,-6,-7,-8,-9,-10,-11,-12),
+                    ContentsCode = TRUE,
+                    returnApiQuery = TRUE )
+  
+
+  
+  query_list <- c(query1, query2, query3)
 
 file.list <- paste0("./data/individual_datasets/",
                     str_extract(ds_tables, "^[0-9]+"),".csv")
 #for-loop generating merged ssb dataset
 ssb_ds<- tibble()
-if(file.exists("./data/merged_datasets/ssb_ds.csv")){
+
+{  
+  if(file.exists("./data/merged_datasets/ssb_ds.csv")){
   ssb_ds<- read_csv("./data/merged_datasets/ssb_ds.csv")
-next 
-if(file.exists("./data/merged_datasets/ssb_ds.csv") = FALSE){ 
+} 
+  if(file.exists("./data/merged_datasets/ssb_ds.csv") == FALSE){ 
   for(i in 1:NROW(url_list)){
   if(file.exists(file.list[i])){
     print(noquote(c(file.list[i],noquote("was retrieved from the project folder. No download has been done,"),  
@@ -53,8 +73,9 @@ if(file.exists("./data/merged_datasets/ssb_ds.csv") = FALSE){
       ssb_ds <- d.tmp.list
     }
     if(i>1) {ssb_ds<-full_join(ssb_ds, d.tmp.list)
-    if(i==NROW(url_list)){ssb_ds<-clean_names(ssb_ds)
     }
+    if(i==NROW(url_list)){ssb_ds<-clean_names(ssb_ds)
+    write_csv(ssb_ds, file = "./data/merged_datasets/ssb_ds.csv")
     }
     next
   }
@@ -82,6 +103,7 @@ if(file.exists("./data/merged_datasets/ssb_ds.csv") = FALSE){
 }
 }
 }
+ #end of if statement that generates ssb_ds
 #Health Directorate API/Data file
 
 
@@ -126,8 +148,9 @@ for(i in 1:nrow(api.call)){
   write_csv(tmp$AttachmentDataRows, file.tmp)
   print(noquote(c(file.tmp, noquote("was saved."))))
   Sys.sleep(2+abs(rnorm(1)))
-  
+ 
 }
+
 #End of for-loop
 
 #makes qi list out of csv files
@@ -143,8 +166,7 @@ hd_qi <- lapply(qi_files, read_csv, show_col_types = FALSE)
 hd_qi <- bind_rows(hd_qi)
 
 hd_qi <- hd_qi %>% 
-  clean_names() %>%
-  filter(period_type=="Årlig")
+  clean_names()  # used to filter for årlig, but removed since it needs to include fristbrudd_region and which does not have data on årlig
 hd_qi <- hd_qi %>%
   mutate(rhf = parent_name)
 hd_qi <- hd_qi %>%
@@ -162,18 +184,127 @@ hd_qi <- hd_qi %>%
   filter(year>=2010)
 write_csv(hd_qi, "./data/merged_datasets/hd_qi.csv")
 }
-
-#Need to merge data sets... language translation needed. but first, filter for yearly.
-ssb_ds<- filter(ssb_ds$rhf, grepl("RHF", health_region))
-ssb_ds <- ssb_ds %>%
-  mutate(rhf = health_region)
-
-ssb_ds_filter <- ssb_ds
-ssb_ds_filter <- ssb_ds_filter %>%
+###################end of if chain for hd-qi 
+#removing objects that wont be used after data aquisition
+remove(ds_tables, file.list, key, query_list, query1, query2, query3, url,url_list, i)
+##treating ssb_ds
+#using _tmp to add in a variable for when the location name contains RHF
+#
+#
+#
+#
+#
+# Filtering and datawrangling starts here
+#
+#
+#
+#
+#
+#
+#
+#
+#
+ssb_ds_tmp <- ssb_ds
+ssb_ds_tmp <- ssb_ds_tmp %>%
   mutate(rhf = health_region) %>%
-  filter(grepl("HF", rhf))
+  filter(str_extract("RHF"))
+  filter(grepl("RHF" & "Helse", rhf))
+ssb_ds <- full_join(ssb_ds_tmp, ssb_ds)
 
-ssb_ds <- full_join(ssb_ds_filter, ssb_ds)
+str_extract(ssb_ds$health_region[240], "[^0-9]+")
+str_extract(ssb_ds$health_region[240],"+RHF$")
+
+
+#if we use the same function for HF the function will include RHF since HF is contained
+#within RHF. So we use an if statement that jumps over every RHF.
+ssb_ds_tmp <- ssb_ds_tmp %>%
+mutate(hf = NA)
+ssb_ds <- full_join(ssb_ds_tmp, ssb_ds)
+for(i in 1:NROW(ssb_ds)){
+  if (grepl("RHF", ssb_ds$rhf[i]) == TRUE) {
+    }  else {
+      if (grepl("HF", ssb_ds$health_region[i]) == TRUE) {
+      ssb_ds$hf[i] = ssb_ds$health_region[i]
+      }
+  }
+}
+
+#The SSB data uses all caps for the older classification of RHF, today there is only 4.
+ssb_ds_tmp <- ssb_ds %>%
+mutate(rhf_caps = NA)
+ssb_ds <- full_join(ssb_ds_tmp, ssb_ds)
+ssb_ds_tmp <- ssb_ds %>%
+  mutate(rhf_allcaps = C(""))
+ssb_ds <- full_join(ssb_ds_tmp, ssb_ds)
+
+#if location data is all caps, put it under var allcaps, if it isnt rhf_caps
+for(i in 1:NROW(ssb_ds)){
+if((ssb_ds$health_region[i]) == str_to_upper(ssb_ds$health_region[i])) {
+  ssb_ds$rhf_allcaps[i] = ssb_ds$health_region[i]
+  } else {ssb_ds$rhf_caps[i] = ssb_ds$health_region[i]
+  }
+}
+
+#making new column that is only for curewnt RHF - rhf_caps_4cat
+ssb_ds_tmp <- ssb_ds %>%
+  mutate(rhf_caps_4cat = NA)
+ssb_ds <- full_join(ssb_ds_tmp, ssb_ds)
+
+
+
+for(i in 1:NROW(ssb_ds)){
+  if (ssb_ds$rhf_allcaps[i] == ssb_ds$health_region[i]) {
+  } else {
+    ssb_ds$rhf_caps_4cat[i] = ssb_ds$health_region[i]
+    
+  }
+}
+
+for(i in 1:NROW(ssb_ds)){
+  if (is.na(ssb_ds$rhf_caps[i])) {
+  } else {
+  if ((ssb_ds$rhf_caps[i]) == (ssb_ds$health_region[i])) {
+  } else {
+    if (grepl("RHF", ssb_ds$health_region[i]) == TRUE) {
+      ssb_ds$rhf_caps_4cat[i] = ssb_ds$health_region[i]
+    }
+  }
+  }
+}
+
+for(i in 1:NROW(ssb_ds)){
+  if(is.na(ssb_ds$rhf_caps[i])){
+    ssb_ds$rhf_caps[i]=c("")
+  } else {
+    ssb_ds$rhf_caps[i]=NA
+  }
+}
+
+#quick for-loop to turn a white space character into NA, and NA to white space.
+for(i in 1:NROW(ssb_ds)){
+  if(is.na(ssb_ds$rhf[i])){
+    ssb_ds$rhf[i]=c("")
+  } else {
+    ssb_ds$rhf[i]=NA
+  }
+}
+
+unique_location_ssb_3 <- tibble(unique(ssb_ds$rhf_caps_4cat))
+
+
+
+ssb_ds<- filter(ssb_ds$rhf, grepl("RHF", health_region))
+
+ssb_ds <- ssb_ds %>%
+  mutate(hf = health_region)
+
+
+for(i in 1:NROW(ssb_ds)){
+  if(str_length(str_extract(ssb_ds$health_region[i],"[A-Z]"))>5) {
+    rhf_caps[i] = str_extract(ssb_ds$health_region[i],"[A-Z]")
+  }
+}
+
 
 ssb_ds <- ssb_ds %>%
   mutate(hf = health_region) 
@@ -185,8 +316,9 @@ ssb_ds$hf <- ssb_ds$hf %>%
 unique_parent_hd <- tibble(unique(hd_qi$parent_name))
 unique_location_hd <- tibble(unique(hd_qi$location_name))
 unique_location_ssb <- tibble(unique(ssb_ds$health_region))
+unique_location_ssb_2 <- tibble(unique(ssb_ds$rhf))
 
-unique_location <- full_join(unique_location_hd, unique_location_ssb)
+unique_location <- full_join(unique_location_ssb, unique_location_ssb_2)
 
 # Noticing that there is unique ids for older systems of classification.
 # Considering that the presentation explicitly mentions 4 RHF, and 20 HF. That is what
