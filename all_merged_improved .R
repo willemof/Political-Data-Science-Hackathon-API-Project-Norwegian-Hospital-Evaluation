@@ -22,6 +22,7 @@ url <- "https://data.ssb.no/api/v0/no/table/06922/"
 data <- ApiData(url, HelseReg = list("vs:HelseRegion4",c("H12_F","H01_F","983971652","983971636","983971660","983971679","983971687","983971695","983971709","993467049","983971717","983971725","983971733","983971741","983971680","983971700","983971768","883971752","983971776","983971784","894166762","H01_P","H02_F","983975208","883975162","983975178","983975305","983975224","983975186","987399708","983975348","883975332","983975216","983975283","983975267","983975259","983975200","983975240","H02_P","H12_P","H12_AV","H03_F","983974724","983974694","983974732","983974678","H03_P","H03_AV","H04_F","983974791","983974767","983974759","983974856","983974872","997005562","986523065","883974832","H04_P","H04_AV","H05_F","983974929","983974880","983974902","983974910","983974899","H05_P","H05_AV")), 
                 ContentsCode = list("item",c("Dognplass", "Liggedag", "Polikliniske","Dag")),
                 Tid= list("item", c("2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021")),
+                HelseTjenomr = FALSE,
                 returnApiQuery = TRUE )
 d.tmp <- POST(url , body = data, encode = "json", verbose())
 
@@ -48,7 +49,9 @@ url <- "https://data.ssb.no/api/v0/no/table/09548/"
 data <- ApiData(url, HelseReg = list("vs:HelseReg5", c("H12_F","991324968","993467049","983971652","983971636","983971680","983971700","983971768","883971752", "983971784","894166762","883975162","983975305","987399708","983975348","883975332","983975267","983975259","983975200","H12_P","H03_F","983658725","983974724", "983974694","983974732","983974678", "H03_P", "H04_F","983658776","983974791","983974767","983974759","986523065","883974832","997005562","998308615","H04_P","H05_F","883658752","983974929","983974880","983974910", "983974899","H05_P")),
                 Tid= list("item", c("2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021")),
                 ContentsCode = list("item", c("ArsvEksFrav")),
-                returnApiQuery = TRUE )
+                HelseTjenomr = FALSE,
+                Yrke = FALSE,
+                returnApiQuery = TRUE)
 d.tmp <- POST(url , body = data, encode = "json", verbose())
 
 
@@ -69,14 +72,13 @@ avtalte_arsverk_hospitals <- avtalte_arsverk_hospitals %>%
 # Merging 
 ssb_hospitals <- full_join(ssb_hospitals, avtalte_arsverk_hospitals, by = c("region", "ar"))
 
-options(encoding="UTF-8")
-library(httr)
-library(rjstat)
+
 url <- "https://data.ssb.no/api/v0/no/table/06464/"
 data <-        ApiData(url, HelseReg = list("vs:HelseForRegn2", c("H12_R","H01_R","883971752","983971652","983971636","983971680","983971700","983971768","983971784","894166762","993467049","H02_R","883975162","883975332","987399708","983975200","983975259","983975267","983975305","983975348","983971687","983971695","H03_R","983974678","983974694","983974724","983974732","H04_R","883974832","983974759","983974767","983974791","998308615","986523065","997005562","H05_R","983974880","983974899","983974902","983974910","983974929")), 
                        HelseRegnKost = list("item", c("000")),
                        Tid= list("item", c("2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021")),
                        ContentsCode = list("item", c("LopendeKr")),
+                       HelseRegnFunk = FALSE,
                        returnApiQuery = TRUE )
 d.tmp <- POST(url , body = data, encode = "json", verbose())
 
@@ -95,6 +97,55 @@ driftskostnader_hospitals <- driftskostnader_hospitals %>%
   select(region, ar, value_driftskostnader)
 # Adding another table to ssb_hospitals 
 ssb_hospitals <- full_join(ssb_hospitals, driftskostnader_hospitals, by = c("region", "ar"))
+
+##### SSB data on health regions 
+
+url <- "https://data.ssb.no/api/v0/no/table/06464/"
+data <- ApiData(url, HelseReg = list("vs:Helsereg3", c("H12", "H03", "H04", "H05")), 
+                HelseRegnKost = list("item", c("000")),
+                Tid= list("item", c("2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021")),
+                ContentsCode =  list("item", c("Per10000")),
+                HelseRegnFunk = FALSE,
+                returnApiQuery = TRUE )
+d.tmp <- POST(url , body = data, encode = "json", verbose())
+d.tmp <- fromJSONstat(content(d.tmp, "text"))
+driftskostnader <- do.call(rbind, d.tmp)
+
+
+url <- "https://data.ssb.no/api/v0/no/table/06922/"
+data <- ApiData(url, HelseReg = list("vs:HelseRegion3", c("H12", "H03", "H04", "H05")), 
+                ContentsCode = list("item",c("Dognplass")),
+                Tid = list("item", c("2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021")),
+                HelseTjenomr = FALSE,
+                returnApiQuery = TRUE )
+d.tmp <- POST(url , body = data, encode = "json", verbose())
+d.tmp <- fromJSONstat(content(d.tmp, "text"))
+dognplasser <- do.call(rbind, d.tmp)
+
+
+url <- "https://data.ssb.no/api/v0/no/table/09548/"
+data <- ApiData(url, HelseReg = list("vs:HelseReg6", c("H12", "H03", "H04", "H05")), 
+                ContentsCode = list("item", c("ArsvEksFrav")),
+                Tid = list("item", c("2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021")),
+                Yrke = FALSE,
+                HelseTjenomr = FALSE,
+                returnApiQuery = TRUE )
+d.tmp <- POST(url , body = data, encode = "json", verbose())
+d.tmp <- fromJSONstat(content(d.tmp, "text"))
+avtalte_arsverk <- do.call(rbind, d.tmp)
+
+
+url <- "https://data.ssb.no/api/v0/no/table/06922/"
+data <- ApiData(url, HelseReg = list("vs:HelseRegion3", c("H12", "H03", "H04", "H05")), 
+                ContentsCode = list("item",c("Liggedager", "Poliklinisk3", "Dagbehandling2")),
+                Tid = list("item", c("2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021")),
+                HelseTjenomr = FALSE,
+                returnApiQuery = TRUE )
+d.tmp <- POST(url , body = data, encode = "json", verbose())
+d.tmp <- fromJSONstat(content(d.tmp, "text"))
+ssb_data <- do.call(rbind, d.tmp)
+
+
 
 url <- "https://api.helsedirektoratet.no/innhold/nki/kvalitetsindikatorer/"
 key <- "1c50d76931ba48f69d177c18eaf3c6a8"
@@ -289,9 +340,6 @@ y <- function(x) {
   
 }	
 
-x[i] <- y(list_x[i])
-
-list_x <- lapply(list_x, y)  
 reinleggelse_regions <- y(reinleggelse_regions)
 reinleggelse_hospitals <- y(reinleggelse_hospitals)
 overlevelse_regions <- y(overlevelse_regions)
@@ -396,84 +444,9 @@ n_distinct(clean_qi$location_name)
 # There were a few negative values, so i changed them to positive 
 super_merge$value_utsettelse <- abs(super_merge$value_utsettelse)
 super_merge$value_korridor <- abs(super_merge$value_korridor)
-##### SSB data on health regions 
-
-url <- "https://data.ssb.no/api/v0/no/table/06464/"
 
 
 
-# spørring fra konsoll - kan være på en linje
-data <- ApiData(url, HelseReg = list("vs:Helsereg3", c("H12", "H03", "H04", "H05")), 
-                HelseRegnKost = list("item", c("000")),
-                Tid= list("item", c("2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021")),
-                ContentsCode =  list("item", c("Per10000")),
-                returnApiQuery = TRUE )
-
-d.tmp <- POST(url , body = data, encode = "json", verbose())
-d.tmp <- fromJSONstat(content(d.tmp, "text"))
-driftskostnader <- do.call(rbind, d.tmp)
-
-
-# Viser datasettet
-# Kostnader (mill. kr per 10 000 innbyggere) 
-driftskostnader 
-
-url <- "https://data.ssb.no/api/v0/no/table/06922/"
-
-
-
-# spørring fra konsoll - kan være på en linje
-data <- ApiData(url, HelseReg = list("vs:HelseRegion3", c("H12", "H03", "H04", "H05")), 
-                ContentsCode = list("item",c("Dognplass")),
-                Tid = list("item", c("2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021")),
-                HelseTjenomr = FALSE,
-                returnApiQuery = TRUE )
-
-
-d.tmp <- POST(url , body = data, encode = "json", verbose())
-d.tmp <- fromJSONstat(content(d.tmp, "text"))
-dognplasser <- do.call(rbind, d.tmp)
-
-
-url <- "https://data.ssb.no/api/v0/no/table/09548/"
-
-
-
-# spørring fra konsoll - kan være på en linje
-data <- ApiData(url, HelseReg = list("vs:HelseReg6", c("H12", "H03", "H04", "H05")), 
-                ContentsCode = list("item", c("ArsvEksFrav")),
-                Tid = list("item", c("2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021")),
-                Yrke = FALSE,
-                HelseTjenomr = FALSE,
-                returnApiQuery = TRUE )
-
-
-d.tmp <- POST(url , body = data, encode = "json", verbose())
-d.tmp <- fromJSONstat(content(d.tmp, "text"))
-
-avtalte_arsverk <- do.call(rbind, d.tmp)
-
-options(encoding="UTF-8")
-
-# henter rjstat bibliotek for behandling av JSON-stat
-url <- "https://data.ssb.no/api/v0/no/table/06922/"
-
-
-
-# spørring fra konsoll - kan være på en linje
-data <- ApiData(url, HelseReg = list("vs:HelseRegion3", c("H12", "H03", "H04", "H05")), 
-                ContentsCode = list("item",c("Liggedager", "Poliklinisk3", "Dagbehandling2")),
-                Tid = list("item", c("2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021")),
-                HelseTjenomr = FALSE,
-                returnApiQuery = TRUE )
-
-
-d.tmp <- POST(url , body = data, encode = "json", verbose())
-d.tmp <- fromJSONstat(content(d.tmp, "text"))
-ssb_data <- do.call(rbind, d.tmp)
-
-# Viser datasettet
-ssb_data
 
 # Cleaned the names 
 ssb_data <- ssb_data %>% 
