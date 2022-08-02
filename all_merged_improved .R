@@ -12,131 +12,22 @@ library(kableExtra)
 library(rjstat)
 library(dplyr)
 library(stringr)
+library(PxWebApiData)
+
 
 # To get the data from SSB, we got a link and query from SSB table. 
 url <- "https://data.ssb.no/api/v0/no/table/06922/"
 
 # spørring fra konsoll - kan være på en linje
-data <- '
-{
-  "query": [
-    {
-      "code": "HelseReg",
-      "selection": {
-        "filter": "vs:HelseRegion4",
-        "values": [
-          "H12_F",
-          "H01_F",
-          "983971652",
-          "983971636",
-          "983971660",
-          "983971679",
-          "983971687",
-          "983971695",
-          "983971709",
-          "993467049",
-          "983971717",
-          "983971725",
-          "983971733",
-          "983971741",
-          "983971680",
-          "983971700",
-          "983971768",
-          "883971752",
-          "983971776",
-          "983971784",
-          "894166762",
-          "H01_P",
-          "H02_F",
-          "983975208",
-          "883975162",
-          "983975178",
-          "983975305",
-          "983975224",
-          "983975186",
-          "987399708",
-          "983975348",
-          "883975332",
-          "983975216",
-          "983975283",
-          "983975267",
-          "983975259",
-          "983975200",
-          "983975240",
-          "H02_P",
-          "H12_P",
-          "H12_AV",
-          "H03_F",
-          "983974724",
-          "983974694",
-          "983974732",
-          "983974678",
-          "H03_P",
-          "H03_AV",
-          "H04_F",
-          "983974791",
-          "983974767",
-          "983974759",
-          "983974856",
-          "983974872",
-          "997005562",
-          "986523065",
-          "883974832",
-          "H04_P",
-          "H04_AV",
-          "H05_F",
-          "983974929",
-          "983974880",
-          "983974902",
-          "983974910",
-          "983974899",
-          "H05_P",
-          "H05_AV"
-        ]
-      }
-    },
-    {
-      "code": "ContentsCode",
-      "selection": {
-        "filter": "item",
-        "values": [
-          "Dognplass",
-          "Liggedag",
-          "Polikliniske",
-          "Dag"
-        ]
-      }
-    },
-    {
-      "code": "Tid",
-      "selection": {
-        "filter": "item",
-        "values": [
-          "2010",
-          "2011",
-          "2012",
-          "2013",
-          "2014",
-          "2015",
-          "2016",
-          "2017",
-          "2018",
-          "2019",
-          "2020",
-          "2021"
-        ]
-      }
-    }
-  ],
-  "response": {
-    "format": "json-stat2"
-  }
-}
-'
+data <- ApiData(url, HelseReg = list("vs:HelseRegion4",c("H12_F","H01_F","983971652","983971636","983971660","983971679","983971687","983971695","983971709","993467049","983971717","983971725","983971733","983971741","983971680","983971700","983971768","883971752","983971776","983971784","894166762","H01_P","H02_F","983975208","883975162","983975178","983975305","983975224","983975186","987399708","983975348","883975332","983975216","983975283","983975267","983975259","983975200","983975240","H02_P","H12_P","H12_AV","H03_F","983974724","983974694","983974732","983974678","H03_P","H03_AV","H04_F","983974791","983974767","983974759","983974856","983974872","997005562","986523065","883974832","H04_P","H04_AV","H05_F","983974929","983974880","983974902","983974910","983974899","H05_P","H05_AV")), 
+                ContentsCode = list("item",c("Dognplass", "Liggedag", "Polikliniske","Dag")),
+                Tid= list("item", c("2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021")),
+                returnApiQuery = TRUE )
 d.tmp <- POST(url , body = data, encode = "json", verbose())
 
-# To transform data from json file to a data frame 
-ssb_hospitals <- fromJSONstat(content(d.tmp, "text"))
+# Geting JSON into an R-object
+d.tmp <- fromJSONstat(content(d.tmp, "text"))
+ssb_hospitals  <- do.call(rbind, d.tmp)
 
 # Cleaning the names for easier use 
 ssb_hospitals <- ssb_hospitals %>% 
@@ -152,103 +43,19 @@ ssb_hospitals <- ssb_hospitals %>%
   clean_names()
 
 # Doing the same thing to other tables to get more data 
-options(encoding="UTF-8")
-library(httr)
-library(rjstat)
 url <- "https://data.ssb.no/api/v0/no/table/09548/"
 
-data <- '
-{
-  "query": [
-    {
-      "code": "HelseReg",
-      "selection": {
-        "filter": "vs:HelseReg5",
-        "values": [
-          "H12_F",
-          "991324968",
-          "993467049",
-          "983971652",
-          "983971636",
-          "983971680",
-          "983971700",
-          "983971768",
-          "883971752",
-          "983971784",
-          "894166762",
-          "883975162",
-          "983975305",
-          "987399708",
-          "983975348",
-          "883975332",
-          "983975267",
-          "983975259",
-          "983975200",
-          "H12_P",
-          "H03_F",
-          "983658725",
-          "983974724",
-          "983974694",
-          "983974732",
-          "983974678",
-          "H03_P",
-          "H04_F",
-          "983658776",
-          "983974791",
-          "983974767",
-          "983974759",
-          "986523065",
-          "883974832",
-          "997005562",
-          "998308615",
-          "H04_P",
-          "H05_F",
-          "883658752",
-          "983974929",
-          "983974880",
-          "983974910",
-          "983974899",
-          "H05_P"
-        ]
-      }
-    },
-    {
-      "code": "ContentsCode",
-      "selection": {
-        "filter": "item",
-        "values": [
-          "ArsvEksFrav"
-        ]
-      }
-    },
-    {
-      "code": "Tid",
-      "selection": {
-        "filter": "item",
-        "values": [
-          "2010",
-          "2011",
-          "2012",
-          "2013",
-          "2014",
-          "2015",
-          "2016",
-          "2017",
-          "2018",
-          "2019",
-          "2020",
-          "2021"
-        ]
-      }
-    }
-  ],
-  "response": {
-    "format": "json-stat2"
-  }
-}
-'
+data <- ApiData(url, HelseReg = list("vs:HelseReg5", c("H12_F","991324968","993467049","983971652","983971636","983971680","983971700","983971768","883971752", "983971784","894166762","883975162","983975305","987399708","983975348","883975332","983975267","983975259","983975200","H12_P","H03_F","983658725","983974724", "983974694","983974732","983974678", "H03_P", "H04_F","983658776","983974791","983974767","983974759","986523065","883974832","997005562","998308615","H04_P","H05_F","883658752","983974929","983974880","983974910", "983974899","H05_P")),
+                Tid= list("item", c("2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021")),
+                ContentsCode = list("item", c("ArsvEksFrav")),
+                returnApiQuery = TRUE )
 d.tmp <- POST(url , body = data, encode = "json", verbose())
-avtalte_arsverk_hospitals <- fromJSONstat(content(d.tmp, "text"))
+
+
+
+# Henter ut innholdet fra d.tmp som tekst deretter bearbeides av fromJSONstat
+d.tmp <- fromJSONstat(content(d.tmp, "text"))
+avtalte_arsverk_hospitals <- do.call(rbind, d.tmp)
 avtalte_arsverk_hospitals
 
 
@@ -266,105 +73,19 @@ options(encoding="UTF-8")
 library(httr)
 library(rjstat)
 url <- "https://data.ssb.no/api/v0/no/table/06464/"
-data <- '
-{
-  "query": [
-    {
-      "code": "HelseReg",
-      "selection": {
-        "filter": "vs:HelseForRegn2",
-        "values": [
-          "H12_R",
-          "H01_R",
-          "883971752",
-          "983971652",
-          "983971636",
-          "983971680",
-          "983971700",
-          "983971768",
-          "983971784",
-          "894166762",
-          "993467049",
-          "H02_R",
-          "883975162",
-          "883975332",
-          "987399708",
-          "983975200",
-          "983975259",
-          "983975267",
-          "983975305",
-          "983975348",
-          "983971687",
-          "983971695",
-          "H03_R",
-          "983974678",
-          "983974694",
-          "983974724",
-          "983974732",
-          "H04_R",
-          "883974832",
-          "983974759",
-          "983974767",
-          "983974791",
-          "998308615",
-          "986523065",
-          "997005562",
-          "H05_R",
-          "983974880",
-          "983974899",
-          "983974902",
-          "983974910",
-          "983974929"
-        ]
-      }
-    },
-    {
-      "code": "HelseRegnKost",
-      "selection": {
-        "filter": "item",
-        "values": [
-          "000"
-        ]
-      }
-    },
-    {
-      "code": "ContentsCode",
-      "selection": {
-        "filter": "item",
-        "values": [
-          "LopendeKr"
-        ]
-      }
-    },
-    {
-      "code": "Tid",
-      "selection": {
-        "filter": "item",
-        "values": [
-          "2010",
-          "2011",
-          "2012",
-          "2013",
-          "2014",
-          "2015",
-          "2016",
-          "2017",
-          "2018",
-          "2019",
-          "2020",
-          "2021"
-        ]
-      }
-    }
-  ],
-  "response": {
-    "format": "json-stat2"
-  }
-}
-'
+data <-        ApiData(url, HelseReg = list("vs:HelseForRegn2", c("H12_R","H01_R","883971752","983971652","983971636","983971680","983971700","983971768","983971784","894166762","993467049","H02_R","883975162","883975332","987399708","983975200","983975259","983975267","983975305","983975348","983971687","983971695","H03_R","983974678","983974694","983974724","983974732","H04_R","883974832","983974759","983974767","983974791","998308615","986523065","997005562","H05_R","983974880","983974899","983974902","983974910","983974929")), 
+                       HelseRegnKost = list("item", c("000")),
+                       Tid= list("item", c("2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021")),
+                       ContentsCode = list("item", c("LopendeKr")),
+                       returnApiQuery = TRUE )
 d.tmp <- POST(url , body = data, encode = "json", verbose())
-driftskostnader_hospitals <- fromJSONstat(content(d.tmp, "text"))
-driftskostnader_hospitals
+
+
+
+# Henter ut innholdet fra d.tmp som tekst deretter bearbeides av fromJSONstat
+d.tmp <- fromJSONstat(content(d.tmp, "text"))
+driftskostnader_hospitals <- do.call(rbind, d.tmp)
+
 
 driftskostnader_hospitals <- driftskostnader_hospitals %>% 
   clean_names()
@@ -565,14 +286,10 @@ fristbrudd_psykisk_hospitals <- fristbrudd_psykisk_hospitals %>%
 y <- function(x) {
    x <- x %>% 
      select(location_name, value, time_from)
+  
 }	
 
-
-list_x<- c(reinleggelse_regions ,reinleggelse_hospitals,overlevelse_regions ,overlevelse_hospitals ,utsettelse_regions,utsettelse_hospitals ,korridor_regions ,korridor_hospitals ,medvirkning_regions ,medvirkning_hospitals ,fristbrudd_regions ,fristbrudd_hospitals ,pasient_erfaringer_regions ,pasient_erfaringer_hospitals ,fristbrudd_psykisk_regions ,fristbrudd_psykisk_hospitals)
-list_x <-tibble(list_x)
-for(i in NROW(list_x)) {
-  list_x[i] <- y(list_x[i])
-}	
+x[i] <- y(list_x[i])
 
 list_x <- lapply(list_x, y)  
 reinleggelse_regions <- y(reinleggelse_regions)
@@ -686,72 +403,15 @@ url <- "https://data.ssb.no/api/v0/no/table/06464/"
 
 
 # spørring fra konsoll - kan være på en linje
-data <- '
-{
-  "query": [
-    {
-      "code": "HelseReg",
-      "selection": {
-        "filter": "vs:Helsereg3",
-        "values": [
-          "H12",
-          "H03",
-          "H04",
-          "H05"
-        ]
-      }
-    },
-    {
-      "code": "HelseRegnKost",
-      "selection": {
-        "filter": "item",
-        "values": [
-          "000"
-        ]
-      }
-    },
-    {
-      "code": "ContentsCode",
-      "selection": {
-        "filter": "item",
-        "values": [
-          "Per10000"
-        ]
-      }
-    },
-    {
-      "code": "Tid",
-      "selection": {
-        "filter": "item",
-        "values": [
-          "2010",
-          "2011",
-          "2012",
-          "2013",
-          "2014",
-          "2015",
-          "2016",
-          "2017",
-          "2018",
-          "2019",
-          "2020",
-          "2021"
-        ]
-      }
-    }
-  ],
-  "response": {
-    "format": "json-stat2"
-  }
-}
-'
+data <- ApiData(url, HelseReg = list("vs:Helsereg3", c("H12", "H03", "H04", "H05")), 
+                HelseRegnKost = list("item", c("000")),
+                Tid= list("item", c("2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021")),
+                ContentsCode =  list("item", c("Per10000")),
+                returnApiQuery = TRUE )
+
 d.tmp <- POST(url , body = data, encode = "json", verbose())
-
-
-
-# Henter ut innholdet fra d.tmp som tekst deretter bearbeides av fromJSONstat
-driftskostnader <- fromJSONstat(content(d.tmp, "text"))
-
+d.tmp <- fromJSONstat(content(d.tmp, "text"))
+driftskostnader <- do.call(rbind, d.tmp)
 
 
 # Viser datasettet
@@ -763,122 +423,35 @@ url <- "https://data.ssb.no/api/v0/no/table/06922/"
 
 
 # spørring fra konsoll - kan være på en linje
-data <- '
-{
-  "query": [
-    {
-      "code": "HelseReg",
-      "selection": {
-        "filter": "vs:HelseRegion3",
-        "values": [
-          "H12",
-          "H03",
-          "H04",
-          "H05"
-        ]
-      }
-    },
-    {
-      "code": "ContentsCode",
-      "selection": {
-        "filter": "item",
-        "values": [
-          "Dognplass"
-        ]
-      }
-    },
-    {
-      "code": "Tid",
-      "selection": {
-        "filter": "item",
-        "values": [
-          "2010",
-          "2011",
-          "2012",
-          "2013",
-          "2014",
-          "2015",
-          "2016",
-          "2017",
-          "2018",
-          "2019",
-          "2020",
-          "2021"
-        ]
-      }
-    }
-  ],
-  "response": {
-    "format": "json-stat2"
-  }
-}
-'
+data <- ApiData(url, HelseReg = list("vs:HelseRegion3", c("H12", "H03", "H04", "H05")), 
+                ContentsCode = list("item",c("Dognplass")),
+                Tid = list("item", c("2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021")),
+                HelseTjenomr = FALSE,
+                returnApiQuery = TRUE )
+
+
 d.tmp <- POST(url , body = data, encode = "json", verbose())
+d.tmp <- fromJSONstat(content(d.tmp, "text"))
+dognplasser <- do.call(rbind, d.tmp)
 
-
-
-# Henter ut innholdet fra d.tmp som tekst deretter bearbeides av fromJSONstatdø <- fromJSONstat(content(d.tmp, "text"))
-dognplasser <- fromJSONstat(content(d.tmp, "text"))
 
 url <- "https://data.ssb.no/api/v0/no/table/09548/"
 
 
 
 # spørring fra konsoll - kan være på en linje
-data <- '
-{
-  "query": [
-    {
-      "code": "HelseReg",
-      "selection": {
-        "filter": "vs:HelseReg6",
-        "values": [
-          "H12",
-          "H03",
-          "H04",
-          "H05"
-        ]
-      }
-    },
-    {
-      "code": "ContentsCode",
-      "selection": {
-        "filter": "item",
-        "values": [
-          "ArsvEksFrav"
-        ]
-      }
-    },
-    {
-      "code": "Tid",
-      "selection": {
-        "filter": "item",
-        "values": [
-          "2010",
-          "2011",
-          "2012",
-          "2013",
-          "2014",
-          "2015",
-          "2016",
-          "2017",
-          "2018",
-          "2019",
-          "2020",
-          "2021"
-        ]
-      }
-    }
-  ],
-  "response": {
-    "format": "json-stat2"
-  }
-}
-'
-d.tmp <- POST(url , body = data, encode = "json", verbose())
+data <- ApiData(url, HelseReg = list("vs:HelseReg6", c("H12", "H03", "H04", "H05")), 
+                ContentsCode = list("item", c("ArsvEksFrav")),
+                Tid = list("item", c("2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021")),
+                Yrke = FALSE,
+                HelseTjenomr = FALSE,
+                returnApiQuery = TRUE )
 
-# Henter ut innholdet fra d.tmp som tekst deretter bearbeides av fromJSONstat
-avtalte_arsverk <- fromJSONstat(content(d.tmp, "text"))
+
+d.tmp <- POST(url , body = data, encode = "json", verbose())
+d.tmp <- fromJSONstat(content(d.tmp, "text"))
+
+avtalte_arsverk <- do.call(rbind, d.tmp)
 
 options(encoding="UTF-8")
 
@@ -888,62 +461,16 @@ url <- "https://data.ssb.no/api/v0/no/table/06922/"
 
 
 # spørring fra konsoll - kan være på en linje
-data <- '
-{
-  "query": [
-    {
-      "code": "HelseReg",
-      "selection": {
-        "filter": "vs:HelseRegion3",
-        "values": [
-          "H12",
-          "H03",
-          "H04",
-          "H05"
-        ]
-      }
-    },
-    {
-      "code": "ContentsCode",
-      "selection": {
-        "filter": "item",
-        "values": [
-          "Liggedager",
-          "Poliklinisk3",
-          "Dagbehandling2"
-        ]
-      }
-    },
-    {
-      "code": "Tid",
-      "selection": {
-        "filter": "item",
-        "values": [
-          "2010",
-          "2011",
-          "2012",
-          "2013",
-          "2014",
-          "2015",
-          "2016",
-          "2017",
-          "2018",
-          "2019",
-          "2020",
-          "2021"
-        ]
-      }
-    }
-  ],
-  "response": {
-    "format": "json-stat2"
-  }
-}
-'
-d.tmp <- POST(url , body = data, encode = "json", verbose())
+data <- ApiData(url, HelseReg = list("vs:HelseRegion3", c("H12", "H03", "H04", "H05")), 
+                ContentsCode = list("item",c("Liggedager", "Poliklinisk3", "Dagbehandling2")),
+                Tid = list("item", c("2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021")),
+                HelseTjenomr = FALSE,
+                returnApiQuery = TRUE )
 
-# Henter ut innholdet fra d.tmp som tekst deretter bearbeides av fromJSONstat
-ssb_data <- fromJSONstat(content(d.tmp, "text"))
+
+d.tmp <- POST(url , body = data, encode = "json", verbose())
+d.tmp <- fromJSONstat(content(d.tmp, "text"))
+ssb_data <- do.call(rbind, d.tmp)
 
 # Viser datasettet
 ssb_data
