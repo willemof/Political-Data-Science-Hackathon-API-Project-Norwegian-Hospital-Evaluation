@@ -31,7 +31,7 @@ Text in () means that it is not supposed to end up in the report, it is the desc
 
 ```
 
-(Code from cleaning the data)
+(Code from cleaning the data) Izolda
 
 Data from SSB looked tidy and there were no missing values.
 Data from Helse Direktoratet was not as tidy and needed some transforming and deleting rows with a lot of missing values.
@@ -40,13 +40,17 @@ We used the function clean_names() to make the column names' syntax consistent.
 Dates from Helse Direktoratet were in a wrong format, so we had to use the format() function to change it to only year.
 
 We filtered the data using the filter() function to get the columns with the right variables and rows with the right hospitals.
-For some columns there were too few yearly observations so we removed the yearly filter and use the "tertialvis" period type and only chose the observations that are first in the year (another solution could be to use the mean() function on all the observations in the year.
+For some columns there were too few yearly observations so we removed the yearly filter and use the "tertialvis" period type and only chose the observations that are first in the year (another solution could be to use the mean() function on all the observations in the year).
 
-Both datasets had columns that were not useful for out analysis, so we used the select() function to choose the columns with regions/hospitals names, year and value.
+Both datasets had columns that were not useful for our analysis, so we used the select() function to choose the columns with regions/hospitals names, year and value.
 
 Then, we merged all the datasets from Helse Direktoratet and renamed the time column from "time_from" to "ar" for consistency with SSB dataset and so that it would be easier to merge the two big datasets.
 For SSB dataset, we renamed the "region" column into "location_name" for the same purpose.
 Some hospitals in Helse Direktoratet had too few observations so we deleted them with %notin% function.
+
+For the health region data we devided the number of man-years by population of the health region using the mutate() function.
+The number of consultations, man-years, 24-hour stays and day treatments were changed so that they would be representing the number of services per citizen of the health region.
+The names of health regions were not consistent from SSB and Helse Direktoratet, so we had to mutate them so that they would be the same in both datasets.
 
 ```{r}
 
@@ -54,7 +58,7 @@ Some hospitals in Helse Direktoratet had too few observations so we deleted them
 
 \section{Data description}
 
-Izolda for tables
+Izolda for tables, Chrisitne for plots
 
 (Offer some tables and visualizations, using this data to illuminate the problem statement) (Code from merging data and visualisation in here)
 
@@ -62,9 +66,9 @@ Izolda for tables
 
 ```
 
-\section{Empirical Strategy}
+\section{Empirical Strategy} Hedvig, Christine
 
-\section{Findings}
+\section{Findings and Main Results} Hedvig, Cristine
 
 (Present your final solution -- whether it is an indicator, a dashboard, a database, etc. Give some examples on how the solution could be used to solve the problem statement.) (Code from AIC analysis and linear regression in here)
 
@@ -72,6 +76,12 @@ Izolda for tables
 
 ```
 
-\section{Limitations and steps forward}
+\section{Limitations and steps forward} Hedvig, Christine
 
 Write something about what might be the limitations of the solution, and how one could go about to advance the project.
+
+(- hard to find the population per hospital)
+
+(-not able to make a for loop over the list of data frames)
+
+\section{Discussion/ Conclusion}
