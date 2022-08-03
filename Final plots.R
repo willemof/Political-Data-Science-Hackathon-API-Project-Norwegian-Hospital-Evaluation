@@ -11,6 +11,17 @@ super_merge <- super_merge %>%
          Hospital = location_name)
 
 
+#Creating different measures for relative productivity. The idea behind p1, p2, p3 is to divide output with input to measure productivity.
+super_merge <- super_merge %>% 
+  mutate(p1 = polikliniske_konsultasjoner/value_arsverk)
+
+super_merge <- super_merge %>% 
+  mutate(p2 = liggedager_oppholdsdogn/value_driftskostnader)
+
+super_merge <- super_merge %>% 
+  mutate(p3 = dagbehandlinger_oppholdsdager/value_arsverk)
+
+
 #Creating an object grouping hospitals and measuring change in productivity using p1, p2, p3
 #Using plotly to create interactive plots to show change in productivity using p1, p2, p3
 #Using p1
@@ -57,8 +68,27 @@ ggplotly(p3.plot)
 
 
 #Showing problems with using p1, p2, p3 
+#showing the productivity changes for Akershus sykehus throughout the years
+plot1 <- ggplot(super_merge %>% 
+                  filter(location_name == "Akershus universitetssykehus HF"), 
+                aes(x = ar, y= p1, color = location_name)) + geom_point() + theme_bw()  
+plot1
 
 
+plot2 <- ggplot(super_merge %>% 
+                  filter(location_name == "Akershus universitetssykehus HF"), 
+                aes(x = ar, y= p2, color = location_name)) + geom_point() + theme_bw()  
+plot2
+
+
+plot3 <- ggplot(super_merge %>% 
+                  filter(location_name == "Akershus universitetssykehus HF"), 
+                aes(x = ar, y= p3, color = location_name)) + geom_point() + theme_bw()  
+plot3
+
+#The three plots above show an overall increasing trend in relative productivity for Akershus universitetssykehus using p1, while the trend is decreasing when using p2. 
+#We therefore concluded that we cannot use p1, p2, p3 as reliable measurement of productivity for each hospital. Though, p1, p2, p3 can still be useful as measurements of comparisons when comparing individual hospitals. 
+#Especially for hospitals that specialize in the output (variable in the numerator place). 
 
 
 #Interactive plot showing each hospital's management costs (driftskostnader)
