@@ -547,6 +547,14 @@ merged_hd_regions <- merged_hd_regions %>%
   mutate(location_name = ifelse(location_name == "Helse Nord RHF", "Helseregion Nord", location_name)) 
 super_merge_regions <- full_join(merged_data, merged_hd_regions, by = c("location_name", "ar"))
 
+super_merge <- super_merge %>%
+  mutate(value_utsettelse = ifelse(value_utsettelse > 100 | value_utsettelse < 0,
+                                   NA, value_utsettelse ))
+super_merge <- super_merge %>%
+  mutate(value_korridor = ifelse(value_korridor > 100 | value_korridor < 0,
+                                 NA, value_korridor))
+
+
 super_merge_hospitals2019 <- super_merge %>%
   filter(ar==2019)
 lm_2019 <- lm(value_erfaringer ~ value_driftskostnader, data = super_merge_hospitals2019)
@@ -613,9 +621,9 @@ for (i in 2:ncol(super_merge_regions)) {
 
 # cross validation: 50% training set, 25% validation set and 25% test set 
 # Analysis 
-test1 <- lm(polikliniske_konsultasjoner ~ ., data = super_merge)
-test1
-summary(test1)
+#test1 <- lm(polikliniske_konsultasjoner ~ ., data = super_merge)
+#test1
+#summary(test1)
 #mean <- super_merge %>% 
 #  group_by(location_name) %>% 
 #  summarise(mean_kon = mean(polikliniske_konsultasjoner), mean_arsverk = mean(value_arsverk), mean_drifts = mean(value_driftskostnader))
