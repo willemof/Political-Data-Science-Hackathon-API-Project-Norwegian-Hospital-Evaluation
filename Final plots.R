@@ -11,34 +11,13 @@ super_merge <- super_merge %>%
          Hospital = location_name)
 
 
-#Creating different measures for relative productivity
-super_merge <- super_merge %>% 
-  mutate(p1 = polikliniske_konsultasjoner/value_arsverk)
-
-super_merge <- super_merge %>% 
-  mutate(p2 = liggedager_oppholdsdogn/value_driftskostnader)
-
-super_merge <- super_merge %>% 
-  mutate(p3 = dagbehandlinger_oppholdsdager/value_arsverk)
-
-
 #Creating an object grouping hospitals and measuring change in productivity using p1, p2, p3
+#Using plotly to create interactive plots to show change in productivity using p1, p2, p3
+#Using p1
 a1 <- super_merge %>% 
   group_by(Hospital) %>% 
   mutate(Productivity1= p1-lag(p1))
 
-a1 <- super_merge %>% 
-  group_by(Hospital) %>% 
-  mutate(Productivity2 = p2-lag(p2))
-
-a1 <- super_merge %>% 
-  group_by(Hospital) %>% 
-  mutate(Productivity3 = p3-lag(p3))
-
-
-
-#Using plotly to create interactive plots to show change in productivity using p1, p2, p3
-#Using p1 
 p1.plot <- a1 %>% 
   ggplot(aes(Year, Productivity1))+ 
   geom_point(aes(colour=Hospital))+
@@ -49,6 +28,10 @@ ggplotly(p1.plot)
 
 
 #Using p2
+a1 <- super_merge %>% 
+  group_by(Hospital) %>% 
+  mutate(Productivity2 = p2-lag(p2))
+
 p2.plot <- a1 %>% 
   ggplot(aes(Year, Productivity2))+ 
   geom_point(aes(colour=Hospital))+
@@ -59,6 +42,11 @@ ggplotly(p2.plot)
 
 
 #Using p3
+a1 <- super_merge %>% 
+  group_by(Hospital) %>% 
+  mutate(Productivity3 = p3-lag(p3))
+
+
 p3.plot <- a1 %>% 
   ggplot(aes(Year, Productivity3))+ 
   geom_point(aes(colour=Hospital))+
