@@ -14,6 +14,28 @@ Text in () means that it is not supposed to end up in the report, it is the desc
 
 (Repeat the problem statement and why it's important)
 
+Our case is from the Office of the Auditor General, entitled «Efficiency, productivity and quality in the health care system». 
+
+Our task is to compare the efficiency, productivity and quality between different hospitals and within each hospital. 
+
+
+They want: 
+    1. Descriptive analysis of what each region and each hospital produces based on input factors it has available. 
+        1. X = fixed assets and man-years (available resources) and Y=day treatments, consultations and 24 hour stays as measures of production
+        2. DRG another measure of activity
+    2. Break down effort and production per inhabitant for each hospital
+    3. Compare efficiency between each hospital
+    4. Can Norwegian hospitals be run more efficiently?
+        1. Yes, if one hospital all else equal is running more efficiently all else equal (resources, size, etc.)
+        2. 
+    5. What difference between quality and producitivity between hospitals? 
+        1. Quality = quality indicators, better than the other if provides better service 
+        2. Productivity = produces more this year with same resources as year before (t2-t1 hvor ressurser like)
+        3. 
+        4. Efficiency = similar goals with lower costs, costs = time spent, staff effort, money or unfortunate side effects (output/input)
+
+
+
 \section{Background}
 
 \section{Brainstorming}
@@ -84,4 +106,31 @@ Write something about what might be the limitations of the solution, and how one
 
 (-not able to make a for loop over the list of data frames)
 
+
+We encountered the following limitations in our project:
+
+There were missing or incomplete data. Running our code, we often encountered that R filtered certain hospitals because of missing values. There were four hospitals that consistently had data missing: XXXXX. It was also difficult to find the population per hospital. It is also possible there were some inconsistencies with the way data was measured judging from how large discrepancies were between some hospitals. We also wonder whether there are discrepancies between how each hospital for example counted number of consultations, how much time they spend on each patient. We also think that ordinal measurement of for example quality reported by each patient or staff is difficult to compare. 
+
+Some inconsistent reporting from hospitals, for example two hospitals in 2016. We had to therefore filter out these hospitals in our analysis.
+
+There were variables that we would have liked to use in our analysis to measure and analyze correlation between efficiency, productivity, and quality; but had not been collected. For example: number of misdiagnoses, staff satisfaction and motivation at work,  XXXX.
+
+We also encountered some technical difficulties. We had some problems running our data through the Office of the Auditor General’s app, PioneeR. We also were not able to make a for loop over the list of data frames. 
+
+We would have liked to achieve more, but due to time constraints we had to limit our project in scope. In the future, we recommend… XXX.
+
+
+
 \section{Discussion/ Conclusion}
+
+In this section we will discuss the case questions, definitions and parameters, the data/variables, our results, and limitations to our project. 
+
+We figured that the definitions for efficiency and productivity are similar. The difference is productivity having a time aspect in that the definition of becoming «more productive» is producing «more this year with the same resources as the year before». The definition of efficiency is achieving «similar goals with lower costs». We figured that if the goals and production are similar, then productivity and efficiency would measure the same. Therefore we focused on «productivity» and used this term interchangeably with «efficiency» throughout the project. 
+
+
+The question of whether Norwegian hospitals can be run more efficiently is interesting for us because this question is different from mere comparison, ie «is hospital A more efficient than hospital B» - a hospital can be more efficient or productive than the others but still be inefficient for not using its resources to its max potential. In simple terms, we figure that if there is a hospital that produces more all else being equal, then the answer is «yes, hospital A can be more efficient». The answer to this question can also be found looking at each hospital individually, which presupposes that there is a formula for figuring out the max productivity/efficiency in each hospital. Then each hospital that does not achieve this max productivity is inefficient. 
+
+The question of whether a hospital «can» be more efficient does not necessarily mean that a hospital «should» more efficient. This is where quality is an important consideration. 
+
+We thought the inclusion of measuring quality is important. In hospitals, we think it is important to question whether there is correlation between efficiency and quality. Should hospitals be run with a focus on «quality» or «efficiency»? Unfortunately, our data only shows correlation. Therefore we cannot say for sure whether efficiency has an effect on quality or if quality has an effect on productivity/efficiency. The data does not tell us if hospitals focusing on efficiency and productivity may lead to sacrifices in quality. Nor does the data tell us if hospitals focusing on quality leads to more spending, or if spending is due to something else.(???)
+
