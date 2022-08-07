@@ -10,7 +10,7 @@ figure1
 
 figure2 <- ggplot(super_merge, aes(x=ar, y=value_arsverk))+geom_point()
 figure2
-
+ 
 #creating a productivity feature called p1 
 super_merge <- super_merge %>% 
   mutate(p1 = polikliniske_konsultasjoner/value_arsverk)
